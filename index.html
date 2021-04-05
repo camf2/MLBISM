@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
+<!-- Coding style based on http://gist.github.com/mbostock/5977197 -->
+<head>
+    <title>MLB Statistics</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="titletext">Major League Baseball Statistics Since 1985</h1>
+    <div class="container">
+        <input type="radio" name="mousetype" value="regular" onclick="single()" checked> Single Select <br>
+        <input type="radio" name="mousetype" value="multi" onclick="multi()"> Multi Select <br>
+    </div>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="visualization.js"></script>
+
+<div  id="categories[]"> <br>
+</div>
+
+</body>
+</html>

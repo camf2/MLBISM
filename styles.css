@@ -1,0 +1,50 @@
+body {
+  font: 11px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.tooltip {
+  position: absolute;
+  width: 200px;
+  height: 28px;
+  pointer-events: none;
+}
+
+.line {
+  pointer-events: none;
+}
+
+.teamText{
+  pointer-events: none;
+}
+
+.background path {
+  fill: none;
+  stroke: #ddd;
+  shape-rendering: crispEdges;
+}
+
+.foreground path {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+#titletext {
+    font: Sans-serif;
+    text-align: center;
+}
+
+rect {
+    stroke-width: 3;
+}

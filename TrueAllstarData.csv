@@ -1,0 +1,2126 @@
+Number of Records,Franchise ID,Lg ID,Name First,Name Given,Name Last,playerID (Master.csv),Player ID,Pos Team ID,Starting Pos,Team ID,Year ID
+1,DET,AL,Jack,John Scott,Morris,morrija02,morrija02,DET,1,DET,1985
+1,CHW,AL,Carlton,Carlton Ernest,Fisk,fiskca01,fiskca01,CHA,2,CHA,1985
+1,BAL,AL,Eddie,Eddie Clarence,Murray,murraed02,murraed02,BAL,3,BAL,1985
+1,DET,AL,Lou,Louis Rodman,Whitaker,whitalo01,whitalo01,DET,4,DET,1985
+1,KCR,AL,George,George Howard,Brett,brettge01,brettge01,KCA,5,KCA,1985
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1985
+1,BOS,AL,Jim,James Edward,Rice,riceji01,riceji01,BOS,7,BOS,1985
+1,NYY,AL,Rickey,Rickey Nelson Henley,Henderson,henderi01,henderi01,NYA,8,NYA,1985
+1,NYY,AL,Dave,David Mark,Winfield,winfida01,winfida01,NYA,9,NYA,1985
+1,CHW,AL,Harold,Harold Douglas,Baines,baineha01,baineha01,CHA,,CHA,1985
+1,CLE,AL,Bert,Rik Aalbert,Blyleven,blylebe01,blylebe01,CLE,,CLE,1985
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,,BOS,1985
+1,SEA,AL,Phil,Philip Poole,Bradley,bradlph01,bradlph01,SEA,,SEA,1985
+1,MIN,AL,Tom,Thomas Andrew,Brunansky,brunato01,brunato01,MIN,,MIN,1985
+1,MIL,AL,Cecil,Cecil Celester,Cooper,coopece01,coopece01,ML4,,ML4,1985
+1,TOR,AL,Damaso,Damaso Domingo,Garcia,garcida01,garcida01,TOR,,TOR,1985
+1,BOS,AL,Rich,Richard Leo,Gedman,gedmari01,gedmari01,BOS,,BOS,1985
+1,DET,AL,Willie,Guillermo,Hernandez,hernawi01,hernawi01,DET,,DET,1985
+1,OAK,AL,Jay,Jay Canfield,Howell,howelja01,howelja01,OAK,,OAK,1985
+1,TOR,AL,Jimmy,James Edward,Key,keyji01,keyji01,TOR,,TOR,1985
+1,NYY,AL,Don,Donald Arthur,Mattingly,mattido01,mattido01,NYA,,NYA,1985
+1,MIL,AL,Paul,Paul Leo,Molitor,molitpa01,molitpa01,ML4,,ML4,1985
+1,ANA,AL,Donnie,Donnie Ray,Moore,mooredo01,mooredo01,CAL,,CAL,1985
+1,DET,AL,Lance,Lance Michael,Parrish,parrila02,parrila02,DET,,DET,1985
+1,DET,AL,Dan,Daniel Joseph,Petry,petryda01,petryda01,DET,,DET,1985
+1,TOR,AL,Dave,David Andrew,Stieb,stiebda01,stiebda01,TOR,,TOR,1985
+1,DET,AL,Alan,Alan Stuart,Trammell,trammal01,trammal01,DET,,DET,1985
+1,TEX,AL,Gary,Gary Lamell,Ward,wardga01,wardga01,TEX,,TEX,1985
+1,TOR,AL,Ernie,Leo Ernest,Whitt,whitter01,whitter01,TOR,,TOR,1985
+1,SDP,NL,LaMarr,Dewey LaMarr,Hoyt,hoytla01,hoytla01,SDN,1,SDN,1985
+1,SDP,NL,Terry,Terrance Edward,Kennedy,kennete02,kennete02,SDN,2,SDN,1985
+1,SDP,NL,Steve,Steven Patrick,Garvey,garvest01,garvest01,SDN,3,SDN,1985
+1,STL,NL,Tom,Thomas Mitchell,Herr,herrto01,herrto01,SLN,4,SLN,1985
+1,SDP,NL,Graig,Graig,Nettles,nettlgr01,nettlgr01,SDN,5,SDN,1985
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1985
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,7,SDN,1985
+1,ATL,NL,Dale,Dale Bryan,Murphy,murphda05,murphda05,ATL,8,ATL,1985
+1,NYM,NL,Darryl,Darryl Eugene,Strawberry,strawda01,strawda01,NYN,9,NYN,1985
+1,STL,NL,Joaquin,Joaquin,Andujar,andujjo01,andujjo01,SLN,,SLN,1985
+1,NYM,NL,Gary,Gary Edmund,Carter,cartega01,cartega01,NYN,,NYN,1985
+1,STL,NL,Jack,Jack Anthony,Clark,clarkja01,clarkja01,SLN,,SLN,1985
+1,HOU,NL,Jose,Jose,Cruz,cruzjo01,cruzjo01,HOU,,HOU,1985
+1,NYM,NL,Ron,Ronald Maurice,Darling,darliro01,darliro01,NYN,,NYN,1985
+1,SFG,NL,Scott,Scott William,Garrelts,garresc01,garresc01,SFN,,SFN,1985
+1,NYM,NL,Dwight,Dwight Eugene,Gooden,goodedw01,goodedw01,NYN,,NYN,1985
+1,SDP,NL,Rich,Richard Michael,Gossage,gossari01,gossari01,SDN,,SDN,1985
+1,LAD,NL,Pedro,Pedro,Guerrero,guerrpe01,guerrpe01,LAN,,LAN,1985
+1,STL,NL,Willie,Willie Dean,McGee,mcgeewi01,mcgeewi01,SLN,,SLN,1985
+1,CIN,NL,Dave,David Gene,Parker,parkeda01,parkeda01,CIN,,CIN,1985
+1,PIT,NL,Tony,Antonio Francesco,Pena,penato01,penato01,PIT,,PIT,1985
+1,WSN,NL,Tim,Timothy,Raines,raineti01,raineti01,MON,,MON,1985
+1,WSN,NL,Jeff,Jeffrey James,Reardon,reardje01,reardje01,MON,,MON,1985
+1,CIN,NL,Pete,Peter Edward,Rose,rosepe01,rosepe01,CIN,,CIN,1985
+1,HOU,NL,Nolan,Lynn Nolan,Ryan,ryanno01,ryanno01,HOU,,HOU,1985
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,,CHN,1985
+1,SDP,NL,Garry,Garry Lewis,Templeton,templga01,templga01,SDN,,SDN,1985
+1,LAD,NL,Fernando,Fernando,Valenzuela,valenfe01,valenfe01,LAN,,LAN,1985
+1,PHI,NL,Ozzie,Osvaldo Jose,Virgil,virgioz02,virgioz02,PHI,,PHI,1985
+1,WSN,NL,Tim,Timothy Charles,Wallach,wallati01,wallati01,MON,,MON,1985
+1,PHI,NL,Glenn,Glenn Dwight,Wilson,wilsogl01,wilsogl01,PHI,,PHI,1985
+1,BOS,AL,Roger,William Roger,Clemens,clemero02,clemero02,BOS,1,BOS,1986
+1,DET,AL,Lance,Lance Michael,Parrish,parrila02,parrila02,DET,2,DET,1986
+1,ANA,AL,Wally,Wallace Keith,Joyner,joynewa01,joynewa01,CAL,3,CAL,1986
+1,DET,AL,Lou,Louis Rodman,Whitaker,whitalo01,whitalo01,DET,4,DET,1986
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,5,BOS,1986
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1986
+1,NYY,AL,Rickey,Rickey Nelson Henley,Henderson,henderi01,henderi01,NYA,7,NYA,1986
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,8,MIN,1986
+1,NYY,AL,Dave,David Mark,Winfield,winfida01,winfida01,NYA,9,NYA,1986
+1,BAL,AL,Don,Donald William,Aase,aasedo01,aasedo01,BAL,,BAL,1986
+1,CHW,AL,Harold,Harold Douglas,Baines,baineha01,baineha01,CHA,,CHA,1986
+1,TOR,AL,Jesse,Jesse Lee,Barfield,barfije01,barfije01,TOR,,TOR,1986
+1,KCR,AL,George,George Howard,Brett,brettge01,brettge01,KCA,,KCA,1986
+1,OAK,AL,Jose,Jose,Canseco,cansejo01,cansejo01,OAK,,OAK,1986
+1,TOR,AL,Tony,Octavio Antonio,Fernandez,fernato01,fernato01,TOR,,TOR,1986
+1,BOS,AL,Rich,Richard Leo,Gedman,gedmari01,gedmari01,BOS,,BOS,1986
+1,DET,AL,Willie,Guillermo,Hernandez,hernawi01,hernawi01,DET,,DET,1986
+1,MIL,AL,Teddy,Teodoro Valenzuela,Higuera,higuete01,higuete01,ML4,,ML4,1986
+1,TEX,AL,Charlie,Charles Oliver,Hough,houghch01,houghch01,TEX,,TEX,1986
+1,CLE,AL,Brook,Brook Wallace,Jacoby,jacobbr01,jacobbr01,CLE,,CLE,1986
+1,NYY,AL,Don,Donald Arthur,Mattingly,mattido01,mattido01,NYA,,NYA,1986
+1,TOR,AL,Lloyd,Lloyd Anthony,Moseby,mosebll01,mosebll01,TOR,,TOR,1986
+1,BAL,AL,Eddie,Eddie Clarence,Murray,murraed02,murraed02,BAL,,BAL,1986
+1,SEA,AL,Jim,James Arthur,Presley,preslji01,preslji01,SEA,,SEA,1986
+1,BOS,AL,Jim,James Edward,Rice,riceji01,riceji01,BOS,,BOS,1986
+1,NYY,AL,Dave,David Allan,Righetti,righeda01,righeda01,NYA,,NYA,1986
+1,CLE,AL,Ken,Kenneth Marvin,Schrom,schroke01,schroke01,CLE,,CLE,1986
+1,KCR,AL,Frank,Frank,White,whitefr01,whitefr01,KCA,,KCA,1986
+1,ANA,AL,Mike,Michael Atwater,Witt,wittmi01,wittmi01,CAL,,CAL,1986
+1,NYM,NL,Dwight,Dwight Eugene,Gooden,goodedw01,goodedw01,NYN,1,NYN,1986
+1,NYM,NL,Gary,Gary Edmund,Carter,cartega01,cartega01,NYN,2,NYN,1986
+1,NYM,NL,Keith,Keith,Hernandez,hernake01,hernake01,NYN,3,NYN,1986
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1986
+1,PHI,NL,Mike,Michael Jack,Schmidt,schmimi01,schmimi01,PHI,5,PHI,1986
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1986
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,7,SDN,1986
+1,ATL,NL,Dale,Dale Bryan,Murphy,murphda05,murphda05,ATL,8,ATL,1986
+1,NYM,NL,Darryl,Darryl Eugene,Strawberry,strawda01,strawda01,NYN,9,NYN,1986
+1,HOU,NL,Kevin,Kevin Charles,Bass,basske01,basske01,HOU,,HOU,1986
+1,WSN,NL,Hubie,Hubert,Brooks,brookhu01,brookhu01,MON,,MON,1986
+1,SFG,NL,Chris,John Christopher,Brown,brownch02,brownch02,SFN,,SFN,1986
+1,SFG,NL,Chili,Charles Theodore,Davis,davisch01,davisch01,SFN,,SFN,1986
+1,HOU,NL,Glenn,Glenn Earle,Davis,davisgl01,davisgl01,HOU,,HOU,1986
+1,CHC,NL,Jody,Jody Richard,Davis,davisjo02,davisjo02,CHN,,CHN,1986
+1,NYM,NL,Sid,Charles Sidney,Fernandez,fernasi01,fernasi01,NYN,,NYN,1986
+1,CIN,NL,John,John Anthony,Franco,francjo01,francjo01,CIN,,CIN,1986
+1,SFG,NL,Mike,Michael Edward,Krukow,krukomi01,krukomi01,SFN,,SFN,1986
+1,CIN,NL,Dave,David Gene,Parker,parkeda01,parkeda01,CIN,,CIN,1986
+1,PIT,NL,Tony,Antonio Francesco,Pena,penato01,penato01,PIT,,PIT,1986
+1,WSN,NL,Tim,Timothy,Raines,raineti01,raineti01,MON,,MON,1986
+1,PHI,NL,Shane,Shane William,Rawley,rawlesh01,rawlesh01,PHI,,PHI,1986
+1,WSN,NL,Jeff,Jeffrey James,Reardon,reardje01,reardje01,MON,,MON,1986
+1,PIT,NL,Rick,Richard Alan,Rhoden,rhoderi01,rhoderi01,PIT,,PIT,1986
+1,LAD,NL,Steve,Stephen Louis,Sax,saxst01,saxst01,LAN,,LAN,1986
+1,HOU,NL,Mike,Michael Warren,Scott,scottmi03,scottmi03,HOU,,HOU,1986
+1,HOU,NL,Dave,David Stanley,Smith,smithda02,smithda02,HOU,,HOU,1986
+1,LAD,NL,Fernando,Fernando,Valenzuela,valenfe01,valenfe01,LAN,,LAN,1986
+1,KCR,AL,Bret,Bret William,Saberhagen,saberbr01,saberbr01,KCA,1,KCA,1987
+1,BAL,AL,Terry,Terrance Edward,Kennedy,kennete02,kennete02,BAL,2,BAL,1987
+1,NYY,AL,Don,Donald Arthur,Mattingly,mattido01,mattido01,NYA,3,NYA,1987
+1,NYY,AL,Willie,Willie Larry,Randolph,randowi01,randowi01,NYA,4,NYA,1987
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,5,BOS,1987
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1987
+1,TOR,AL,George,George Antonio,Bell,bellge02,bellge02,TOR,7,TOR,1987
+1,NYY,AL,Rickey,Rickey Nelson Henley,Henderson,henderi01,henderi01,NYA,8,NYA,1987
+1,NYY,AL,Dave,David Mark,Winfield,winfida01,winfida01,NYA,9,NYA,1987
+1,CHW,AL,Harold,Harold Douglas,Baines,baineha01,baineha01,CHA,,CHA,1987
+1,KCR,AL,George,George Howard,Brett,brettge01,brettge01,KCA,,KCA,1987
+1,BOS,AL,Dwight,Dwight Michael,Evans,evansdw01,evansdw01,BOS,,BOS,1987
+1,TOR,AL,Tony,Octavio Antonio,Fernandez,fernato01,fernato01,TOR,,TOR,1987
+1,TOR,AL,Tom,Thomas Anthony,Henke,henketo01,henketo01,TOR,,TOR,1987
+1,OAK,AL,Jay,Jay Canfield,Howell,howelja01,howelja01,OAK,,OAK,1987
+1,BOS,AL,Bruce,Bruce Vee,Hurst,hurstbr01,hurstbr01,BOS,,BOS,1987
+1,SEA,AL,Mark,Mark Edward,Langston,langsma01,langsma01,SEA,,SEA,1987
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,,OAK,1987
+1,DET,AL,Jack,John Scott,Morris,morrija02,morrija02,DET,,DET,1987
+1,DET,AL,Matt,Matthew Dodge,Nokes,nokesma01,nokesma01,DET,,DET,1987
+1,TEX,AL,Larry,Larry Alton,Parrish,parrila01,parrila01,TEX,,TEX,1987
+1,MIL,AL,Dan,Daniel Thomas,Plesac,plesada01,plesada01,ML4,,ML4,1987
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,,MIN,1987
+1,SEA,AL,Harold,Harold Craig,Reynolds,reynoha01,reynoha01,SEA,,SEA,1987
+1,NYY,AL,Dave,David Allan,Righetti,righeda01,righeda01,NYA,,NYA,1987
+1,KCR,AL,Kevin,Kevin Lee,Seitzer,seitzke01,seitzke01,KCA,,KCA,1987
+1,CLE,AL,Pat,Patrick Sean,Tabler,tablepa01,tablepa01,CLE,,CLE,1987
+1,DET,AL,Alan,Alan Stuart,Trammell,trammal01,trammal01,DET,,DET,1987
+1,DET,AL,Lou,Louis Rodman,Whitaker,whitalo01,whitalo01,DET,,DET,1987
+1,ANA,AL,Mike,Michael Atwater,Witt,wittmi01,wittmi01,CAL,,CAL,1987
+1,HOU,NL,Mike,Michael Warren,Scott,scottmi03,scottmi03,HOU,1,HOU,1987
+1,NYM,NL,Gary,Gary Edmund,Carter,cartega01,cartega01,NYN,2,NYN,1987
+1,STL,NL,Jack,Jack Anthony,Clark,clarkja01,clarkja01,SLN,3,SLN,1987
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1987
+1,PHI,NL,Mike,Michael Jack,Schmidt,schmimi01,schmimi01,PHI,5,PHI,1987
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1987
+1,CIN,NL,Eric,Eric Keith,Davis,daviser01,daviser01,CIN,7,CIN,1987
+1,CHC,NL,Andre,Andre Nolan,Dawson,dawsoan01,dawsoan01,CHN,8,CHN,1987
+1,NYM,NL,Darryl,Darryl Eugene,Strawberry,strawda01,strawda01,NYN,9,NYN,1987
+1,PHI,NL,Steve,Stephen Wayne,Bedrosian,bedrost01,bedrost01,PHI,,PHI,1987
+1,WSN,NL,Hubie,Hubert,Brooks,brookhu01,brookhu01,MON,,MON,1987
+1,CIN,NL,Bo,Baudilio Jose,Diaz,diazbo01,diazbo01,CIN,,CIN,1987
+1,NYM,NL,Sid,Charles Sidney,Fernandez,fernasi01,fernasi01,NYN,,NYN,1987
+1,CIN,NL,John,John Anthony,Franco,francjo01,francjo01,CIN,,CIN,1987
+1,LAD,NL,Pedro,Pedro,Guerrero,guerrpe01,guerrpe01,LAN,,LAN,1987
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,,SDN,1987
+1,NYM,NL,Keith,Keith,Hernandez,hernake01,hernake01,NYN,,NYN,1987
+1,LAD,NL,Orel,Orel Leonard,Hershiser,hershor01,hershor01,LAN,,LAN,1987
+1,SFG,NL,Jeffrey,Jeffrey,Leonard,leonaje01,leonaje01,SFN,,SFN,1987
+1,STL,NL,Willie,Willie Dean,McGee,mcgeewi01,mcgeewi01,SLN,,SLN,1987
+1,ATL,NL,Dale,Dale Bryan,Murphy,murphda05,murphda05,ATL,,ATL,1987
+1,WSN,NL,Tim,Timothy,Raines,raineti01,raineti01,MON,,MON,1987
+1,PIT,NL,Rick,Rickey Eugene,Reuschel,reuscri01,reuscri01,PIT,,PIT,1987
+1,PHI,NL,Juan,Juan Milton,Samuel,samueju01,samueju01,PHI,,PHI,1987
+1,CHC,NL,Lee,Lee Arthur,Smith,smithle02,smithle02,CHN,,CHN,1987
+1,CHC,NL,Rick,Richard Lee,Sutcliffe,sutclri01,sutclri01,CHN,,CHN,1987
+1,ATL,NL,Ozzie,Osvaldo Jose,Virgil,virgioz02,virgioz02,ATL,,ATL,1987
+1,WSN,NL,Tim,Timothy Charles,Wallach,wallati01,wallati01,MON,,MON,1987
+1,MIN,AL,Frank,Frank John,Viola,violafr01,violafr01,MIN,1,MIN,1988
+1,OAK,AL,Terry,Terry Lee,Steinbach,steinte01,steinte01,OAK,2,OAK,1988
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,3,OAK,1988
+1,MIL,AL,Paul,Paul Leo,Molitor,molitpa01,molitpa01,ML4,4,ML4,1988
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,5,BOS,1988
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1988
+1,OAK,AL,Jose,Jose,Canseco,cansejo01,cansejo01,OAK,7,OAK,1988
+1,NYY,AL,Rickey,Rickey Nelson Henley,Henderson,henderi01,henderi01,NYA,8,NYA,1988
+1,NYY,AL,Dave,David Mark,Winfield,winfida01,winfida01,NYA,9,NYA,1988
+1,DET,AL,Doyle,Doyle Lafayette,Alexander,alexado01,alexado01,DET,,DET,1988
+1,KCR,AL,George,George Howard,Brett,brettge01,brettge01,KCA,,KCA,1988
+1,BOS,AL,Roger,William Roger,Clemens,clemero02,clemero02,BOS,,BOS,1988
+1,OAK,AL,Dennis,Dennis Lee,Eckersley,eckerde01,eckerde01,OAK,,OAK,1988
+1,MIN,AL,Gary,Gary Joseph,Gaetti,gaettga01,gaettga01,MIN,,MIN,1988
+1,BOS,AL,Mike,Michael Lewis,Greenwell,greenmi01,greenmi01,BOS,,BOS,1988
+1,KCR,AL,Mark,Mark Steven,Gubicza,gubicma01,gubicma01,KCA,,KCA,1988
+1,CHW,AL,Ozzie,Oswaldo Jose,Guillen,guilloz01,guilloz01,CHA,,CHA,1988
+1,CLE,AL,Doug,Douglas Reid,Jones,jonesdo01,jonesdo01,CLE,,CLE,1988
+1,OAK,AL,Carney,Carney Ray,Lansford,lansfca01,lansfca01,OAK,,OAK,1988
+1,MIN,AL,Tim,Timothy Jon,Laudner,laudnti01,laudnti01,MIN,,MIN,1988
+1,NYY,AL,Don,Donald Arthur,Mattingly,mattido01,mattido01,NYA,,NYA,1988
+1,MIL,AL,Dan,Daniel Thomas,Plesac,plesada01,plesada01,ML4,,ML4,1988
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,,MIN,1988
+1,ANA,AL,Johnny,John Cornelius,Ray,rayjo01,rayjo01,CAL,,CAL,1988
+1,MIN,AL,Jeff,Jeffrey James,Reardon,reardje01,reardje01,MIN,,MIN,1988
+1,SEA,AL,Harold,Harold Craig,Reynolds,reynoha01,reynoha01,SEA,,SEA,1988
+1,TEX,AL,Jeff,Jeffrey Lee,Russell,russeje01,russeje01,TEX,,TEX,1988
+1,TOR,AL,Dave,David Andrew,Stieb,stiebda01,stiebda01,TOR,,TOR,1988
+1,KCR,AL,Kurt,Kurt Andrew,Stillwell,stillku01,stillku01,KCA,,KCA,1988
+1,DET,AL,Alan,Alan Stuart,Trammell,trammal01,trammal01,DET,,DET,1988
+1,NYM,NL,Dwight,Dwight Eugene,Gooden,goodedw01,goodedw01,NYN,1,NYN,1988
+1,NYM,NL,Gary,Gary Edmund,Carter,cartega01,cartega01,NYN,2,NYN,1988
+1,SFG,NL,Will,William Nuschler,Clark,clarkwi02,clarkwi02,SFN,3,SFN,1988
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1988
+1,PIT,NL,Bobby,Roberto Martin Antonio,Bonilla,bonilbo01,bonilbo01,PIT,5,PIT,1988
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1988
+1,STL,NL,Vince,Vincent Maurice,Coleman,colemvi01,colemvi01,SLN,7,SLN,1988
+1,CHC,NL,Andre,Andre Nolan,Dawson,dawsoan01,dawsoan01,CHN,8,CHN,1988
+1,NYM,NL,Darryl,Darryl Eugene,Strawberry,strawda01,strawda01,NYN,9,NYN,1988
+1,NYM,NL,David,David Brian,Cone,coneda01,coneda01,NYN,,NYN,1988
+1,SDP,NL,Mark,Mark William,Davis,davisma01,davisma01,SDN,,SDN,1988
+1,CHC,NL,Shawon,Shawon Donnell,Dunston,dunstsh01,dunstsh01,CHN,,CHN,1988
+1,WSN,NL,Andres,Andres Jose,Galarraga,galaran01,galaran01,MON,,MON,1988
+1,PHI,NL,Kevin,Kevin Frank,Gross,grosske01,grosske01,PHI,,PHI,1988
+1,LAD,NL,Orel,Orel Leonard,Hershiser,hershor01,hershor01,LAN,,LAN,1988
+1,CIN,NL,Danny,Danny Lynn,Jackson,jacksda02,jacksda02,CIN,,CIN,1988
+1,HOU,NL,Bob,Robert Wesley,Knepper,kneppbo01,kneppbo01,HOU,,HOU,1988
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,,CIN,1988
+1,CHC,NL,Vance,Vance Aaron,Law,lawva01,lawva01,CHN,,CHN,1988
+1,CHC,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,CHN,,CHN,1988
+1,STL,NL,Willie,Willie Dean,McGee,mcgeewi01,mcgeewi01,SLN,,SLN,1988
+1,CHC,NL,Rafael,Rafael,Palmeiro,palmera01,palmera01,CHN,,CHN,1988
+1,PHI,NL,Lance,Lance Michael,Parrish,parrila02,parrila02,PHI,,PHI,1988
+1,ATL,NL,Gerald,Gerald June,Perry,perryge01,perryge01,ATL,,ATL,1988
+1,CIN,NL,Chris,Christopher Andrew,Sabo,saboch01,saboch01,CIN,,CIN,1988
+1,SFG,NL,Robby,Robert Randall,Thompson,thompro01,thompro01,SFN,,SFN,1988
+1,PIT,NL,Andy,Andrew James,Van Slyke,vanslan01,vanslan01,PIT,,PIT,1988
+1,PIT,NL,Bob,Robert Vernon,Walk,walkbo01,walkbo01,PIT,,PIT,1988
+1,STL,NL,Todd,Todd Roland,Worrell,worreto01,worreto01,SLN,,SLN,1988
+1,OAK,AL,Dave,David Keith,Stewart,stewada01,stewada01,OAK,1,OAK,1989
+1,OAK,AL,Terry,Terry Lee,Steinbach,steinte01,steinte01,OAK,2,OAK,1989
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,3,OAK,1989
+1,TEX,AL,Julio,Julio Cesar,Franco,francju01,francju01,TEX,4,TEX,1989
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,5,BOS,1989
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1989
+1,KCR,AL,Bo,Vincent Edward,Jackson,jacksbo01,jacksbo01,KCA,7,KCA,1989
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,8,MIN,1989
+1,TEX,AL,Ruben,Ruben Angel,Sierra,sierrru01,sierrru01,TEX,9,TEX,1989
+1,CHW,AL,Harold,Harold Douglas,Baines,baineha01,baineha01,CHA,10,CHA,1989
+1,OAK,AL,Jose,Jose,Canseco,cansejo01,cansejo01,OAK,,OAK,1989
+1,TOR,AL,Tony,Octavio Antonio,Fernandez,fernato01,fernato01,TOR,,TOR,1989
+1,ANA,AL,Chuck,Charles Edward,Finley,finlech01,finlech01,CAL,,CAL,1989
+1,MIN,AL,Gary,Gary Joseph,Gaetti,gaettga01,gaettga01,MIN,,MIN,1989
+1,BOS,AL,Mike,Michael Lewis,Greenwell,greenmi01,greenmi01,BOS,,BOS,1989
+1,TOR,AL,Kelly,Kelly Wayne,Gruber,grubeke01,grubeke01,TOR,,TOR,1989
+1,KCR,AL,Mark,Mark Steven,Gubicza,gubicma01,gubicma01,KCA,,KCA,1989
+1,DET,AL,Mike,Michael Alan,Henneman,hennemi01,hennemi01,DET,,DET,1989
+1,CLE,AL,Doug,Douglas Reid,Jones,jonesdo01,jonesdo01,CLE,,CLE,1989
+1,SEA,AL,Jeffrey,Jeffrey,Leonard,leonaje01,leonaje01,SEA,,SEA,1989
+1,NYY,AL,Don,Donald Arthur,Mattingly,mattido01,mattido01,NYA,,NYA,1989
+1,OAK,AL,Mike,Michael Wayne,Moore,mooremi01,mooremi01,OAK,,OAK,1989
+1,MIL,AL,Dan,Daniel Thomas,Plesac,plesada01,plesada01,ML4,,ML4,1989
+1,TEX,AL,Jeff,Jeffrey Lee,Russell,russeje01,russeje01,TEX,,TEX,1989
+1,TEX,AL,Nolan,Lynn Nolan,Ryan,ryanno01,ryanno01,TEX,,TEX,1989
+1,NYY,AL,Steve,Stephen Louis,Sax,saxst01,saxst01,NYA,,NYA,1989
+1,CLE,AL,Greg,Forest Gregory,Swindell,swindgr01,swindgr01,CLE,,CLE,1989
+1,BAL,AL,Mickey,Mickey Lee,Tettleton,tettlmi01,tettlmi01,BAL,,BAL,1989
+1,ANA,AL,Devon,Devon Markes,White,whitede03,whitede03,CAL,,CAL,1989
+1,SFG,NL,Rick,Rickey Eugene,Reuschel,reuscri01,reuscri01,SFN,1,SFN,1989
+1,SDP,NL,Benito,Benito,Santiago,santibe01,santibe01,SDN,2,SDN,1989
+1,SFG,NL,Will,William Nuschler,Clark,clarkwi02,clarkwi02,SFN,3,SFN,1989
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1989
+1,NYM,NL,Howard,Howard Michael,Johnson,johnsho01,johnsho01,NYN,5,NYN,1989
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1989
+1,SFG,NL,Kevin,Kevin Darnell,Mitchell,mitchke01,mitchke01,SFN,7,SFN,1989
+1,CIN,NL,Eric,Eric Keith,Davis,daviser01,daviser01,CIN,8,CIN,1989
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,9,SDN,1989
+1,STL,NL,Pedro,Pedro,Guerrero,guerrpe01,guerrpe01,SLN,10,SLN,1989
+1,PIT,NL,Bobby,Roberto Martin Antonio,Bonilla,bonilbo01,bonilbo01,PIT,,PIT,1989
+1,WSN,NL,Tim,Timothy Philip,Burke,burketi01,burketi01,MON,,MON,1989
+1,STL,NL,Vince,Vincent Maurice,Coleman,colemvi01,colemvi01,SLN,,SLN,1989
+1,HOU,NL,Glenn,Glenn Earle,Davis,davisgl01,davisgl01,HOU,,HOU,1989
+1,SDP,NL,Mark,Mark William,Davis,davisma01,davisma01,SDN,,SDN,1989
+1,CHC,NL,Andre,Andre Nolan,Dawson,dawsoan01,dawsoan01,CHN,,CHN,1989
+1,CIN,NL,John,John Anthony,Franco,francjo01,francjo01,CIN,,CIN,1989
+1,PHI,NL,Von,Von Francis,Hayes,hayesvo01,hayesvo01,PHI,,PHI,1989
+1,LAD,NL,Orel,Orel Leonard,Hershiser,hershor01,hershor01,LAN,,LAN,1989
+1,LAD,NL,Jay,Jay Canfield,Howell,howelja01,howelja01,LAN,,LAN,1989
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,,CIN,1989
+1,STL,NL,Tony,Antonio Francesco,Pena,penato01,penato01,SLN,,SLN,1989
+1,LAD,NL,Willie,Willie Larry,Randolph,randowi01,randowi01,LAN,,LAN,1989
+1,PHI,NL,Mike,Michael Jack,Schmidt,schmimi01,schmimi01,PHI,,PHI,1989
+1,LAD,NL,Mike,Michael Lorri,Scioscia,sciosmi01,sciosmi01,LAN,,LAN,1989
+1,HOU,NL,Mike,Michael Warren,Scott,scottmi03,scottmi03,HOU,,HOU,1989
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,,ATL,1989
+1,NYM,NL,Darryl,Darryl Eugene,Strawberry,strawda01,strawda01,NYN,,NYN,1989
+1,CHC,NL,Rick,Richard Lee,Sutcliffe,sutclri01,sutclri01,CHN,,CHN,1989
+1,WSN,NL,Tim,Timothy Charles,Wallach,wallati01,wallati01,MON,,MON,1989
+1,CHC,NL,Mitch,Mitchell Steven,Williams,willimi02,willimi02,CHN,,CHN,1989
+1,OAK,AL,Bob,Robert Lynn,Welch,welchbo01,welchbo01,OAK,1,OAK,1990
+1,CLE,AL,Sandy,Santos,Alomar,alomasa02,alomasa02,CLE,2,CLE,1990
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,3,OAK,1990
+1,NYY,AL,Steve,Stephen Louis,Sax,saxst01,saxst01,NYA,4,NYA,1990
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,5,BOS,1990
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1990
+1,OAK,AL,Rickey,Rickey Nelson Henley,Henderson,henderi01,henderi01,OAK,7,OAK,1990
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1990
+1,OAK,AL,Jose,Jose,Canseco,cansejo01,cansejo01,OAK,9,OAK,1990
+1,TOR,AL,George,George Antonio,Bell,bellge02,bellge02,TOR,,TOR,1990
+1,BOS,AL,Ellis,Ellis Rena,Burks,burksel01,burksel01,BOS,,BOS,1990
+1,BOS,AL,Roger,William Roger,Clemens,clemero02,clemero02,BOS,,BOS,1990
+1,OAK,AL,Dennis,Dennis Lee,Eckersley,eckerde01,eckerde01,OAK,,OAK,1990
+1,DET,AL,Cecil,Cecil Grant,Fielder,fieldce01,fieldce01,DET,,DET,1990
+1,ANA,AL,Chuck,Charles Edward,Finley,finlech01,finlech01,CAL,,CAL,1990
+1,TEX,AL,Julio,Julio Cesar,Franco,francju01,francju01,TEX,,TEX,1990
+1,TOR,AL,Kelly,Kelly Wayne,Gruber,grubeke01,grubeke01,TOR,,TOR,1990
+1,CHW,AL,Ozzie,Oswaldo Jose,Guillen,guilloz01,guilloz01,CHA,,CHA,1990
+1,CLE,AL,Brook,Brook Wallace,Jacoby,jacobbr01,jacobbr01,CLE,,CLE,1990
+1,SEA,AL,Randy,Randall David,Johnson,johnsra05,johnsra05,SEA,,SEA,1990
+1,CLE,AL,Doug,Douglas Reid,Jones,jonesdo01,jonesdo01,CLE,,CLE,1990
+1,BAL,AL,Gregg,Greggory William,Olson,olsongr01,olsongr01,BAL,,BAL,1990
+1,MIL,AL,Dave,David Gene,Parker,parkeda01,parkeda01,ML4,,ML4,1990
+1,ANA,AL,Lance,Lance Michael,Parrish,parrila02,parrila02,CAL,,CAL,1990
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,,MIN,1990
+1,KCR,AL,Bret,Bret William,Saberhagen,saberbr01,saberbr01,KCA,,KCA,1990
+1,TOR,AL,Dave,David Andrew,Stieb,stiebda01,stiebda01,TOR,,TOR,1990
+1,CHW,AL,Bobby,Robert Thomas,Thigpen,thigpbo01,thigpbo01,CHA,,CHA,1990
+1,DET,AL,Alan,Alan Stuart,Trammell,trammal01,trammal01,DET,,DET,1990
+1,CIN,NL,Jack,Jack William,Armstrong,armstja01,armstja01,CIN,1,CIN,1990
+1,LAD,NL,Mike,Michael Lorri,Scioscia,sciosmi01,sciosmi01,LAN,2,LAN,1990
+1,SFG,NL,Will,William Nuschler,Clark,clarkwi02,clarkwi02,SFN,3,SFN,1990
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1990
+1,CIN,NL,Chris,Christopher Andrew,Sabo,saboch01,saboch01,CIN,5,CIN,1990
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1990
+1,SFG,NL,Kevin,Kevin Darnell,Mitchell,mitchke01,mitchke01,SFN,7,SFN,1990
+1,PHI,NL,Lenny,Leonard Kyle,Dykstra,dykstle01,dykstle01,PHI,8,PHI,1990
+1,CHC,NL,Andre,Andre Nolan,Dawson,dawsoan01,dawsoan01,CHN,9,CHN,1990
+1,SDP,NL,Roberto,Roberto,Alomar,alomaro01,alomaro01,SDN,,SDN,1990
+1,PIT,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,PIT,,PIT,1990
+1,PIT,NL,Bobby,Roberto Martin Antonio,Bonilla,bonilbo01,bonilbo01,PIT,,PIT,1990
+1,SFG,NL,Jeff,Jeffrey Hoke,Brantley,brantje01,brantje01,SFN,,SFN,1990
+1,CIN,NL,Rob,Robert Keith,Dibble,dibblro01,dibblro01,CIN,,CIN,1990
+1,CHC,NL,Shawon,Shawon Donnell,Dunston,dunstsh01,dunstsh01,CHN,,CHN,1990
+1,NYM,NL,John,John Anthony,Franco,francjo01,francjo01,NYN,,NYN,1990
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,,SDN,1990
+1,PIT,NL,Neal,Neal,Heaton,heatone01,heatone01,PIT,,PIT,1990
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,,CIN,1990
+1,WSN,NL,Dennis,Jose Dennis,Martinez,martide01,martide01,MON,,MON,1990
+1,LAD,NL,Ramon,Ramon Jaime,Martinez,martira02,martira02,LAN,,LAN,1990
+1,CIN,NL,Randy,Randall Kirk,Myers,myersra01,myersra01,CIN,,CIN,1990
+1,ATL,NL,Greg,Gregory William,Olson,olsongr02,olsongr02,ATL,,ATL,1990
+1,SDP,NL,Benito,Benito,Santiago,santibe01,santibe01,SDN,,SDN,1990
+1,HOU,NL,Dave,David Stanley,Smith,smithda02,smithda02,HOU,,HOU,1990
+1,NYM,NL,Darryl,Darryl Eugene,Strawberry,strawda01,strawda01,NYN,,NYN,1990
+1,NYM,NL,Frank,Frank John,Viola,violafr01,violafr01,NYN,,NYN,1990
+1,WSN,NL,Tim,Timothy Charles,Wallach,wallati01,wallati01,MON,,MON,1990
+1,SFG,NL,Matt,Matthew Derrick,Williams,willima04,willima04,SFN,,SFN,1990
+1,MIN,AL,Jack,John Scott,Morris,morrija02,morrija02,MIN,1,MIN,1991
+1,CLE,AL,Sandy,Santos,Alomar,alomasa02,alomasa02,CLE,2,CLE,1991
+1,DET,AL,Cecil,Cecil Grant,Fielder,fieldce01,fieldce01,DET,3,DET,1991
+1,TOR,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,TOR,4,TOR,1991
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,5,BOS,1991
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1991
+1,OAK,AL,Rickey,Rickey Nelson Henley,Henderson,henderi01,henderi01,OAK,7,OAK,1991
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1991
+1,OAK,AL,Dave,David Lee,Henderson,hendeda01,hendeda01,OAK,9,OAK,1991
+1,KCR,AL,Danny,Danilo,Tartabull,tartada01,tartada01,KCA,10,KCA,1991
+1,MIN,AL,Rick,Richard Warren,Aguilera,aguilri01,aguilri01,MIN,,MIN,1991
+1,OAK,AL,Harold,Harold Douglas,Baines,baineha01,baineha01,OAK,,OAK,1991
+1,TOR,AL,Joe,Joseph Chris,Carter,cartejo01,cartejo01,TOR,,TOR,1991
+1,BOS,AL,Roger,William Roger,Clemens,clemero02,clemero02,BOS,,BOS,1991
+1,OAK,AL,Dennis,Dennis Lee,Eckersley,eckerde01,eckerde01,OAK,,OAK,1991
+1,MIN,AL,Scott,Scott Gavin,Erickson,ericksc01,ericksc01,MIN,,MIN,1991
+1,CHW,AL,Carlton,Carlton Ernest,Fisk,fiskca01,fiskca01,CHA,,CHA,1991
+1,TEX,AL,Julio,Julio Cesar,Franco,francju01,francju01,TEX,,TEX,1991
+1,CHW,AL,Ozzie,Oswaldo Jose,Guillen,guilloz01,guilloz01,CHA,,CHA,1991
+1,ANA,AL,Bryan,Bryan Stanley,Harvey,harvebr01,harvebr01,CAL,,CAL,1991
+1,TOR,AL,Jimmy,James Edward,Key,keyji01,keyji01,TOR,,TOR,1991
+1,ANA,AL,Mark,Mark Edward,Langston,langsma01,langsma01,CAL,,CAL,1991
+1,CHW,AL,Jack,Jack Burns,McDowell,mcdowja01,mcdowja01,CHA,,CHA,1991
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,,OAK,1991
+1,MIL,AL,Paul,Paul Leo,Molitor,molitpa01,molitpa01,ML4,,ML4,1991
+1,TEX,AL,Rafael,Rafael,Palmeiro,palmera01,palmera01,TEX,,TEX,1991
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,,MIN,1991
+1,BOS,AL,Jeff,Jeffrey James,Reardon,reardje01,reardje01,BOS,,BOS,1991
+1,NYY,AL,Scott,Scott Douglas,Sanderson,sandesc01,sandesc01,NYA,,NYA,1991
+1,TEX,AL,Ruben,Ruben Angel,Sierra,sierrru01,sierrru01,TEX,,TEX,1991
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,1,ATL,1991
+1,SDP,NL,Benito,Benito,Santiago,santibe01,santibe01,SDN,2,SDN,1991
+1,SFG,NL,Will,William Nuschler,Clark,clarkwi02,clarkwi02,SFN,3,SFN,1991
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1991
+1,CIN,NL,Chris,Christopher Andrew,Sabo,saboch01,saboch01,CIN,5,CIN,1991
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1991
+1,WSN,NL,Ivan,Ivan,Calderon,caldeiv01,caldeiv01,MON,7,MON,1991
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,8,SDN,1991
+1,CHC,NL,Andre,Andre Nolan,Dawson,dawsoan01,dawsoan01,CHN,9,CHN,1991
+1,PIT,NL,Bobby,Roberto Martin Antonio,Bonilla,bonilbo01,bonilbo01,PIT,10,PIT,1991
+1,CHC,NL,George,George Antonio,Bell,bellge02,bellge02,CHN,,CHN,1991
+1,HOU,NL,Craig,Craig Alan,Biggio,biggicr01,biggicr01,HOU,,HOU,1991
+1,CIN,NL,Tom,Thomas Leo,Browning,brownto05,brownto05,CIN,,CIN,1991
+1,LAD,NL,Brett,Brett Morgan,Butler,butlebr01,butlebr01,LAN,,LAN,1991
+1,CIN,NL,Rob,Robert Keith,Dibble,dibblro01,dibblro01,CIN,,CIN,1991
+1,HOU,NL,Pete,Peter Thomas,Harnisch,harnipe01,harnipe01,HOU,,HOU,1991
+1,NYM,NL,Howard,Howard Michael,Johnson,johnsho01,johnsho01,NYN,,NYN,1991
+1,STL,NL,Felix,Domingo Felix Andujar,Jose,josefe01,josefe01,SLN,,SLN,1991
+1,PHI,NL,John,John Martin,Kruk,krukjo01,krukjo01,PHI,,PHI,1991
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,,CIN,1991
+1,WSN,NL,Dennis,Jose Dennis,Martinez,martide01,martide01,MON,,MON,1991
+1,LAD,NL,Mike,Michael Thomas,Morgan,morgami01,morgami01,LAN,,LAN,1991
+1,LAD,NL,Eddie,Eddie Clarence,Murray,murraed02,murraed02,LAN,,LAN,1991
+1,CIN,NL,Paul,Paul Andrew,O'Neill,oneilpa01,oneilpa01,CIN,,CIN,1991
+1,LAD,NL,Juan,Juan Milton,Samuel,samueju01,samueju01,LAN,,LAN,1991
+1,PIT,NL,John,John Patrick,Smiley,smilejo01,smilejo01,PIT,,PIT,1991
+1,STL,NL,Lee,Lee Arthur,Smith,smithle02,smithle02,SLN,,SLN,1991
+1,LAD,NL,Darryl,Darryl Eugene,Strawberry,strawda01,strawda01,LAN,,LAN,1991
+1,NYM,NL,Frank,Frank John,Viola,violafr01,violafr01,NYN,,NYN,1991
+1,TEX,AL,Kevin,James Kevin,Brown,brownke01,brownke01,TEX,1,TEX,1992
+1,CLE,AL,Sandy,Santos,Alomar,alomasa02,alomasa02,CLE,2,CLE,1992
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,3,OAK,1992
+1,TOR,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,TOR,4,TOR,1992
+1,BOS,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,BOS,5,BOS,1992
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1992
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,7,MIN,1992
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1992
+1,TOR,AL,Joe,Joseph Chris,Carter,cartejo01,cartejo01,TOR,9,TOR,1992
+1,MIN,AL,Rick,Richard Warren,Aguilera,aguilri01,aguilri01,MIN,,MIN,1992
+1,BAL,AL,Brady,Brady Kevin,Anderson,anderbr01,anderbr01,BAL,,BAL,1992
+1,CLE,AL,Carlos,Carlos Obed,Baerga,baergca01,baergca01,CLE,,CLE,1992
+1,OAK,AL,Jose,Jose,Canseco,cansejo01,cansejo01,OAK,,OAK,1992
+1,BOS,AL,Roger,William Roger,Clemens,clemero02,clemero02,BOS,,BOS,1992
+1,OAK,AL,Dennis,Dennis Lee,Eckersley,eckerde01,eckerde01,OAK,,OAK,1992
+1,DET,AL,Travis,David Travis,Fryman,frymatr01,frymatr01,DET,,DET,1992
+1,TOR,AL,Juan,Juan Andres,Guzman,guzmaju01,guzmaju01,TOR,,TOR,1992
+1,NYY,AL,Roberto,Roberto Conrado,Kelly,kellyro01,kellyro01,NYA,,NYA,1992
+1,MIN,AL,Chuck,Edward Charles,Knoblauch,knoblch01,knoblch01,MIN,,MIN,1992
+1,ANA,AL,Mark,Mark Edward,Langston,langsma01,langsma01,CAL,,CAL,1992
+1,SEA,AL,Edgar,Edgar,Martinez,martied01,martied01,SEA,,SEA,1992
+1,CHW,AL,Jack,Jack Burns,McDowell,mcdowja01,mcdowja01,CHA,,CHA,1992
+1,MIL,AL,Paul,Paul Leo,Molitor,molitpa01,molitpa01,ML4,,ML4,1992
+1,KCR,AL,Jeff,Jeffrey Thomas,Montgomery,montgje01,montgje01,KCA,,KCA,1992
+1,BAL,AL,Mike,Michael Cole,Mussina,mussimi01,mussimi01,BAL,,BAL,1992
+1,CLE,AL,Charles,Charles Harrison,Nagy,nagych01,nagych01,CLE,,CLE,1992
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,,TEX,1992
+1,TEX,AL,Ruben,Ruben Angel,Sierra,sierrru01,sierrru01,TEX,,TEX,1992
+1,CHW,AL,Robin,Robin Mark,Ventura,venturo01,venturo01,CHA,,CHA,1992
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,1,ATL,1992
+1,SDP,NL,Benito,Benito,Santiago,santibe01,santibe01,SDN,2,SDN,1992
+1,SDP,NL,Fred,Frederick Stanley,McGriff,mcgrifr01,mcgrifr01,SDN,3,SDN,1992
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1992
+1,ATL,NL,Terry,Terry Lee,Pendleton,pendlte01,pendlte01,ATL,5,ATL,1992
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1992
+1,PIT,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,PIT,7,PIT,1992
+1,PIT,NL,Andy,Andrew James,Van Slyke,vanslan01,vanslan01,PIT,8,PIT,1992
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,9,SDN,1992
+1,HOU,NL,Craig,Craig Alan,Biggio,biggicr01,biggicr01,HOU,,HOU,1992
+1,CIN,NL,Norm,Norman Wood,Charlton,charlno01,charlno01,CIN,,CIN,1992
+1,SFG,NL,Will,William Nuschler,Clark,clarkwi02,clarkwi02,SFN,,SFN,1992
+1,NYM,NL,David,David Brian,Cone,coneda01,coneda01,NYN,,NYN,1992
+1,PHI,NL,Darren,Darren Arthur,Daulton,daultda01,daultda01,PHI,,PHI,1992
+1,SDP,NL,Tony,Octavio Antonio,Fernandez,fernato01,fernato01,SDN,,SDN,1992
+1,ATL,NL,Ron,Ronald Edwin,Gant,gantro01,gantro01,ATL,,ATL,1992
+1,HOU,NL,Doug,Douglas Reid,Jones,jonesdo01,jonesdo01,HOU,,HOU,1992
+1,PHI,NL,John,John Martin,Kruk,krukjo01,krukjo01,PHI,,PHI,1992
+1,CHC,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,CHN,,CHN,1992
+1,WSN,NL,Dennis,Jose Dennis,Martinez,martide01,martide01,MON,,MON,1992
+1,STL,NL,Tom,Thomas Alan,Pagnozzi,pagnoto01,pagnoto01,SLN,,SLN,1992
+1,CIN,NL,Bip,Leon Joseph,Roberts,roberbi01,roberbi01,CIN,,CIN,1992
+1,LAD,NL,Mike,Michael Tyrone,Sharperson,sharpmi01,sharpmi01,LAN,,LAN,1992
+1,SDP,NL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,SDN,,SDN,1992
+1,STL,NL,Lee,Lee Arthur,Smith,smithle02,smithle02,SLN,,SLN,1992
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,,ATL,1992
+1,STL,NL,Bob,Robert Alan,Tewksbury,tewksbo01,tewksbo01,SLN,,SLN,1992
+1,WSN,NL,Larry,Larry Kenneth Robert,Walker,walkela01,walkela01,MON,,MON,1992
+1,ANA,AL,Mark,Mark Edward,Langston,langsma01,langsma01,CAL,1,CAL,1993
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,1993
+1,TOR,AL,John,John Garrett,Olerud,olerujo01,olerujo01,TOR,3,TOR,1993
+1,TOR,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,TOR,4,TOR,1993
+1,NYY,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,NYA,5,NYA,1993
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1993
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,7,MIN,1993
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1993
+1,TOR,AL,Joe,Joseph Chris,Carter,cartejo01,cartejo01,TOR,9,TOR,1993
+1,TOR,AL,Paul,Paul Leo,Molitor,molitpa01,molitpa01,TOR,10,TOR,1993
+1,MIN,AL,Rick,Richard Warren,Aguilera,aguilri01,aguilri01,MIN,,MIN,1993
+1,CLE,AL,Carlos,Carlos Obed,Baerga,baergca01,baergca01,CLE,,CLE,1993
+1,CLE,AL,Albert,Albert Jojuan,Belle,belleal01,belleal01,CLE,,CLE,1993
+1,BOS,AL,Scott,Scott Kendrick,Cooper,coopesc01,coopesc01,BOS,,BOS,1993
+1,DET,AL,Cecil,Cecil Grant,Fielder,fieldce01,fieldce01,DET,,DET,1993
+1,DET,AL,Travis,David Travis,Fryman,frymatr01,frymatr01,DET,,DET,1993
+1,TEX,AL,Juan,Juan Alberto,Gonzalez,gonzaju03,gonzaju03,TEX,,TEX,1993
+1,TOR,AL,Pat,Patrick George,Hentgen,hentgpa01,hentgpa01,TOR,,TOR,1993
+1,SEA,AL,Randy,Randall David,Johnson,johnsra05,johnsra05,SEA,,SEA,1993
+1,NYY,AL,Jimmy,James Edward,Key,keyji01,keyji01,NYA,,NYA,1993
+1,CHW,AL,Jack,Jack Burns,McDowell,mcdowja01,mcdowja01,CHA,,CHA,1993
+1,KCR,AL,Jeff,Jeffrey Thomas,Montgomery,montgje01,montgje01,KCA,,KCA,1993
+1,BAL,AL,Mike,Michael Cole,Mussina,mussimi01,mussimi01,BAL,,BAL,1993
+1,OAK,AL,Terry,Terry Lee,Steinbach,steinte01,steinte01,OAK,,OAK,1993
+1,CHW,AL,Frank,Frank Edward,Thomas,thomafr04,thomafr04,CHA,,CHA,1993
+1,MIL,AL,Greg,Gregory Lamont,Vaughn,vaughgr01,vaughgr01,ML4,,ML4,1993
+1,TOR,AL,Duane,Roy Duane,Ward,warddu01,warddu01,TOR,,TOR,1993
+1,TOR,AL,Devon,Devon Markes,White,whitede03,whitede03,TOR,,TOR,1993
+1,PHI,NL,Terry,Terence John,Mulholland,mulhote01,mulhote01,PHI,1,PHI,1993
+1,PHI,NL,Darren,Darren Arthur,Daulton,daultda01,daultda01,PHI,2,PHI,1993
+1,PHI,NL,John,John Martin,Kruk,krukjo01,krukjo01,PHI,3,PHI,1993
+1,CHC,NL,Ryne,Ryne Dee,Sandberg,sandbry01,sandbry01,CHN,4,CHN,1993
+1,FLO,NL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,FLO,5,FLO,1993
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,6,CIN,1993
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,1993
+1,WSN,NL,Marquis,Marquis Deon,Grissom,grissma02,grissma02,MON,8,MON,1993
+1,ATL,NL,David,David Christopher,Justice,justida01,justida01,ATL,9,ATL,1993
+1,CHC,NL,Mark,Mark Eugene,Grace,gracema01,gracema01,CHN,10,CHN,1993
+1,ATL,NL,Steve,Steven Thomas,Avery,averyst01,averyst01,ATL,,ATL,1993
+1,SFG,NL,Rod,Rodney Roy,Beck,beckro01,beckro01,SFN,,SFN,1993
+1,PIT,NL,Jay,Jay Stuart,Bell,bellja01,bellja01,PIT,,PIT,1993
+1,SDP,NL,Andy,Andrew Charles,Benes,benesan01,benesan01,SDN,,SDN,1993
+1,ATL,NL,Jeff,Jeffrey Michael,Blauser,blausje01,blausje01,ATL,,ATL,1993
+1,NYM,NL,Bobby,Roberto Martin Antonio,Bonilla,bonilbo01,bonilbo01,NYN,,NYN,1993
+1,SFG,NL,John,John David,Burkett,burkejo03,burkejo03,SFN,,SFN,1993
+1,COL,NL,Andres,Andres Jose,Galarraga,galaran01,galaran01,COL,,COL,1993
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,,ATL,1993
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,,SDN,1993
+1,FLO,NL,Bryan,Bryan Stanley,Harvey,harvebr01,harvebr01,FLO,,FLO,1993
+1,PHI,NL,Dave,David Michael,Hollins,hollida01,hollida01,PHI,,PHI,1993
+1,STL,NL,Gregg,Gregory Scott,Jefferies,jeffegr01,jeffegr01,SLN,,SLN,1993
+1,CIN,NL,Roberto,Roberto Conrado,Kelly,kellyro01,kellyro01,CIN,,CIN,1993
+1,HOU,NL,Darryl,Darryl Andrew,Kile,kileda01,kileda01,HOU,,HOU,1993
+1,LAD,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,LAN,,LAN,1993
+1,STL,NL,Lee,Lee Arthur,Smith,smithle02,smithle02,SLN,,SLN,1993
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,,ATL,1993
+1,SFG,NL,Robby,Robert Randall,Thompson,thompro01,thompro01,SFN,,SFN,1993
+1,PIT,NL,Andy,Andrew James,Van Slyke,vanslan01,vanslan01,PIT,,PIT,1993
+1,NYY,AL,Jimmy,James Edward,Key,keyji01,keyji01,NYA,1,NYA,1994
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,1994
+1,CHW,AL,Frank,Frank Edward,Thomas,thomafr04,thomafr04,CHA,3,CHA,1994
+1,TOR,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,TOR,4,TOR,1994
+1,NYY,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,NYA,5,NYA,1994
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1994
+1,TOR,AL,Joe,Joseph Chris,Carter,cartejo01,cartejo01,TOR,7,TOR,1994
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1994
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,9,MIN,1994
+1,CHW,AL,Wilson,Wilson Eduardo,Alvarez,alvarwi01,alvarwi01,CHA,,CHA,1994
+1,CLE,AL,Albert,Albert Jojuan,Belle,belleal01,belleal01,CLE,,CLE,1994
+1,CHW,AL,Jason,Jason Phillip,Bere,bereja01,bereja01,CHA,,CHA,1994
+1,MIL,AL,Ricky,Ricardo Ricky,Bones,bonesri01,bonesri01,ML4,,ML4,1994
+1,TEX,AL,Will,William Nuschler,Clark,clarkwi02,clarkwi02,TEX,,TEX,1994
+1,KCR,AL,David,David Brian,Cone,coneda01,coneda01,KCA,,KCA,1994
+1,BOS,AL,Scott,Scott Kendrick,Cooper,coopesc01,coopesc01,BOS,,BOS,1994
+1,ANA,AL,Chili,Charles Theodore,Davis,davisch01,davisch01,CAL,,CAL,1994
+1,DET,AL,Travis,David Travis,Fryman,frymatr01,frymatr01,DET,,DET,1994
+1,TOR,AL,Pat,Patrick George,Hentgen,hentgpa01,hentgpa01,TOR,,TOR,1994
+1,SEA,AL,Randy,Randall David,Johnson,johnsra05,johnsra05,SEA,,SEA,1994
+1,MIN,AL,Chuck,Edward Charles,Knoblauch,knoblch01,knoblch01,MIN,,MIN,1994
+1,CLE,AL,Kenny,Kenneth,Lofton,loftoke01,loftoke01,CLE,,CLE,1994
+1,TOR,AL,Paul,Paul Leo,Molitor,molitpa01,molitpa01,TOR,,TOR,1994
+1,BAL,AL,Mike,Michael Cole,Mussina,mussimi01,mussimi01,BAL,,BAL,1994
+1,NYY,AL,Paul,Paul Andrew,O'Neill,oneilpa01,oneilpa01,NYA,,NYA,1994
+1,OAK,AL,Ruben,Ruben Angel,Sierra,sierrru01,sierrru01,OAK,,OAK,1994
+1,BAL,AL,Lee,Lee Arthur,Smith,smithle02,smithle02,BAL,,BAL,1994
+1,DET,AL,Mickey,Mickey Lee,Tettleton,tettlmi01,tettlmi01,DET,,DET,1994
+1,ATL,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,ATL,1,ATL,1994
+1,LAD,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,LAN,2,LAN,1994
+1,STL,NL,Gregg,Gregory Scott,Jefferies,jeffegr01,jeffegr01,SLN,3,SLN,1994
+1,PHI,NL,Mariano,Mariano,Duncan,duncama01,duncama01,PHI,4,PHI,1994
+1,SFG,NL,Matt,Matthew Derrick,Williams,willima04,willima04,SFN,5,SFN,1994
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,6,SLN,1994
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,1994
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,8,SDN,1994
+1,ATL,NL,David,David Christopher,Justice,justida01,justida01,ATL,9,ATL,1994
+1,WSN,NL,Moises,Moises Rojas,Alou,aloumo01,aloumo01,MON,,MON,1994
+1,HOU,NL,Jeff,Jeffrey Robert,Bagwell,bagweje01,bagweje01,HOU,,HOU,1994
+1,SFG,NL,Rod,Rodney Roy,Beck,beckro01,beckro01,SFN,,SFN,1994
+1,COL,NL,Dante,Alphonse Dante,Bichette,bicheda01,bicheda01,COL,,COL,1994
+1,HOU,NL,Craig,Craig Alan,Biggio,biggicr01,biggicr01,HOU,,HOU,1994
+1,HOU,NL,Ken,Kenneth Gene,Caminiti,caminke01,caminke01,HOU,,HOU,1994
+1,FLO,NL,Jeff,Jeffrey Guy,Conine,coninje01,coninje01,FLO,,FLO,1994
+1,WSN,NL,Wil,Wilfredo,Cordero,cordewi01,cordewi01,MON,,MON,1994
+1,HOU,NL,Doug,Douglas Dean,Drabek,drabedo01,drabedo01,HOU,,HOU,1994
+1,PHI,NL,Lenny,Leonard Kyle,Dykstra,dykstle01,dykstle01,PHI,,PHI,1994
+1,WSN,NL,Darrin,Darrin Glen,Fletcher,fletcda01,fletcda01,MON,,MON,1994
+1,PIT,NL,Carlos,Carlos Jesus,Garcia,garcica01,garcica01,PIT,,PIT,1994
+1,WSN,NL,Marquis,Marquis Deon,Grissom,grissma02,grissma02,MON,,MON,1994
+1,WSN,NL,Ken,Kenneth Wade,Hill,hillke01,hillke01,MON,,MON,1994
+1,HOU,NL,John,John Raymond,Hudek,hudekjo01,hudekjo01,HOU,,HOU,1994
+1,PHI,NL,Danny,Danny Lynn,Jackson,jacksda02,jacksda02,PHI,,PHI,1994
+1,PHI,NL,Doug,Douglas Reid,Jones,jonesdo01,jonesdo01,PHI,,PHI,1994
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,,CIN,1994
+1,ATL,NL,Fred,Frederick Stanley,McGriff,mcgrifr01,mcgrifr01,ATL,,ATL,1994
+1,CHC,NL,Randy,Randall Kirk,Myers,myersra01,myersra01,CHN,,CHN,1994
+1,CIN,NL,Jose,Jose Antonio,Rijo,rijojo01,rijojo01,CIN,,CIN,1994
+1,NYM,NL,Bret,Bret William,Saberhagen,saberbr01,saberbr01,NYN,,NYN,1994
+1,SEA,AL,Randy,Randall David,Johnson,johnsra05,johnsra05,SEA,1,SEA,1995
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,1995
+1,CHW,AL,Frank,Frank Edward,Thomas,thomafr04,thomafr04,CHA,3,CHA,1995
+1,CLE,AL,Carlos,Carlos Obed,Baerga,baergca01,baergca01,CLE,4,CLE,1995
+1,NYY,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,NYA,5,NYA,1995
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1995
+1,CLE,AL,Albert,Albert Jojuan,Belle,belleal01,belleal01,CLE,7,CLE,1995
+1,CLE,AL,Kenny,Kenneth,Lofton,loftoke01,loftoke01,CLE,8,CLE,1995
+1,MIN,AL,Kirby,Kirby,Puckett,puckeki01,puckeki01,MIN,9,MIN,1995
+1,SEA,AL,Edgar,Edgar,Martinez,martied01,martied01,SEA,10,SEA,1995
+1,TOR,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,TOR,,TOR,1995
+1,KCR,AL,Kevin,Robert Kevin,Appier,appieke01,appieke01,KCA,,KCA,1995
+1,ANA,AL,Gary,Gary Thomas,Disarcina,disarga01,disarga01,CAL,,CAL,1995
+1,ANA,AL,Jim,James Patrick,Edmonds,edmonji01,edmonji01,CAL,,CAL,1995
+1,ANA,AL,Chuck,Charles Edward,Finley,finlech01,finlech01,CAL,,CAL,1995
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,,SEA,1995
+1,BOS,AL,Erik,Erik Brian,Hanson,hansoer01,hansoer01,BOS,,BOS,1995
+1,CLE,AL,Dennis,Jose Dennis,Martinez,martide01,martide01,CLE,,CLE,1995
+1,SEA,AL,Tino,Constantino,Martinez,martiti02,martiti02,SEA,,SEA,1995
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,,OAK,1995
+1,CLE,AL,Jose,Jose Ramon Nova,Mesa,mesajo01,mesajo01,CLE,,CLE,1995
+1,NYY,AL,Paul,Paul Andrew,O'Neill,oneilpa01,oneilpa01,NYA,,NYA,1995
+1,OAK,AL,Steve,Steven,Ontiveros,ontivst02,ontivst02,OAK,,OAK,1995
+1,CLE,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,CLE,,CLE,1995
+1,TEX,AL,Kenny,Kenneth Scott,Rogers,rogerke01,rogerke01,TEX,,TEX,1995
+1,MIL,AL,Kevin,Kevin Lee,Seitzer,seitzke01,seitzke01,ML4,,ML4,1995
+1,ANA,AL,Lee,Lee Arthur,Smith,smithle02,smithle02,CAL,,CAL,1995
+1,NYY,AL,Mike,Robert Michael,Stanley,stanlmi02,stanlmi02,NYA,,NYA,1995
+1,BOS,AL,Mo,Maurice Samuel,Vaughn,vaughmo01,vaughmo01,BOS,,BOS,1995
+1,DET,AL,David,David Lee,Wells,wellsda01,wellsda01,DET,,DET,1995
+1,LAD,NL,Hideo,Hideo,Nomo,nomohi01,nomohi01,LAN,1,LAN,1995
+1,LAD,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,LAN,2,LAN,1995
+1,ATL,NL,Fred,Frederick Stanley,McGriff,mcgrifr01,mcgrifr01,ATL,3,ATL,1995
+1,HOU,NL,Craig,Craig Alan,Biggio,biggicr01,biggicr01,HOU,4,HOU,1995
+1,COL,NL,Vinny,Vinicio,Castilla,castivi02,castivi02,COL,5,COL,1995
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,6,CIN,1995
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,1995
+1,PHI,NL,Lenny,Leonard Kyle,Dykstra,dykstle01,dykstle01,PHI,8,PHI,1995
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,9,SDN,1995
+1,CIN,NL,Ron,Ronald Edwin,Gant,gantro01,gantro01,CIN,10,CIN,1995
+1,COL,NL,Dante,Alphonse Dante,Bichette,bicheda01,bicheda01,COL,,COL,1995
+1,NYM,NL,Bobby,Roberto Martin Antonio,Bonilla,bonilbo01,bonilbo01,NYN,,NYN,1995
+1,FLO,NL,Jeff,Jeffrey Guy,Conine,coninje01,coninje01,FLO,,FLO,1995
+1,PHI,NL,Darren,Darren Arthur,Daulton,daultda01,daultda01,PHI,,PHI,1995
+1,CHC,NL,Mark,Mark Eugene,Grace,gracema01,gracema01,CHN,,CHN,1995
+1,PHI,NL,Tyler,Tyler Scott,Green,greenty01,greenty01,PHI,,PHI,1995
+1,STL,NL,Tom,Thomas Anthony,Henke,henketo01,henketo01,SLN,,SLN,1995
+1,ATL,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,ATL,,ATL,1995
+1,LAD,NL,Raul,Raul Ramon,Mondesi,mondera01,mondera01,LAN,,LAN,1995
+1,PHI,NL,Mickey,Michael Robert,Morandini,moranmi01,moranmi01,PHI,,PHI,1995
+1,CHC,NL,Randy,Randall Kirk,Myers,myersra01,myersra01,CHN,,CHN,1995
+1,PIT,NL,Denny,Dennis Edward,Neagle,neaglde01,neaglde01,PIT,,PIT,1995
+1,LAD,NL,Jose,Jose Antonio,Offerman,offerjo01,offerjo01,LAN,,LAN,1995
+1,WSN,NL,Carlos,Carlos Gross,Perez,perezca01,perezca01,MON,,MON,1995
+1,CIN,NL,Reggie,Reginald Laverne,Sanders,sandere02,sandere02,CIN,,CIN,1995
+1,PHI,NL,Heathcliff,Heath,Slocumb,slocuhe01,slocuhe01,PHI,,PHI,1995
+1,CIN,NL,John,John Patrick,Smiley,smilejo01,smilejo01,CIN,,CIN,1995
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,,SLN,1995
+1,CHC,NL,Sammy,Samuel Peralta,Sosa,sosasa01,sosasa01,CHN,,CHN,1995
+1,SFG,NL,Matt,Matthew Derrick,Williams,willima04,willima04,SFN,,SFN,1995
+1,LAD,NL,Todd,Todd Roland,Worrell,worreto01,worreto01,LAN,,LAN,1995
+1,CLE,AL,Charles,Charles Harrison,Nagy,nagych01,nagych01,CLE,1,CLE,1996
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,1996
+1,BOS,AL,Mo,Maurice Samuel,Vaughn,vaughmo01,vaughmo01,BOS,3,BOS,1996
+1,BAL,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,BAL,4,BAL,1996
+1,NYY,AL,Wade,Wade Anthony,Boggs,boggswa01,boggswa01,NYA,5,NYA,1996
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,1996
+1,CLE,AL,Albert,Albert Jojuan,Belle,belleal01,belleal01,CLE,7,CLE,1996
+1,CLE,AL,Kenny,Kenneth,Lofton,loftoke01,loftoke01,CLE,8,CLE,1996
+1,BAL,AL,Brady,Brady Kevin,Anderson,anderbr01,anderbr01,BAL,9,BAL,1996
+1,CLE,AL,Sandy,Santos,Alomar,alomasa02,alomasa02,CLE,,CLE,1996
+1,SEA,AL,Jay,Jay Campbell,Buhner,buhneja01,buhneja01,SEA,,SEA,1996
+1,TOR,AL,Joe,Joseph Chris,Carter,cartejo01,cartejo01,TOR,,TOR,1996
+1,ANA,AL,Chuck,Charles Edward,Finley,finlech01,finlech01,CAL,,CAL,1996
+1,DET,AL,Travis,David Travis,Fryman,frymatr01,frymatr01,DET,,DET,1996
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,,SEA,1996
+1,CHW,AL,Roberto,Roberto Manuel,Hernandez,hernaro01,hernaro01,CHA,,CHA,1996
+1,MIN,AL,Chuck,Edward Charles,Knoblauch,knoblch01,knoblch01,MIN,,MIN,1996
+1,SEA,AL,Edgar,Edgar,Martinez,martied01,martied01,SEA,,SEA,1996
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,,OAK,1996
+1,CLE,AL,Jose,Jose Ramon Nova,Mesa,mesajo01,mesajo01,CLE,,CLE,1996
+1,KCR,AL,Jeff,Jeffrey Thomas,Montgomery,montgje01,montgje01,KCA,,KCA,1996
+1,TEX,AL,Roger,Roger Allen,Pavlik,pavliro01,pavliro01,TEX,,TEX,1996
+1,ANA,AL,Troy,Troy Eugene,Percival,percitr01,percitr01,CAL,,CAL,1996
+1,NYY,AL,Andy,Andrew Eugene,Pettitte,pettian01,pettian01,NYA,,NYA,1996
+1,SEA,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,SEA,,SEA,1996
+1,CHW,AL,Frank,Frank Edward,Thomas,thomafr04,thomafr04,CHA,,CHA,1996
+1,MIL,AL,Greg,Gregory Lamont,Vaughn,vaughgr01,vaughgr01,ML4,,ML4,1996
+1,NYY,AL,John,John Karl,Wetteland,wettejo01,wettejo01,NYA,,NYA,1996
+1,SEA,AL,Dan,Daniel Allen,Wilson,wilsoda01,wilsoda01,SEA,,SEA,1996
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,1,ATL,1996
+1,LAD,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,LAN,2,LAN,1996
+1,ATL,NL,Fred,Frederick Stanley,McGriff,mcgrifr01,mcgrifr01,ATL,3,ATL,1996
+1,HOU,NL,Craig,Craig Alan,Biggio,biggicr01,biggicr01,HOU,4,HOU,1996
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,5,ATL,1996
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,6,CIN,1996
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,1996
+1,NYM,NL,Lance,Kenneth Lance,Johnson,johnsla03,johnsla03,NYN,8,NYN,1996
+1,COL,NL,Dante,Alphonse Dante,Bichette,bicheda01,bicheda01,COL,9,COL,1996
+1,HOU,NL,Jeff,Jeffrey Robert,Bagwell,bagweje01,bagweje01,HOU,,HOU,1996
+1,PHI,NL,Ricky,Ricky Paul,Bottalico,bottari01,bottari01,PHI,,PHI,1996
+1,FLO,NL,Kevin,James Kevin,Brown,brownke01,brownke01,FLO,,FLO,1996
+1,COL,NL,Ellis,Ellis Rena,Burks,burksel01,burksel01,COL,,COL,1996
+1,SDP,NL,Ken,Kenneth Gene,Caminiti,caminke01,caminke01,SDN,,SDN,1996
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,,ATL,1996
+1,WSN,NL,Mark,Mark James,Grudzielanek,grudzma01,grudzma01,MON,,MON,1996
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,,SDN,1996
+1,NYM,NL,Todd,Todd Randolph,Hundley,hundlto01,hundlto01,NYN,,NYN,1996
+1,PIT,NL,Jason,Jason Daniel,Kendall,kendaja01,kendaja01,PIT,,PIT,1996
+1,FLO,NL,Al,Alois Terry,Leiter,leiteal01,leiteal01,FLO,,FLO,1996
+1,ATL,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,ATL,,ATL,1996
+1,WSN,NL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,MON,,MON,1996
+1,WSN,NL,Henry,Henry Anderson,Rodriguez,rodrihe02,rodrihe02,MON,,MON,1996
+1,FLO,NL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,FLO,,FLO,1996
+1,STL,NL,Ozzie,Osborne Earl,Smith,smithoz01,smithoz01,SLN,,SLN,1996
+1,CHC,NL,Steve,Stephen Christopher,Trachsel,trachst01,trachst01,CHN,,CHN,1996
+1,SFG,NL,Matt,Matthew Derrick,Williams,willima04,willima04,SFN,,SFN,1996
+1,ATL,NL,Mark,Mark Edward,Wohlers,wohlema01,wohlema01,ATL,,ATL,1996
+1,LAD,NL,Todd,Todd Roland,Worrell,worreto01,worreto01,LAN,,LAN,1996
+1,COL,NL,Eric,Eric Orlando,Young,younger01,younger01,COL,,COL,1996
+1,SEA,AL,Randy,Randall David,Johnson,johnsra05,johnsra05,SEA,1,SEA,1997
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,1997
+1,NYY,AL,Tino,Constantino,Martinez,martiti02,martiti02,NYA,3,NYA,1997
+1,BAL,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,BAL,4,BAL,1997
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,5,BAL,1997
+1,SEA,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,SEA,6,SEA,1997
+1,BAL,AL,Brady,Brady Kevin,Anderson,anderbr01,anderbr01,BAL,7,BAL,1997
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1997
+1,NYY,AL,Paul,Paul Andrew,O'Neill,oneilpa01,oneilpa01,NYA,9,NYA,1997
+1,SEA,AL,Edgar,Edgar,Martinez,martied01,martied01,SEA,10,SEA,1997
+1,CLE,AL,Sandy,Santos,Alomar,alomasa02,alomasa02,CLE,,CLE,1997
+1,CHW,AL,Albert,Albert Jojuan,Belle,belleal01,belleal01,CHA,,CHA,1997
+1,MIL,AL,Jeff,Jeffrey Howard,Cirillo,cirilje01,cirilje01,ML4,,ML4,1997
+1,TOR,AL,Roger,William Roger,Clemens,clemero02,clemero02,TOR,,TOR,1997
+1,NYY,AL,David,David Brian,Cone,coneda01,coneda01,NYA,,NYA,1997
+1,SEA,AL,Joey,Jose Manuel,Cora,corajo01,corajo01,SEA,,SEA,1997
+1,ANA,AL,Jason,Jason Royce,Dickson,dicksja01,dicksja01,ANA,,ANA,1997
+1,BOS,AL,Nomar,Anthony Nomar,Garciaparra,garcino01,garcino01,BOS,,BOS,1997
+1,TOR,AL,Pat,Patrick George,Hentgen,hentgpa01,hentgpa01,TOR,,TOR,1997
+1,CLE,AL,David,David Christopher,Justice,justida01,justida01,CLE,,CLE,1997
+1,MIN,AL,Chuck,Edward Charles,Knoblauch,knoblch01,knoblch01,MIN,,MIN,1997
+1,OAK,AL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,OAK,,OAK,1997
+1,BAL,AL,Mike,Michael Cole,Mussina,mussimi01,mussimi01,BAL,,BAL,1997
+1,BAL,AL,Randy,Randall Kirk,Myers,myersra01,myersra01,BAL,,BAL,1997
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,1997
+1,KCR,AL,Jose,Jose Antonio,Rosado,rosadjo01,rosadjo01,KCA,,KCA,1997
+1,CHW,AL,Frank,Frank Edward,Thomas,thomafr04,thomafr04,CHA,,CHA,1997
+1,CLE,AL,Jim,James Howard,Thome,thomeji01,thomeji01,CLE,,CLE,1997
+1,DET,AL,Justin,Justin Willard,Thompson,thompju02,thompju02,DET,,DET,1997
+1,NYY,AL,Bernie,Bernabe,Williams,willibe02,willibe02,NYA,,NYA,1997
+1,ATL,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,ATL,1,ATL,1997
+1,LAD,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,LAN,2,LAN,1997
+1,HOU,NL,Jeff,Jeffrey Robert,Bagwell,bagweje01,bagweje01,HOU,3,HOU,1997
+1,HOU,NL,Craig,Craig Alan,Biggio,biggicr01,biggicr01,HOU,4,HOU,1997
+1,SDP,NL,Ken,Kenneth Gene,Caminiti,caminke01,caminke01,SDN,5,SDN,1997
+1,ATL,NL,Jeff,Jeffrey Michael,Blauser,blausje01,blausje01,ATL,6,ATL,1997
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,1997
+1,STL,NL,Ray,Raymond Lewis,Lankford,lankfra01,lankfra01,SLN,8,SLN,1997
+1,COL,NL,Larry,Larry Kenneth Robert,Walker,walkela01,walkela01,COL,9,COL,1997
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,10,SDN,1997
+1,FLO,NL,Moises,Moises Rojas,Alou,aloumo01,aloumo01,FLO,,FLO,1997
+1,SFG,NL,Rod,Rodney Roy,Beck,beckro01,beckro01,SFN,,SFN,1997
+1,FLO,NL,Kevin,James Kevin,Brown,brownke01,brownke01,FLO,,FLO,1997
+1,STL,NL,Royce,Royce Spencer,Clayton,claytro01,claytro01,SLN,,SLN,1997
+1,SFG,NL,Shawn,Aaron Shawn,Estes,estessh01,estessh01,SFN,,SFN,1997
+1,SDP,NL,Steve,Steven Allen,Finley,finlest01,finlest01,SDN,,SDN,1997
+1,COL,NL,Andres,Andres Jose,Galarraga,galaran01,galaran01,COL,,COL,1997
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,,ATL,1997
+1,CHC,NL,Mark,Mark Eugene,Grace,gracema01,gracema01,CHN,,CHN,1997
+1,NYM,NL,Todd,Todd Randolph,Hundley,hundlto01,hundlto01,NYN,,NYN,1997
+1,FLO,NL,Charles,Charles Edward,Johnson,johnsch04,johnsch04,FLO,,FLO,1997
+1,NYM,NL,Bobby,Robert Joseph,Jones,jonesbo03,jonesbo03,NYN,,NYN,1997
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,,ATL,1997
+1,HOU,NL,Darryl,Darryl Andrew,Kile,kileda01,kileda01,HOU,,HOU,1997
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,,CIN,1997
+1,ATL,NL,Kenny,Kenneth,Lofton,loftoke01,loftoke01,ATL,,ATL,1997
+1,ATL,NL,Javy,Javier,Lopez,lopezja01,lopezja01,ATL,,ATL,1997
+1,WSN,NL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,MON,,MON,1997
+1,ATL,NL,Denny,Dennis Edward,Neagle,neaglde01,neaglde01,ATL,,ATL,1997
+1,PHI,NL,Curt,Curtis Montague,Schilling,schilcu01,schilcu01,PHI,,PHI,1997
+1,PIT,NL,Tony,Anthony Darrell,Womack,womacto01,womacto01,PIT,,PIT,1997
+1,NYY,AL,David,David Lee,Wells,wellsda01,wellsda01,NYA,1,NYA,1998
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,1998
+1,CLE,AL,Jim,James Howard,Thome,thomeji01,thomeji01,CLE,3,CLE,1998
+1,BAL,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,BAL,4,BAL,1998
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,5,BAL,1998
+1,SEA,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,SEA,6,SEA,1998
+1,CLE,AL,Kenny,Kenneth,Lofton,loftoke01,loftoke01,CLE,7,CLE,1998
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1998
+1,TEX,AL,Juan,Juan Alberto,Gonzalez,gonzaju03,gonzaju03,TEX,9,TEX,1998
+1,CLE,AL,Sandy,Santos,Alomar,alomasa02,alomasa02,CLE,,CLE,1998
+1,TBD,AL,Rolando,Luis Rolando,Arrojo,arrojro01,arrojro01,TBA,,TBA,1998
+1,NYY,AL,Scott,Scott David,Brosius,brosisc01,brosisc01,NYA,,NYA,1998
+1,TOR,AL,Roger,William Roger,Clemens,clemero02,clemero02,TOR,,TOR,1998
+1,CLE,AL,Bartolo,Bartolo,Colon,colonba01,colonba01,CLE,,CLE,1998
+1,CHW,AL,Ray,Ray,Durham,durhara01,durhara01,CHA,,CHA,1998
+1,DET,AL,Damion,Jacinto Damion,Easley,easleda01,easleda01,DET,,DET,1998
+1,ANA,AL,Darin,Darin Charles,Erstad,erstada01,erstada01,ANA,,ANA,1998
+1,BOS,AL,Tom,Thomas,Gordon,gordoto01,gordoto01,BOS,,BOS,1998
+1,OAK,AL,Ben,Benjamin,Grieve,grievbe01,grievbe01,OAK,,OAK,1998
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,,NYA,1998
+1,BOS,AL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,BOS,,BOS,1998
+1,NYY,AL,Paul,Paul Andrew,O'Neill,oneilpa01,oneilpa01,NYA,,NYA,1998
+1,KCR,AL,Dean,Dean William,Palmer,palmede01,palmede01,KCA,,KCA,1998
+1,BAL,AL,Rafael,Rafael,Palmeiro,palmera01,palmera01,BAL,,BAL,1998
+1,ANA,AL,Troy,Troy Eugene,Percival,percitr01,percitr01,ANA,,ANA,1998
+1,MIN,AL,Brad,Brad William,Radke,radkebr01,radkebr01,MIN,,MIN,1998
+1,CLE,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,CLE,,CLE,1998
+1,TEX,AL,Aaron,Aaron Helmer,Sele,seleaa01,seleaa01,TEX,,TEX,1998
+1,BOS,AL,Mo,Maurice Samuel,Vaughn,vaughmo01,vaughmo01,BOS,,BOS,1998
+1,CLE,AL,Omar,Omar Enrique,Vizquel,vizquom01,vizquom01,CLE,,CLE,1998
+1,TEX,AL,John,John Karl,Wetteland,wettejo01,wettejo01,TEX,,TEX,1998
+1,NYY,AL,Bernie,Bernabe,Williams,willibe02,willibe02,NYA,,NYA,1998
+1,ATL,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,ATL,1,ATL,1998
+1,NYM,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,NYN,2,NYN,1998
+1,STL,NL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,SLN,3,SLN,1998
+1,HOU,NL,Craig,Craig Alan,Biggio,biggicr01,biggicr01,HOU,4,HOU,1998
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,5,ATL,1998
+1,ATL,NL,Walt,Walter William,Weiss,weisswa01,weisswa01,ATL,6,ATL,1998
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,1998
+1,COL,NL,Larry,Larry Kenneth Robert,Walker,walkela01,walkela01,COL,8,COL,1998
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,9,SDN,1998
+1,HOU,NL,Moises,Moises Rojas,Alou,aloumo01,aloumo01,HOU,,HOU,1998
+1,SDP,NL,Andy,Andrew Jason,Ashby,ashbyan01,ashbyan01,SDN,,SDN,1998
+1,COL,NL,Dante,Alphonse Dante,Bichette,bicheda01,bicheda01,COL,,COL,1998
+1,CIN,NL,Bret,Bret Robert,Boone,boonebr01,boonebr01,CIN,,CIN,1998
+1,SDP,NL,Kevin,James Kevin,Brown,brownke01,brownke01,SDN,,SDN,1998
+1,COL,NL,Vinny,Vinicio,Castilla,castivi02,castivi02,COL,,COL,1998
+1,ATL,NL,Andres,Andres Jose,Galarraga,galaran01,galaran01,ATL,,ATL,1998
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,,ATL,1998
+1,SDP,NL,Trevor,Trevor William,Hoffman,hoffmtr01,hoffmtr01,SDN,,SDN,1998
+1,PIT,NL,Jason,Jason Daniel,Kendall,kendaja01,kendaja01,PIT,,PIT,1998
+1,ATL,NL,Javy,Javier,Lopez,lopezja01,lopezja01,ATL,,ATL,1998
+1,SFG,NL,Robb,Robert Allen,Nen,nenro01,nenro01,SFN,,SFN,1998
+1,NYM,NL,Rick,Richard Allen,Reed,reedri01,reedri01,NYN,,NYN,1998
+1,FLO,NL,Edgar,Edgar Enrique,Renteria,renteed01,renteed01,FLO,,FLO,1998
+1,PHI,NL,Curt,Curtis Montague,Schilling,schilcu01,schilcu01,PHI,,PHI,1998
+1,LAD,NL,Jeff,Jeffrey Lee,Shaw,shawje01,shawje01,LAN,,LAN,1998
+1,LAD,NL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,LAN,,LAN,1998
+1,CHC,NL,Sammy,Samuel Peralta,Sosa,sosasa01,sosasa01,CHN,,CHN,1998
+1,WSN,NL,Ugueth,Ugueth Urtain,Urbina,urbinug01,urbinug01,MON,,MON,1998
+1,SDP,NL,Greg,Gregory Lamont,Vaughn,vaughgr01,vaughgr01,SDN,,SDN,1998
+1,MIL,NL,Fernando,Fernando,Vina,vinafe01,vinafe01,MIL,,MIL,1998
+1,ARI,NL,Devon,Devon Markes,White,whitede03,whitede03,ARI,,ARI,1998
+1,BOS,AL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,BOS,1,BOS,1999
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,1999
+1,CLE,AL,Jim,James Howard,Thome,thomeji01,thomeji01,CLE,3,CLE,1999
+1,CLE,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,CLE,4,CLE,1999
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,5,BAL,1999
+1,BOS,AL,Nomar,Anthony Nomar,Garciaparra,garcino01,garcino01,BOS,6,BOS,1999
+1,CLE,AL,Kenny,Kenneth,Lofton,loftoke01,loftoke01,CLE,7,CLE,1999
+1,SEA,AL,Ken,George Kenneth,Griffey,griffke02,griffke02,SEA,8,SEA,1999
+1,CLE,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,CLE,9,CLE,1999
+1,TEX,AL,Rafael,Rafael,Palmeiro,palmera01,palmera01,TEX,10,TEX,1999
+1,DET,AL,Brad,Bradley David,Ausmus,ausmubr01,ausmubr01,DET,,DET,1999
+1,BAL,AL,Harold,Harold Douglas,Baines,baineha01,baineha01,BAL,,BAL,1999
+1,TBD,AL,Jose,Jose,Canseco,cansejo01,cansejo01,TBA,,TBA,1999
+1,NYY,AL,David,David Brian,Cone,coneda01,coneda01,NYA,,NYA,1999
+1,MIN,AL,Ron,Ronald Bryan,Coomer,coomero01,coomero01,MIN,,MIN,1999
+1,TOR,AL,Tony,Octavio Antonio,Fernandez,fernato01,fernato01,TOR,,TOR,1999
+1,TOR,AL,Shawn,Shawn David,Green,greensh01,greensh01,TOR,,TOR,1999
+1,TBD,AL,Roberto,Roberto Manuel,Hernandez,hernaro01,hernaro01,TBA,,TBA,1999
+1,OAK,AL,John,John Emil,Jaha,jahajo01,jahajo01,OAK,,OAK,1999
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,,NYA,1999
+1,BAL,AL,Mike,Michael Cole,Mussina,mussimi01,mussimi01,BAL,,BAL,1999
+1,CLE,AL,Charles,Charles Harrison,Nagy,nagych01,nagych01,CLE,,CLE,1999
+1,BOS,AL,Jose,Jose Antonio,Offerman,offerjo01,offerjo01,BOS,,BOS,1999
+1,CHW,AL,Magglio,Magglio,Ordonez,ordonma01,ordonma01,CHA,,CHA,1999
+1,ANA,AL,Troy,Troy Eugene,Percival,percitr01,percitr01,ANA,,ANA,1999
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,1999
+1,KCR,AL,Jose,Jose Antonio,Rosado,rosadjo01,rosadjo01,KCA,,KCA,1999
+1,BAL,AL,B. J.,William James,Surhoff,surhobj01,surhobj01,BAL,,BAL,1999
+1,CLE,AL,Omar,Omar Enrique,Vizquel,vizquom01,vizquom01,CLE,,CLE,1999
+1,TEX,AL,John,John Karl,Wetteland,wettejo01,wettejo01,TEX,,TEX,1999
+1,NYY,AL,Bernie,Bernabe,Williams,willibe02,willibe02,NYA,,NYA,1999
+1,TEX,AL,Jeff,Jeffrey Ross,Zimmerman,zimmeje02,zimmeje02,TEX,,TEX,1999
+1,PHI,NL,Curt,Curtis Montague,Schilling,schilcu01,schilcu01,PHI,1,PHI,1999
+1,NYM,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,NYN,2,NYN,1999
+1,STL,NL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,SLN,3,SLN,1999
+1,ARI,NL,Jay,Jay Stuart,Bell,bellja01,bellja01,ARI,4,ARI,1999
+1,ARI,NL,Matt,Matthew Derrick,Williams,willima04,willima04,ARI,5,ARI,1999
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,6,CIN,1999
+1,MIL,NL,Jeromy,Jeromy Neal,Burnitz,burnije01,burnije01,MIL,7,MIL,1999
+1,CHC,NL,Sammy,Samuel Peralta,Sosa,sosasa01,sosasa01,CHN,8,CHN,1999
+1,COL,NL,Larry,Larry Kenneth Robert,Walker,walkela01,walkela01,COL,9,COL,1999
+1,HOU,NL,Jeff,Jeffrey Robert,Bagwell,bagweje01,bagweje01,HOU,10,HOU,1999
+1,SDP,NL,Andy,Andrew Jason,Ashby,ashbyan01,ashbyan01,SDN,,SDN,1999
+1,STL,NL,Kent,Kent Dennis,Bottenfield,botteke01,botteke01,SLN,,SLN,1999
+1,PHI,NL,Paul,Paul Gregory,Byrd,byrdpa01,byrdpa01,PHI,,PHI,1999
+1,CIN,NL,Sean,Sean Thomas,Casey,caseyse01,caseyse01,CIN,,CIN,1999
+1,FLO,NL,Alex,Alexander,Gonzalez,gonzaal02,gonzaal02,FLO,,FLO,1999
+1,ARI,NL,Luis,Luis Emilio,Gonzalez,gonzalu01,gonzalu01,ARI,,ARI,1999
+1,WSN,NL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,MON,,MON,1999
+1,SDP,NL,Tony,Anthony Keith,Gwynn,gwynnto01,gwynnto01,SDN,,SDN,1999
+1,HOU,NL,Mike,Michael William,Hampton,hamptmi01,hamptmi01,HOU,,HOU,1999
+1,SDP,NL,Trevor,Trevor William,Hoffman,hoffmtr01,hoffmtr01,SDN,,SDN,1999
+1,ARI,NL,Randy,Randall David,Johnson,johnsra05,johnsra05,ARI,,ARI,1999
+1,ATL,NL,Brian,Brian O'Neal,Jordan,jordabr01,jordabr01,ATL,,ATL,1999
+1,SFG,NL,Jeff,Jeffrey Franklin,Kent,kentje01,kentje01,SFN,,SFN,1999
+1,PHI,NL,Mike,Michael Scott,Lieberthal,liebemi01,liebemi01,PHI,,PHI,1999
+1,HOU,NL,Jose,Jose Desiderio Rodriguez,Lima,limajo01,limajo01,HOU,,HOU,1999
+1,ATL,NL,Kevin,Kevin Austin,Millwood,millwke01,millwke01,ATL,,ATL,1999
+1,SFG,NL,Robb,Robert Allen,Nen,nenro01,nenro01,SFN,,SFN,1999
+1,MIL,NL,Dave,David Wayne,Nilsson,nilssda01,nilssda01,MIL,,MIL,1999
+1,LAD,NL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,LAN,,LAN,1999
+1,PIT,NL,Ed,Edward Nelson,Sprague,spraged02,spraged02,PIT,,PIT,1999
+1,HOU,NL,Billy,William Edward,Wagner,wagnebi02,wagnebi02,HOU,,HOU,1999
+1,CIN,NL,Scott,Scott Ryan,Williamson,willisc01,willisc01,CIN,,CIN,1999
+1,TOR,AL,David,David Lee,Wells,wellsda01,wellsda01,TOR,1,TOR,2000
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,2000
+1,OAK,AL,Jason,Jason Gilbert,Giambi,giambja01,giambja01,OAK,3,OAK,2000
+1,CLE,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,CLE,4,CLE,2000
+1,CLE,AL,Travis,David Travis,Fryman,frymatr01,frymatr01,CLE,5,CLE,2000
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2000
+1,BOS,AL,Carl,Carl Edward,Everett,evereca01,evereca01,BOS,7,BOS,2000
+1,NYY,AL,Bernie,Bernabe,Williams,willibe02,willibe02,NYA,8,NYA,2000
+1,KCR,AL,Jermaine,Jermaine Terrell,Dye,dyeje01,dyeje01,KCA,9,KCA,2000
+1,CHW,AL,James,James,Baldwin,baldwja01,baldwja01,CHA,,CHA,2000
+1,TOR,AL,Tony,Leocadio Francisco,Batista,batisto01,batisto01,TOR,,TOR,2000
+1,BAL,AL,Mike,Michael Todd,Bordick,bordimi01,bordimi01,BAL,,BAL,2000
+1,TOR,AL,Carlos,Carlos Juan,Delgado,delgaca01,delgaca01,TOR,,TOR,2000
+1,CHW,AL,Ray,Ray,Durham,durhara01,durhara01,CHA,,CHA,2000
+1,ANA,AL,Darin,Darin Charles,Erstad,erstada01,erstada01,ANA,,ANA,2000
+1,CLE,AL,Chuck,Charles Edward,Finley,finlech01,finlech01,CLE,,CLE,2000
+1,BOS,AL,Nomar,Anthony Nomar,Garciaparra,garcino01,garcino01,BOS,,BOS,2000
+1,ANA,AL,Troy,Troy Edward,Glaus,glaustr01,glaustr01,ANA,,ANA,2000
+1,OAK,AL,Tim,Timothy Adam,Hudson,hudsoti01,hudsoti01,OAK,,OAK,2000
+1,OAK,AL,Jason,Jason Derik,Isringhausen,isrinja01,isrinja01,OAK,,OAK,2000
+1,DET,AL,Todd,Todd Barton Givin,Jones,jonesto02,jonesto02,DET,,DET,2000
+1,MIN,AL,Matt,Matthew,Lawton,lawtoma02,lawtoma02,MIN,,MIN,2000
+1,BOS,AL,Derek,Derek Christopher,Lowe,lowede01,lowede01,BOS,,BOS,2000
+1,SEA,AL,Edgar,Edgar,Martinez,martied01,martied01,SEA,,SEA,2000
+1,BOS,AL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,BOS,,BOS,2000
+1,TBD,AL,Fred,Frederick Stanley,McGriff,mcgrifr01,mcgrifr01,TBA,,TBA,2000
+1,CHW,AL,Magglio,Magglio,Ordonez,ordonma01,ordonma01,CHA,,CHA,2000
+1,NYY,AL,Jorge,Jorge Rafael,Posada,posadjo01,posadjo01,NYA,,NYA,2000
+1,CLE,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,CLE,,CLE,2000
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,,BAL,2000
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2000
+1,SEA,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,SEA,,SEA,2000
+1,SEA,AL,Aaron,Aaron Helmer,Sele,seleaa01,seleaa01,SEA,,SEA,2000
+1,KCR,AL,Mike,Michael John,Sweeney,sweenmi01,sweenmi01,KCA,,KCA,2000
+1,ARI,NL,Randy,Randall David,Johnson,johnsra05,johnsra05,ARI,1,ARI,2000
+1,PIT,NL,Jason,Jason Daniel,Kendall,kendaja01,kendaja01,PIT,2,PIT,2000
+1,ATL,NL,Andres,Andres Jose,Galarraga,galaran01,galaran01,ATL,3,ATL,2000
+1,SFG,NL,Jeff,Jeffrey Franklin,Kent,kentje01,kentje01,SFN,4,SFN,2000
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,5,ATL,2000
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,6,CIN,2000
+1,WSN,NL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,MON,7,MON,2000
+1,STL,NL,Jim,James Patrick,Edmonds,edmonji01,edmonji01,SLN,8,SLN,2000
+1,CHC,NL,Sammy,Samuel Peralta,Sosa,sosasa01,sosasa01,CHN,9,CHN,2000
+1,NYM,NL,Edgardo,Edgardo Antonio,Alfonzo,alfoned01,alfoned01,NYN,,NYN,2000
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,,SFN,2000
+1,LAD,NL,Kevin,James Kevin,Brown,brownke01,brownke01,LAN,,LAN,2000
+1,COL,NL,Jeff,Jeffrey Howard,Cirillo,cirilje01,cirilje01,COL,,COL,2000
+1,FLO,NL,Ryan,Ryan Scott,Dempster,dempsry01,dempsry01,FLO,,FLO,2000
+1,ARI,NL,Steve,Steven Allen,Finley,finlest01,finlest01,ARI,,ARI,2000
+1,PIT,NL,Brian,Brian Stephen,Giles,gilesbr02,gilesbr02,PIT,,PIT,2000
+1,CHC,NL,Joe,Joseph Elliott,Girardi,girarjo01,girarjo01,CHN,,CHN,2000
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,,ATL,2000
+1,CIN,NL,Danny,Daniel Peter,Graves,graveda01,graveda01,CIN,,CIN,2000
+1,CIN,NL,Ken,George Kenneth,Griffey,griffke02,griffke02,CIN,,CIN,2000
+1,COL,NL,Jeffrey,Jeffrey Bryan,Hammonds,hammoje01,hammoje01,COL,,COL,2000
+1,COL,NL,Todd,Todd Lynn,Helton,heltoto01,heltoto01,COL,,COL,2000
+1,SDP,NL,Trevor,Trevor William,Hoffman,hoffmtr01,hoffmtr01,SDN,,SDN,2000
+1,ATL,NL,Andruw,Andruw Rudolf,Jones,jonesan01,jonesan01,ATL,,ATL,2000
+1,STL,NL,Darryl,Darryl Andrew,Kile,kileda01,kileda01,SLN,,SLN,2000
+1,NYM,NL,Al,Alois Terry,Leiter,leiteal01,leiteal01,NYN,,NYN,2000
+1,PHI,NL,Mike,Michael Scott,Lieberthal,liebemi01,liebemi01,PHI,,PHI,2000
+1,ATL,NL,Greg,Gregory Alan,Maddux,maddugr01,maddugr01,ATL,,ATL,2000
+1,STL,NL,Mark,Mark David,McGwire,mcgwima01,mcgwima01,SLN,,SLN,2000
+1,NYM,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,NYN,,NYN,2000
+1,STL,NL,Edgar,Edgar Enrique,Renteria,renteed01,renteed01,SLN,,SLN,2000
+1,HOU,NL,Shane,Richard Shane,Reynolds,reynosh01,reynosh01,HOU,,HOU,2000
+1,LAD,NL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,LAN,,LAN,2000
+1,WSN,NL,Jose,Jose Angel,Vidro,vidrojo01,vidrojo01,MON,,MON,2000
+1,MIL,NL,Bob,Robert Joe,Wickman,wickmbo01,wickmbo01,MIL,,MIL,2000
+1,NYY,AL,Roger,William Roger,Clemens,clemero02,clemero02,NYA,1,NYA,2001
+1,TEX,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,TEX,2,TEX,2001
+1,SEA,AL,John,John Garrett,Olerud,olerujo01,olerujo01,SEA,3,SEA,2001
+1,SEA,AL,Bret,Bret Robert,Boone,boonebr01,boonebr01,SEA,4,SEA,2001
+1,TEX,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,TEX,5,TEX,2001
+1,BAL,AL,Cal,Calvin Edwin,Ripken,ripkeca01,ripkeca01,BAL,6,BAL,2001
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,7,BOS,2001
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,8,SEA,2001
+1,CLE,AL,Juan,Juan Alberto,Gonzalez,gonzaju03,gonzaju03,CLE,9,CLE,2001
+1,SEA,AL,Edgar,Edgar,Martinez,martied01,martied01,SEA,10,SEA,2001
+1,CLE,AL,Roberto,Roberto,Alomar,alomaro01,alomaro01,CLE,,CLE,2001
+1,SEA,AL,Mike,Michael Terrance,Cameron,camermi01,camermi01,SEA,,SEA,2001
+1,DET,AL,Tony,Anthony Christopher,Clark,clarkto02,clarkto02,DET,,DET,2001
+1,SEA,AL,Freddy,Freddy Antonio,Garcia,garcifr02,garcifr02,SEA,,SEA,2001
+1,OAK,AL,Jason,Jason Gilbert,Giambi,giambja01,giambja01,OAK,,OAK,2001
+1,ANA,AL,Troy,Troy Edward,Glaus,glaustr01,glaustr01,ANA,,ANA,2001
+1,MIN,AL,Cristian,Cristian,Guzman,guzmacr01,guzmacr01,MIN,,MIN,2001
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,,NYA,2001
+1,MIN,AL,Joe,Joseph Emerson,Mays,maysjo01,maysjo01,MIN,,MIN,2001
+1,MIN,AL,Eric,Eric Robert,Milton,miltoer01,miltoer01,MIN,,MIN,2001
+1,SEA,AL,Jeff,Jeffrey Allan,Nelson,nelsoje01,nelsoje01,SEA,,SEA,2001
+1,CHW,AL,Magglio,Magglio,Ordonez,ordonma01,ordonma01,CHA,,CHA,2001
+1,ANA,AL,Troy,Troy Eugene,Percival,percitr01,percitr01,ANA,,ANA,2001
+1,NYY,AL,Andy,Andrew Eugene,Pettitte,pettian01,pettian01,NYA,,NYA,2001
+1,NYY,AL,Jorge,Jorge Rafael,Posada,posadjo01,posadjo01,NYA,,NYA,2001
+1,TOR,AL,Paul,Paul John,Quantrill,quantpa01,quantpa01,TOR,,TOR,2001
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2001
+1,SEA,AL,Kazuhiro,Kazuhiro,Sasaki,sasakka01,sasakka01,SEA,,SEA,2001
+1,NYY,AL,Mike,William Michael,Stanton,stantmi02,stantmi02,NYA,,NYA,2001
+1,KCR,AL,Mike,Michael John,Sweeney,sweenmi01,sweenmi01,KCA,,KCA,2001
+1,TBD,AL,Greg,Gregory Lamont,Vaughn,vaughgr01,vaughgr01,TBA,,TBA,2001
+1,NYY,AL,Bernie,Bernabe,Williams,willibe02,willibe02,NYA,,NYA,2001
+1,ARI,NL,Randy,Randall David,Johnson,johnsra05,johnsra05,ARI,1,ARI,2001
+1,NYM,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,NYN,2,NYN,2001
+1,COL,NL,Todd,Todd Lynn,Helton,heltoto01,heltoto01,COL,3,COL,2001
+1,SFG,NL,Jeff,Jeffrey Franklin,Kent,kentje01,kentje01,SFN,4,SFN,2001
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,5,ATL,2001
+1,SFG,NL,Rich,Richard Santo,Aurilia,aurilri01,aurilri01,SFN,6,SFN,2001
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,2001
+1,ARI,NL,Luis,Luis Emilio,Gonzalez,gonzalu01,gonzalu01,ARI,8,ARI,2001
+1,CHC,NL,Sammy,Samuel Peralta,Sosa,sosasa01,sosasa01,CHN,9,CHN,2001
+1,COL,NL,Larry,Larry Kenneth Robert,Walker,walkela01,walkela01,COL,10,COL,2001
+1,HOU,NL,Moises,Moises Rojas,Alou,aloumo01,aloumo01,HOU,,HOU,2001
+1,HOU,NL,Lance,William Lance,Berkman,berkmla01,berkmla01,HOU,,HOU,2001
+1,ATL,NL,John,John David,Burkett,burkejo03,burkejo03,ATL,,ATL,2001
+1,CIN,NL,Sean,Sean Thomas,Casey,caseyse01,caseyse01,CIN,,CIN,2001
+1,FLO,NL,Cliff,Cornelius Clifford,Floyd,floydcl01,floydcl01,FLO,,FLO,2001
+1,PIT,NL,Brian,Brian Stephen,Giles,gilesbr02,gilesbr02,PIT,,PIT,2001
+1,WSN,NL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,MON,,MON,2001
+1,COL,NL,Mike,Michael William,Hampton,hamptmi01,hamptmi01,COL,,COL,2001
+1,FLO,NL,Charles,Charles Edward,Johnson,johnsch04,johnsch04,FLO,,FLO,2001
+1,SDP,NL,Ryan,Ryan Anthony,Klesko,kleskry01,kleskry01,SDN,,SDN,2001
+1,CHC,NL,Jon,Jonathan Ray,Lieber,liebejo01,liebejo01,CHN,,CHN,2001
+1,STL,NL,Matt,Matthew Christian,Morris,morrima01,morrima01,SLN,,SLN,2001
+1,SDP,NL,Phil,Phillip Joseph,Nevin,nevinph01,nevinph01,SDN,,SDN,2001
+1,LAD,NL,Chan Ho,Chan Ho,Park,parkch01,parkch01,LAN,,LAN,2001
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,,SLN,2001
+1,NYM,NL,Rick,Richard Allen,Reed,reedri01,reedri01,NYN,,NYN,2001
+1,PHI,NL,Jimmy,James Calvin,Rollins,rolliji01,rolliji01,PHI,,PHI,2001
+1,ARI,NL,Curt,Curtis Montague,Schilling,schilcu01,schilcu01,ARI,,ARI,2001
+1,LAD,NL,Jeff,Jeffrey Lee,Shaw,shawje01,shawje01,LAN,,LAN,2001
+1,MIL,NL,Ben,Ben M.,Sheets,sheetbe01,sheetbe01,MIL,,MIL,2001
+1,HOU,NL,Billy,William Edward,Wagner,wagnebi02,wagnebi02,HOU,,HOU,2001
+1,BOS,AL,Derek,Derek Christopher,Lowe,lowede01,lowede01,BOS,1,BOS,2002
+1,NYY,AL,Jorge,Jorge Rafael,Posada,posadjo01,posadjo01,NYA,2,NYA,2002
+1,NYY,AL,Jason,Jason Gilbert,Giambi,giambja01,giambja01,NYA,3,NYA,2002
+1,NYY,AL,Alfonso,Alfonso Guilleard,Soriano,soriaal01,soriaal01,NYA,4,NYA,2002
+1,BOS,AL,Shea,Shea Matthew,Hillenbrand,hillesh02,hillesh02,BOS,5,BOS,2002
+1,TEX,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,TEX,6,TEX,2002
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,7,BOS,2002
+1,MIN,AL,Torii,Torii Kedar,Hunter,hunteto01,hunteto01,MIN,8,MIN,2002
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,9,SEA,2002
+1,ANA,AL,Garret,Garret Joseph,Anderson,anderga01,anderga01,ANA,,ANA,2002
+1,BAL,AL,Tony,Leocadio Francisco,Batista,batisto01,batisto01,BAL,,BAL,2002
+1,CHW,AL,Mark,Mark Alan,Buehrle,buehrma01,buehrma01,CHA,,CHA,2002
+1,BOS,AL,Johnny,Johnny David,Damon,damonjo01,damonjo01,BOS,,BOS,2002
+1,DET,AL,Robert,Robert Charles John,Fick,fickro01,fickro01,DET,,DET,2002
+1,SEA,AL,Freddy,Freddy Antonio,Garcia,garcifr02,garcifr02,SEA,,SEA,2002
+1,BOS,AL,Nomar,Anthony Nomar,Garciaparra,garcino01,garcino01,BOS,,BOS,2002
+1,MIN,AL,Eddie,Edward Adrain,Guardado,guarded01,guarded01,MIN,,MIN,2002
+1,TOR,AL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,TOR,,TOR,2002
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,,NYA,2002
+1,CHW,AL,Paul,Paul Henry,Konerko,konerpa01,konerpa01,CHA,,CHA,2002
+1,BOS,AL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,BOS,,BOS,2002
+1,MIN,AL,A. J.,Anthony John,Pierzynski,pierzaj01,pierzaj01,MIN,,MIN,2002
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2002
+1,SEA,AL,Kazuhiro,Kazuhiro,Sasaki,sasakka01,sasakka01,SEA,,SEA,2002
+1,KCR,AL,Mike,Michael John,Sweeney,sweenmi01,sweenmi01,KCA,,KCA,2002
+1,OAK,AL,Miguel,Miguel Odalis,Tejada,tejadmi01,tejadmi01,OAK,,OAK,2002
+1,BOS,AL,Ugueth,Ugueth Urtain,Urbina,urbinug01,urbinug01,BOS,,BOS,2002
+1,NYY,AL,Robin,Robin Mark,Ventura,venturo01,venturo01,NYA,,NYA,2002
+1,CLE,AL,Omar,Omar Enrique,Vizquel,vizquom01,vizquom01,CLE,,CLE,2002
+1,TBD,AL,Randy,Dwight Randolph,Winn,winnra01,winnra01,TBA,,TBA,2002
+1,OAK,AL,Barry,Barry William,Zito,zitoba01,zitoba01,OAK,,OAK,2002
+1,ARI,NL,Curt,Curtis Montague,Schilling,schilcu01,schilcu01,ARI,1,ARI,2002
+1,NYM,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,NYN,2,NYN,2002
+1,COL,NL,Todd,Todd Lynn,Helton,heltoto01,heltoto01,COL,3,COL,2002
+1,WSN,NL,Jose,Jose Angel,Vidro,vidrojo01,vidrojo01,MON,4,MON,2002
+1,PHI,NL,Scott,Scott Bruce,Rolen,rolensc01,rolensc01,PHI,5,PHI,2002
+1,PHI,NL,Jimmy,James Calvin,Rollins,rolliji01,rolliji01,PHI,6,PHI,2002
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,2002
+1,WSN,NL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,MON,8,MON,2002
+1,CHC,NL,Sammy,Samuel Peralta,Sosa,sosasa01,sosasa01,CHN,9,CHN,2002
+1,HOU,NL,Lance,William Lance,Berkman,berkmla01,berkmla01,HOU,,HOU,2002
+1,FLO,NL,Luis,Luis Antonio,Castillo,castilu01,castilu01,FLO,,FLO,2002
+1,CIN,NL,Adam,Adam Troy,Dunn,dunnad01,dunnad01,CIN,,CIN,2002
+1,LAD,NL,Eric,Eric Serge,Gagne,gagneer01,gagneer01,LAN,,LAN,2002
+1,ATL,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,ATL,,ATL,2002
+1,ARI,NL,Luis,Luis Emilio,Gonzalez,gonzalu01,gonzalu01,ARI,,ARI,2002
+1,LAD,NL,Shawn,Shawn David,Green,greensh01,greensh01,LAN,,LAN,2002
+1,MIL,NL,Jose,Jose Antonio,Hernandez,hernajo01,hernajo01,MIL,,MIL,2002
+1,SDP,NL,Trevor,Trevor William,Hoffman,hoffmtr01,hoffmtr01,SDN,,SDN,2002
+1,ARI,NL,Randy,Randall David,Johnson,johnsra05,johnsra05,ARI,,ARI,2002
+1,ATL,NL,Andruw,Andruw Rudolf,Jones,jonesan01,jonesan01,ATL,,ATL,2002
+1,ARI,NL,Byung-Hyun,Byung-Hyun,Kim,kimby01,kimby01,ARI,,ARI,2002
+1,FLO,NL,Mike,Michael Averett,Lowell,lowelmi01,lowelmi01,FLO,,FLO,2002
+1,ARI,NL,Damian,Damian Donald,Miller,milleda02,milleda02,ARI,,ARI,2002
+1,STL,NL,Matt,Matthew Christian,Morris,morrima01,morrima01,SLN,,SLN,2002
+1,SFG,NL,Robb,Robert Allen,Nen,nenro01,nenro01,SFN,,SFN,2002
+1,PHI,NL,Vicente,Vicente,Padilla,padilvi01,padilvi01,PHI,,PHI,2002
+1,LAD,NL,Odalis,Odalis Amadol,Perez,perezod01,perezod01,LAN,,LAN,2002
+1,ATL,NL,Mike,Michael John,Remlinger,remlimi01,remlimi01,ATL,,ATL,2002
+1,SFG,NL,Benito,Benito,Santiago,santibe01,santibe01,SFN,,SFN,2002
+1,MIL,NL,Richie,Richmond Lockwood,Sexson,sexsori01,sexsori01,MIL,,MIL,2002
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,,ATL,2002
+1,ARI,NL,Junior,Ernest Lee,Spivey,spiveju01,spiveju01,ARI,,ARI,2002
+1,PIT,NL,Mike,Michael Darren,Williams,willimi03,willimi03,PIT,,PIT,2002
+1,CHW,AL,Esteban,Esteban Antonio,Loaiza,loaizes01,loaizes01,CHA,1,CHA,2003
+1,NYY,AL,Jorge,Jorge Rafael,Posada,posadjo01,posadjo01,NYA,2,NYA,2003
+1,TOR,AL,Carlos,Carlos Juan,Delgado,delgaca01,delgaca01,TOR,3,TOR,2003
+1,NYY,AL,Alfonso,Alfonso Guilleard,Soriano,soriaal01,soriaal01,NYA,4,NYA,2003
+1,ANA,AL,Troy,Troy Edward,Glaus,glaustr01,glaustr01,ANA,5,ANA,2003
+1,TEX,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,TEX,6,TEX,2003
+1,ANA,AL,Garret,Garret Joseph,Anderson,anderga01,anderga01,ANA,7,ANA,2003
+1,NYY,AL,Hideki,Hideki,Matsui,matsuhi01,matsuhi01,NYA,8,NYA,2003
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,9,SEA,2003
+1,SEA,AL,Edgar,Edgar,Martinez,martied01,martied01,SEA,10,SEA,2003
+1,TEX,AL,Hank,Hank Joe,Blalock,blaloha01,blaloha01,TEX,,TEX,2003
+1,SEA,AL,Bret,Bret Robert,Boone,boonebr01,boonebr01,SEA,,SEA,2003
+1,TBD,AL,Lance,Lance David,Carter,cartela02,cartela02,TBA,,TBA,2003
+1,NYY,AL,Roger,William Roger,Clemens,clemero02,clemero02,NYA,,NYA,2003
+1,ANA,AL,Brendan,Brendan Kevin,Donnelly,donnebr01,donnebr01,ANA,,ANA,2003
+1,CHW,AL,Carl,Carl Edward,Everett,evereca01,evereca01,CHA,,CHA,2003
+1,OAK,AL,Keith,Keith Charles,Foulke,foulkke01,foulkke01,OAK,,OAK,2003
+1,BOS,AL,Nomar,Anthony Nomar,Garciaparra,garcino01,garcino01,BOS,,BOS,2003
+1,NYY,AL,Jason,Jason Gilbert,Giambi,giambja01,giambja01,NYA,,NYA,2003
+1,MIN,AL,Eddie,Edward Adrain,Guardado,guarded01,guarded01,MIN,,MIN,2003
+1,TOR,AL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,TOR,,TOR,2003
+1,SEA,AL,Shigetoshi,Shigetoshi,Hasegawa,hasegsh01,hasegsh01,SEA,,SEA,2003
+1,OAK,AL,Ramon,Ramon Jose,Hernandez,hernara02,hernara02,OAK,,OAK,2003
+1,KCR,AL,Mike,Robert Meiklejohn,MacDougal,macdomi01,macdomi01,KCA,,KCA,2003
+1,BAL,AL,Melvin,Melvin,Mora,morame01,morame01,BAL,,BAL,2003
+1,SEA,AL,Jamie,Jamie,Moyer,moyerja01,moyerja01,SEA,,SEA,2003
+1,OAK,AL,Mark,Mark Alan,Mulder,muldema01,muldema01,OAK,,OAK,2003
+1,CHW,AL,Magglio,Magglio,Ordonez,ordonma01,ordonma01,CHA,,CHA,2003
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,,BOS,2003
+1,CLE,AL,CC,Carsten Charles,Sabathia,sabatcc01,sabatcc01,CLE,,CLE,2003
+1,KCR,AL,Mike,Michael John,Sweeney,sweenmi01,sweenmi01,KCA,,KCA,2003
+1,BOS,AL,Jason,Jason Andrew,Varitek,varitja01,varitja01,BOS,,BOS,2003
+1,TOR,AL,Vernon,Vernon M.,Wells,wellsve01,wellsve01,TOR,,TOR,2003
+1,DET,AL,Dmitri,Dmitri Dell,Young,youngdm01,youngdm01,DET,,DET,2003
+1,OAK,AL,Barry,Barry William,Zito,zitoba01,zitoba01,OAK,,OAK,2003
+1,SFG,NL,Jason,Jason David,Schmidt,schmija01,schmija01,SFN,1,SFN,2003
+1,ATL,NL,Javy,Javier,Lopez,lopezja01,lopezja01,ATL,2,ATL,2003
+1,COL,NL,Todd,Todd Lynn,Helton,heltoto01,heltoto01,COL,3,COL,2003
+1,WSN,NL,Jose,Jose Angel,Vidro,vidrojo01,vidrojo01,MON,4,MON,2003
+1,STL,NL,Scott,Scott Bruce,Rolen,rolensc01,rolensc01,SLN,5,SLN,2003
+1,STL,NL,Edgar,Edgar Enrique,Renteria,renteed01,renteed01,SLN,6,SLN,2003
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,7,SLN,2003
+1,STL,NL,Jim,James Patrick,Edmonds,edmonji01,edmonji01,SLN,8,SLN,2003
+1,ATL,NL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,ATL,9,ATL,2003
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,10,SFN,2003
+1,NYM,NL,Armando,Armando German,Benitez,benitar01,benitar01,NYN,,NYN,2003
+1,CIN,NL,Aaron,Aaron John,Boone,booneaa01,booneaa01,CIN,,CIN,2003
+1,LAD,NL,Kevin,James Kevin,Brown,brownke01,brownke01,LAN,,LAN,2003
+1,FLO,NL,Luis,Luis Antonio,Castillo,castilu01,castilu01,FLO,,FLO,2003
+1,COL,NL,Shawn,Shawn Anthony,Chacon,chacosh01,chacosh01,COL,,COL,2003
+1,ATL,NL,Rafael,Rafael,Furcal,furcara01,furcara01,ATL,,ATL,2003
+1,LAD,NL,Eric,Eric Serge,Gagne,gagneer01,gagneer01,LAN,,LAN,2003
+1,ATL,NL,Marcus,Marcus William,Giles,gilesma01,gilesma01,ATL,,ATL,2003
+1,ARI,NL,Luis,Luis Emilio,Gonzalez,gonzalu01,gonzalu01,ARI,,ARI,2003
+1,MIL,NL,Geoff,Geoffrey Scott,Jenkins,jenkige01,jenkige01,MIL,,MIL,2003
+1,ATL,NL,Andruw,Andruw Rudolf,Jones,jonesan01,jonesan01,ATL,,ATL,2003
+1,LAD,NL,Paul,Paul Anthony,Lo Duca,loducpa01,loducpa01,LAN,,LAN,2003
+1,FLO,NL,Mike,Michael Averett,Lowell,lowelmi01,lowelmi01,FLO,,FLO,2003
+1,ATL,NL,Russ,Russell Reid,Ortiz,ortizru01,ortizru01,ATL,,ATL,2003
+1,CHC,NL,Mark,Mark William,Prior,priorma01,priorma01,CHN,,CHN,2003
+1,MIL,NL,Richie,Richmond Lockwood,Sexson,sexsori01,sexsori01,MIL,,MIL,2003
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,,ATL,2003
+1,HOU,NL,Billy,William Edward,Wagner,wagnebi02,wagnebi02,HOU,,HOU,2003
+1,SDP,NL,Rondell,Rondell Bernard,White,whitero02,whitero02,SDN,,SDN,2003
+1,FLO,NL,Dontrelle,Dontrelle Wayne,Willis,willido03,willido03,FLO,,FLO,2003
+1,PIT,NL,Mike,Michael Darren,Williams,willimi03,willimi03,PIT,,PIT,2003
+1,STL,NL,Woody,Gregory Scott,Williams,williwo02,williwo02,SLN,,SLN,2003
+1,COL,NL,Preston,Preston James Richard,Wilson,wilsopr01,wilsopr01,COL,,COL,2003
+1,PHI,NL,Randy,Randall Christopher,Wolf,wolfra02,wolfra02,PHI,,PHI,2003
+1,CHC,NL,Kerry,Kerry Lee,Wood,woodke02,woodke02,CHN,,CHN,2003
+1,OAK,AL,Mark,Mark Alan,Mulder,muldema01,muldema01,OAK,1,OAK,2004
+1,DET,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,DET,2,DET,2004
+1,NYY,AL,Jason,Jason Gilbert,Giambi,giambja01,giambja01,NYA,3,NYA,2004
+1,TEX,AL,Alfonso,Alfonso Guilleard,Soriano,soriaal01,soriaal01,TEX,4,TEX,2004
+1,NYY,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,NYA,5,NYA,2004
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2004
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,7,BOS,2004
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,8,SEA,2004
+1,ANA,AL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,ANA,9,ANA,2004
+1,CLE,AL,Ronnie,Ronald,Belliard,belliro01,belliro01,CLE,,CLE,2004
+1,TEX,AL,Hank,Hank Joe,Blalock,blaloha01,blaloha01,TEX,,TEX,2004
+1,TEX,AL,Francisco,Francisco Javier,Cordero,cordefr01,cordefr01,TEX,,TEX,2004
+1,TBD,AL,Carl,Carl Demonte,Crawford,crawfca02,crawfca02,TBA,,TBA,2004
+1,NYY,AL,Tom,Thomas,Gordon,gordoto01,gordoto01,NYA,,NYA,2004
+1,DET,AL,Carlos,Carlos Alfonso,Guillen,guillca01,guillca01,DET,,DET,2004
+1,KCR,AL,Ken,Kenneth Eugene,Harvey,harveke01,harveke01,KCA,,KCA,2004
+1,OAK,AL,Tim,Timothy Adam,Hudson,hudsoti01,hudsoti01,OAK,,OAK,2004
+1,CLE,AL,Matt,Matthew,Lawton,lawtoma02,lawtoma02,CLE,,CLE,2004
+1,TOR,AL,Ted,Theodore Roosevelt,Lilly,lillyte01,lillyte01,TOR,,TOR,2004
+1,CHW,AL,Esteban,Esteban Antonio,Loaiza,loaizes01,loaizes01,CHA,,CHA,2004
+1,CLE,AL,Victor,Victor Jesus,Martinez,martivi01,martivi01,CLE,,CLE,2004
+1,NYY,AL,Hideki,Hideki,Matsui,matsuhi01,matsuhi01,NYA,,NYA,2004
+1,MIN,AL,Joe,Joseph Michael,Nathan,nathajo01,nathajo01,MIN,,MIN,2004
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,,BOS,2004
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2004
+1,ANA,AL,Francisco,Francisco Jose,Rodriguez,rodrifr03,rodrifr03,ANA,,ANA,2004
+1,TEX,AL,Kenny,Kenneth Scott,Rogers,rogerke01,rogerke01,TEX,,TEX,2004
+1,CLE,AL,CC,Carsten Charles,Sabathia,sabatcc01,sabatcc01,CLE,,CLE,2004
+1,BOS,AL,Curt,Curtis Montague,Schilling,schilcu01,schilcu01,BOS,,BOS,2004
+1,NYY,AL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,NYA,,NYA,2004
+1,BAL,AL,Miguel,Miguel Odalis,Tejada,tejadmi01,tejadmi01,BAL,,BAL,2004
+1,NYY,AL,Javier,Javier Carlos,Vazquez,vazquja01,vazquja01,NYA,,NYA,2004
+1,CLE,AL,Jake,Jacob Cauthen,Westbrook,westbja01,westbja01,CLE,,CLE,2004
+1,TEX,AL,Michael,Michael Brian,Young,youngmi02,youngmi02,TEX,,TEX,2004
+1,HOU,NL,Roger,William Roger,Clemens,clemero02,clemero02,HOU,1,HOU,2004
+1,NYM,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,NYN,2,NYN,2004
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,3,SLN,2004
+1,HOU,NL,Jeff,Jeffrey Franklin,Kent,kentje01,kentje01,HOU,4,HOU,2004
+1,STL,NL,Scott,Scott Bruce,Rolen,rolensc01,rolensc01,SLN,5,SLN,2004
+1,STL,NL,Edgar,Edgar Enrique,Renteria,renteed01,renteed01,SLN,6,SLN,2004
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,2004
+1,HOU,NL,Lance,William Lance,Berkman,berkmla01,berkmla01,HOU,8,HOU,2004
+1,CHC,NL,Sammy,Samuel Peralta,Sosa,sosasa01,sosasa01,CHN,9,CHN,2004
+1,PHI,NL,Bobby,Bob Kelly,Abreu,abreubo01,abreubo01,PHI,,PHI,2004
+1,CHC,NL,Moises,Moises Rojas,Alou,aloumo01,aloumo01,CHN,,CHN,2004
+1,HOU,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,HOU,,HOU,2004
+1,FLO,NL,Armando,Armando German,Benitez,benitar01,benitar01,FLO,,FLO,2004
+1,FLO,NL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,FLO,,FLO,2004
+1,CIN,NL,Sean,Sean Thomas,Casey,caseyse01,caseyse01,CIN,,CIN,2004
+1,ATL,NL,Johnny,Johnny Pulado,Estrada,estrajo01,estrajo01,ATL,,ATL,2004
+1,LAD,NL,Eric,Eric Serge,Gagne,gagneer01,gagneer01,LAN,,LAN,2004
+1,NYM,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,NYN,,NYN,2004
+1,CIN,NL,Danny,Daniel Peter,Graves,graveda01,graveda01,CIN,,CIN,2004
+1,CIN,NL,Ken,George Kenneth,Griffey,griffke02,griffke02,CIN,,CIN,2004
+1,COL,NL,Todd,Todd Lynn,Helton,heltoto01,heltoto01,COL,,COL,2004
+1,WSN,NL,Livan,Eisler Livan,Hernandez,hernali01,hernali01,MON,,MON,2004
+1,ARI,NL,Randy,Randall David,Johnson,johnsra05,johnsra05,ARI,,ARI,2004
+1,MIL,NL,Danny,Daniel Lee,Kolb,kolbda01,kolbda01,MIL,,MIL,2004
+1,CIN,NL,Barry,Barry Louis,Larkin,larkiba01,larkiba01,CIN,,CIN,2004
+1,LAD,NL,Paul,Paul Anthony,Lo Duca,loducpa01,loducpa01,LAN,,LAN,2004
+1,SDP,NL,Mark,Mark David,Loretta,loretma01,loretma01,SDN,,SDN,2004
+1,FLO,NL,Mike,Michael Averett,Lowell,lowelmi01,lowelmi01,FLO,,FLO,2004
+1,FLO,NL,Carl,Carl Anthony,Pavano,pavanca01,pavanca01,FLO,,FLO,2004
+1,SFG,NL,Jason,Jason David,Schmidt,schmija01,schmija01,SFN,,SFN,2004
+1,MIL,NL,Ben,Ben M.,Sheets,sheetbe01,sheetbe01,MIL,,MIL,2004
+1,PHI,NL,Jim,James Howard,Thome,thomeji01,thomeji01,PHI,,PHI,2004
+1,PIT,NL,Jack,Jack Eugene,Wilson,wilsoja02,wilsoja02,PIT,,PIT,2004
+1,CHC,NL,Carlos,Carlos Alberto,Zambrano,zambrca01,zambrca01,CHN,,CHN,2004
+1,CHW,AL,Mark,Mark Alan,Buehrle,buehrma01,buehrma01,CHA,1,CHA,2005
+1,BOS,AL,Jason,Jason Andrew,Varitek,varitja01,varitja01,BOS,2,BOS,2005
+1,TEX,AL,Mark,Mark Charles,Teixeira,teixema01,teixema01,TEX,3,TEX,2005
+1,BAL,AL,Brian,Brian Michael,Roberts,roberbr01,roberbr01,BAL,4,BAL,2005
+1,NYY,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,NYA,5,NYA,2005
+1,BAL,AL,Miguel,Miguel Odalis,Tejada,tejadmi01,tejadmi01,BAL,6,BAL,2005
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,7,BOS,2005
+1,BOS,AL,Johnny,Johnny David,Damon,damonjo01,damonjo01,BOS,8,BOS,2005
+1,ANA,AL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,LAA,9,LAA,2005
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,10,BOS,2005
+1,ANA,AL,Garret,Garret Joseph,Anderson,anderga01,anderga01,LAA,,LAA,2005
+1,TBD,AL,Danys,Danys G.,Baez,baezda01,baezda01,TBA,,TBA,2005
+1,BOS,AL,Matt,Matthew Paul,Clement,clemema01,clemema01,BOS,,BOS,2005
+1,ANA,AL,Bartolo,Bartolo,Colon,colonba01,colonba01,LAA,,LAA,2005
+1,OAK,AL,Justin,Justin Craig,Duchscherer,duchsju01,duchsju01,OAK,,OAK,2005
+1,CHW,AL,Jon,Jon Steven,Garland,garlajo01,garlajo01,CHA,,CHA,2005
+1,TOR,AL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,TOR,,TOR,2005
+1,TOR,AL,Shea,Shea Matthew,Hillenbrand,hillesh02,hillesh02,TOR,,TOR,2005
+1,CHW,AL,Paul,Paul Henry,Konerko,konerpa01,konerpa01,CHA,,CHA,2005
+1,BAL,AL,Melvin,Melvin,Mora,morame01,morame01,BAL,,BAL,2005
+1,MIN,AL,Joe,Joseph Michael,Nathan,nathajo01,nathajo01,MIN,,MIN,2005
+1,CHW,AL,Scott,Scott Eric,Podsednik,podsesc01,podsesc01,CHA,,CHA,2005
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2005
+1,DET,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,DET,,DET,2005
+1,TEX,AL,Kenny,Kenneth Scott,Rogers,rogerke01,rogerke01,TEX,,TEX,2005
+1,BAL,AL,B. J.,Robert Victor,Ryan,ryanbj01,ryanbj01,BAL,,BAL,2005
+1,MIN,AL,Johan,Johan Alexander,Santana,santajo01,santajo01,MIN,,MIN,2005
+1,NYY,AL,Gary,Gary Antonian,Sheffield,sheffga01,sheffga01,NYA,,NYA,2005
+1,TEX,AL,Alfonso,Alfonso Guilleard,Soriano,soriaal01,soriaal01,TEX,,TEX,2005
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,,SEA,2005
+1,KCR,AL,Mike,Michael John,Sweeney,sweenmi01,sweenmi01,KCA,,KCA,2005
+1,CLE,AL,Bob,Robert Joe,Wickman,wickmbo01,wickmbo01,CLE,,CLE,2005
+1,TEX,AL,Michael,Michael Brian,Young,youngmi02,youngmi02,TEX,,TEX,2005
+1,STL,NL,Chris,Christopher John,Carpenter,carpech01,carpech01,SLN,1,SLN,2005
+1,NYM,NL,Mike,Michael Joseph,Piazza,piazzmi01,piazzmi01,NYN,2,NYN,2005
+1,CHC,NL,Derrek,Derrek Leon,Lee,leede02,leede02,CHN,3,CHN,2005
+1,LAD,NL,Jeff,Jeffrey Franklin,Kent,kentje01,kentje01,LAN,4,LAN,2005
+1,CHC,NL,Aramis,Aramis,Ramirez,ramirar01,ramirar01,CHN,5,CHN,2005
+1,STL,NL,David,David Mark,Eckstein,eckstda01,eckstda01,SLN,6,SLN,2005
+1,NYM,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,NYN,7,NYN,2005
+1,STL,NL,Jim,James Patrick,Edmonds,edmonji01,edmonji01,SLN,8,SLN,2005
+1,PHI,NL,Bobby,Bob Kelly,Abreu,abreubo01,abreubo01,PHI,9,PHI,2005
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,10,SLN,2005
+1,SFG,NL,Moises,Moises Rojas,Alou,aloumo01,aloumo01,SFN,,SFN,2005
+1,PIT,NL,Jason,Jason Raymond,Bay,bayja01,bayja01,PIT,,PIT,2005
+1,FLO,NL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,FLO,,FLO,2005
+1,FLO,NL,Luis,Luis Antonio,Castillo,castilu01,castilu01,FLO,,FLO,2005
+1,HOU,NL,Roger,William Roger,Clemens,clemero02,clemero02,HOU,,HOU,2005
+1,WSN,NL,Chad,Chad Patrick,Cordero,cordech01,cordech01,WAS,,WAS,2005
+1,HOU,NL,Morgan,Morgan Paul,Ensberg,ensbemo01,ensbemo01,HOU,,HOU,2005
+1,COL,NL,Brian,Brian Christopher,Fuentes,fuentbr01,fuentbr01,COL,,COL,2005
+1,ARI,NL,Luis,Luis Emilio,Gonzalez,gonzalu01,gonzalu01,ARI,,ARI,2005
+1,WSN,NL,Livan,Eisler Livan,Hernandez,hernali01,hernali01,WAS,,WAS,2005
+1,STL,NL,Jason,Jason Derik,Isringhausen,isrinja01,isrinja01,SLN,,SLN,2005
+1,LAD,NL,Cesar,Cesar David,Izturis,izturce01,izturce01,LAN,,LAN,2005
+1,ATL,NL,Andruw,Andruw Rudolf,Jones,jonesan01,jonesan01,ATL,,ATL,2005
+1,MIL,NL,Carlos,Carlos,Lee,leeca01,leeca01,MIL,,MIL,2005
+1,HOU,NL,Brad,Bradley Thomas,Lidge,lidgebr01,lidgebr01,HOU,,HOU,2005
+1,FLO,NL,Paul,Paul Anthony,Lo Duca,loducpa01,loducpa01,FLO,,FLO,2005
+1,CIN,NL,Felipe,Felipe,Lopez,lopezfe01,lopezfe01,CIN,,CIN,2005
+1,NYM,NL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,NYN,,NYN,2005
+1,HOU,NL,Roy,Roy Edward,Oswalt,oswalro01,oswalro01,HOU,,HOU,2005
+1,SDP,NL,Jake,Jacob Edward,Peavy,peavyja01,peavyja01,SDN,,SDN,2005
+1,STL,NL,Scott,Scott Bruce,Rolen,rolensc01,rolensc01,SLN,,SLN,2005
+1,PHI,NL,Jimmy,James Calvin,Rollins,rolliji01,rolliji01,PHI,,PHI,2005
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,,ATL,2005
+1,PHI,NL,Billy,William Edward,Wagner,wagnebi02,wagnebi02,PHI,,PHI,2005
+1,FLO,NL,Dontrelle,Dontrelle Wayne,Willis,willido03,willido03,FLO,,FLO,2005
+1,DET,AL,Kenny,Kenneth Scott,Rogers,rogerke01,rogerke01,DET,1,DET,2006
+1,DET,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,DET,2,DET,2006
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,3,BOS,2006
+1,BOS,AL,Mark,Mark David,Loretta,loretma01,loretma01,BOS,4,BOS,2006
+1,NYY,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,NYA,5,NYA,2006
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2006
+1,ANA,AL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,LAA,7,LAA,2006
+1,TOR,AL,Vernon,Vernon M.,Wells,wellsve01,wellsve01,TOR,8,TOR,2006
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,9,SEA,2006
+1,CHW,AL,Mark,Mark Alan,Buehrle,buehrma01,buehrma01,CHA,,CHA,2006
+1,NYY,AL,Robinson,Robinson Jose,Cano,canoro01,canoro01,NYA,,NYA,2006
+1,CHW,AL,Jose,Jose Ariel,Contreras,contrjo01,contrjo01,CHA,,CHA,2006
+1,CHW,AL,Jermaine,Jermaine Terrell,Dye,dyeje01,dyeje01,CHA,,CHA,2006
+1,TOR,AL,Troy,Troy Edward,Glaus,glaustr01,glaustr01,TOR,,TOR,2006
+1,TOR,AL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,TOR,,TOR,2006
+1,CHW,AL,Bobby,Robert Scott,Jenks,jenksbo01,jenksbo01,CHA,,CHA,2006
+1,TBD,AL,Scott,Scott Edward,Kazmir,kazmisc01,kazmisc01,TBA,,TBA,2006
+1,CHW,AL,Paul,Paul Henry,Konerko,konerpa01,konerpa01,CHA,,CHA,2006
+1,MIN,AL,Francisco,Francisco Casillas,Liriano,liriafr01,liriafr01,MIN,,MIN,2006
+1,SEA,AL,Jose,Jose Celestino,Lopez,lopezjo01,lopezjo01,SEA,,SEA,2006
+1,TEX,AL,Gary,Gary Nathaniel,Matthews,matthga02,matthga02,TEX,,TEX,2006
+1,MIN,AL,Joe,Joseph Patrick,Mauer,mauerjo01,mauerjo01,MIN,,MIN,2006
+1,DET,AL,Magglio,Magglio,Ordonez,ordonma01,ordonma01,DET,,DET,2006
+1,BOS,AL,Jonathan,Jonathan Robert,Papelbon,papeljo01,papeljo01,BOS,,BOS,2006
+1,CHW,AL,A. J.,Anthony John,Pierzynski,pierzaj01,pierzaj01,CHA,,CHA,2006
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,,BOS,2006
+1,KCR,AL,Mark,Mark Allen,Redman,redmama01,redmama01,KCA,,KCA,2006
+1,TOR,AL,Alex,Alexis Israel,Rios,riosal01,riosal01,TOR,,TOR,2006
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2006
+1,TOR,AL,B. J.,Robert Victor,Ryan,ryanbj01,ryanbj01,TOR,,TOR,2006
+1,MIN,AL,Johan,Johan Alexander,Santana,santajo01,santajo01,MIN,,MIN,2006
+1,CLE,AL,Grady,Grady,Sizemore,sizemgr01,sizemgr01,CLE,,CLE,2006
+1,BAL,AL,Miguel,Miguel Odalis,Tejada,tejadmi01,tejadmi01,BAL,,BAL,2006
+1,CHW,AL,Jim,James Howard,Thome,thomeji01,thomeji01,CHA,,CHA,2006
+1,TEX,AL,Michael,Michael Brian,Young,youngmi02,youngmi02,TEX,,TEX,2006
+1,OAK,AL,Barry,Barry William,Zito,zitoba01,zitoba01,OAK,,OAK,2006
+1,LAD,NL,Brad,Bradley Wayne,Penny,pennybr01,pennybr01,LAN,1,LAN,2006
+1,NYM,NL,Paul,Paul Anthony,Lo Duca,loducpa01,loducpa01,NYN,2,NYN,2006
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,3,SLN,2006
+1,PHI,NL,Chase,Chase Cameron,Utley,utleych01,utleych01,PHI,4,PHI,2006
+1,NYM,NL,David,David Allen,Wright,wrighda03,wrighda03,NYN,5,NYN,2006
+1,ATL,NL,Edgar,Edgar Enrique,Renteria,renteed01,renteed01,ATL,6,ATL,2006
+1,WSN,NL,Alfonso,Alfonso Guilleard,Soriano,soriaal01,soriaal01,WAS,7,WAS,2006
+1,NYM,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,NYN,8,NYN,2006
+1,PIT,NL,Jason,Jason Raymond,Bay,bayja01,bayja01,PIT,9,PIT,2006
+1,CIN,NL,Bronson,Bronson Anthony,Arroyo,arroybr01,arroybr01,CIN,,CIN,2006
+1,HOU,NL,Lance,William Lance,Berkman,berkmla01,berkmla01,HOU,,HOU,2006
+1,FLO,NL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,FLO,,FLO,2006
+1,MIL,NL,Chris,Christopher Frank,Capuano,capuach01,capuach01,MIL,,MIL,2006
+1,STL,NL,Chris,Christopher John,Carpenter,carpech01,carpech01,SLN,,SLN,2006
+1,STL,NL,David,David Mark,Eckstein,eckstda01,eckstda01,SLN,,SLN,2006
+1,COL,NL,Brian,Brian Christopher,Fuentes,fuentbr01,fuentbr01,COL,,COL,2006
+1,LAD,NL,Nomar,Anthony Nomar,Garciaparra,garcino01,garcino01,LAN,,LAN,2006
+1,NYM,NL,Tom,Thomas Michael,Glavine,glavito02,glavito02,NYN,,NYN,2006
+1,PHI,NL,Tom,Thomas,Gordon,gordoto01,gordoto01,PHI,,PHI,2006
+1,SDP,NL,Trevor,Trevor William,Hoffman,hoffmtr01,hoffmtr01,SDN,,SDN,2006
+1,COL,NL,Matt,Matthew Thomas,Holliday,hollima01,hollima01,COL,,COL,2006
+1,PHI,NL,Ryan,Ryan James,Howard,howarry01,howarry01,PHI,,PHI,2006
+1,ATL,NL,Andruw,Andruw Rudolf,Jones,jonesan01,jonesan01,ATL,,ATL,2006
+1,MIL,NL,Carlos,Carlos,Lee,leeca01,leeca01,MIL,,MIL,2006
+1,NYM,NL,Pedro,Pedro Jaime,Martinez,martipe02,martipe02,NYN,,NYN,2006
+1,ATL,NL,Brian,Brian Michael,McCann,mccanbr01,mccanbr01,ATL,,ATL,2006
+1,HOU,NL,Roy,Roy Edward,Oswalt,oswalro01,oswalro01,HOU,,HOU,2006
+1,NYM,NL,Jose,Jose Bernabe,Reyes,reyesjo01,reyesjo01,NYN,,NYN,2006
+1,STL,NL,Scott,Scott Bruce,Rolen,rolensc01,rolensc01,SLN,,SLN,2006
+1,PIT,NL,Freddy,Frederick Philip,Sanchez,sanchfr01,sanchfr01,PIT,,PIT,2006
+1,SFG,NL,Jason,Jason David,Schmidt,schmija01,schmija01,SFN,,SFN,2006
+1,MIL,NL,Derrick,Thomas Derrick,Turnbow,turnbde01,turnbde01,MIL,,MIL,2006
+1,FLO,NL,Dan,Daniel Cooley,Uggla,ugglada01,ugglada01,FLO,,FLO,2006
+1,ARI,NL,Brandon,Brandon Tyler,Webb,webbbr01,webbbr01,ARI,,ARI,2006
+1,CHC,NL,Carlos,Carlos Alberto,Zambrano,zambrca01,zambrca01,CHN,,CHN,2006
+1,OAK,AL,Dan,Daniel John,Haren,harenda01,harenda01,OAK,1,OAK,2007
+1,DET,AL,Ivan,Ivan,Rodriguez,rodriiv01,rodriiv01,DET,2,DET,2007
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,3,BOS,2007
+1,DET,AL,Placido,Placido Enrique,Polanco,polanpl01,polanpl01,DET,4,DET,2007
+1,NYY,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,NYA,5,NYA,2007
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2007
+1,DET,AL,Magglio,Magglio,Ordonez,ordonma01,ordonma01,DET,7,DET,2007
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,8,SEA,2007
+1,ANA,AL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,LAA,9,LAA,2007
+1,BOS,AL,Josh,Joshua Patrick,Beckett,beckejo02,beckejo02,BOS,,BOS,2007
+1,TBD,AL,Carl,Carl Demonte,Crawford,crawfca02,crawfca02,TBA,,TBA,2007
+1,DET,AL,Carlos,Carlos Alfonso,Guillen,guillca01,guillca01,DET,,DET,2007
+1,MIN,AL,Torii,Torii Kedar,Hunter,hunteto01,hunteto01,MIN,,MIN,2007
+1,CHW,AL,Bobby,Robert Scott,Jenks,jenksbo01,jenksbo01,CHA,,CHA,2007
+1,ANA,AL,John,John Derran,Lackey,lackejo01,lackejo01,LAA,,LAA,2007
+1,BOS,AL,Mike,Michael Averett,Lowell,lowelmi01,lowelmi01,BOS,,BOS,2007
+1,CLE,AL,Victor,Victor Jesus,Martinez,martivi01,martivi01,CLE,,CLE,2007
+1,KCR,AL,Gil,Gilbert Allen,Meche,mechegi01,mechegi01,KCA,,KCA,2007
+1,MIN,AL,Justin,Justin Ernest George,Morneau,morneju01,morneju01,MIN,,MIN,2007
+1,BOS,AL,Hideki,Hideki,Okajima,okajihi01,okajihi01,BOS,,BOS,2007
+1,BOS,AL,Jonathan,Jonathan Robert,Papelbon,papeljo01,papeljo01,BOS,,BOS,2007
+1,NYY,AL,Jorge,Jorge Rafael,Posada,posadjo01,posadjo01,NYA,,NYA,2007
+1,SEA,AL,J. J.,Joseph Jason,Putz,putzjj01,putzjj01,SEA,,SEA,2007
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,,BOS,2007
+1,TOR,AL,Alex,Alexis Israel,Rios,riosal01,riosal01,TOR,,TOR,2007
+1,BAL,AL,Brian,Brian Michael,Roberts,roberbr01,roberbr01,BAL,,BAL,2007
+1,ANA,AL,Francisco,Francisco Jose,Rodriguez,rodrifr03,rodrifr03,LAA,,LAA,2007
+1,CLE,AL,CC,Carsten Charles,Sabathia,sabatcc01,sabatcc01,CLE,,CLE,2007
+1,MIN,AL,Johan,Johan Alexander,Santana,santajo01,santajo01,MIN,,MIN,2007
+1,CLE,AL,Grady,Grady,Sizemore,sizemgr01,sizemgr01,CLE,,CLE,2007
+1,DET,AL,Justin,Justin Brooks,Verlander,verlaju01,verlaju01,DET,,DET,2007
+1,TEX,AL,Michael,Michael Brian,Young,youngmi02,youngmi02,TEX,,TEX,2007
+1,SDP,NL,Jake,Jacob Edward,Peavy,peavyja01,peavyja01,SDN,1,SDN,2007
+1,LAD,NL,Russell,Russell Nathan Coltrane,Martin,martiru01,martiru01,LAN,2,LAN,2007
+1,MIL,NL,Prince,Prince Semien,Fielder,fieldpr01,fieldpr01,MIL,3,MIL,2007
+1,PHI,NL,Chase,Chase Cameron,Utley,utleych01,utleych01,PHI,4,PHI,2007
+1,NYM,NL,David,David Allen,Wright,wrighda03,wrighda03,NYN,5,NYN,2007
+1,NYM,NL,Jose,Jose Bernabe,Reyes,reyesjo01,reyesjo01,NYN,6,NYN,2007
+1,SFG,NL,Barry,Barry Lamar,Bonds,bondsba01,bondsba01,SFN,7,SFN,2007
+1,NYM,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,NYN,8,NYN,2007
+1,CIN,NL,Ken,George Kenneth,Griffey,griffke02,griffke02,CIN,9,CIN,2007
+1,FLO,NL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,FLO,,FLO,2007
+1,MIL,NL,Francisco,Francisco Javier,Cordero,cordefr01,cordefr01,MIL,,MIL,2007
+1,COL,NL,Brian,Brian Christopher,Fuentes,fuentbr01,fuentbr01,COL,,COL,2007
+1,PHI,NL,Cole,Colbert Michael,Hamels,hamelco01,hamelco01,PHI,,PHI,2007
+1,MIL,NL,J. J.,James Jerry,Hardy,hardyjj01,hardyjj01,MIL,,MIL,2007
+1,SDP,NL,Trevor,Trevor William,Hoffman,hoffmtr01,hoffmtr01,SDN,,SDN,2007
+1,COL,NL,Matt,Matthew Thomas,Holliday,hollima01,hollima01,COL,,COL,2007
+1,ARI,NL,Orlando,Orlando Thill,Hudson,hudsoor01,hudsoor01,ARI,,ARI,2007
+1,HOU,NL,Carlos,Carlos,Lee,leeca01,leeca01,HOU,,HOU,2007
+1,CHC,NL,Derrek,Derrek Leon,Lee,leede02,leede02,CHN,,CHN,2007
+1,ATL,NL,Brian,Brian Michael,McCann,mccanbr01,mccanbr01,ATL,,ATL,2007
+1,HOU,NL,Roy,Roy Edward,Oswalt,oswalro01,oswalro01,HOU,,HOU,2007
+1,LAD,NL,Brad,Bradley Wayne,Penny,pennybr01,pennybr01,LAN,,LAN,2007
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,,SLN,2007
+1,PHI,NL,Aaron,Aaron Ryan,Rowand,rowanaa01,rowanaa01,PHI,,PHI,2007
+1,LAD,NL,Takashi,Takashi,Saito,saitota01,saitota01,LAN,,LAN,2007
+1,PIT,NL,Freddy,Frederick Philip,Sanchez,sanchfr01,sanchfr01,PIT,,PIT,2007
+1,MIL,NL,Ben,Ben M.,Sheets,sheetbe01,sheetbe01,MIL,,MIL,2007
+1,ATL,NL,John,John Andrew,Smoltz,smoltjo01,smoltjo01,ATL,,ATL,2007
+1,CHC,NL,Alfonso,Alfonso Guilleard,Soriano,soriaal01,soriaal01,CHN,,CHN,2007
+1,ARI,NL,Jose,Jose Rafael,Valverde,valvejo01,valvejo01,ARI,,ARI,2007
+1,NYM,NL,Billy,William Edward,Wagner,wagnebi02,wagnebi02,NYN,,NYN,2007
+1,ARI,NL,Brandon,Brandon Tyler,Webb,webbbr01,webbbr01,ARI,,ARI,2007
+1,SDP,NL,Chris,Christopher Ryan,Young,youngch03,youngch03,SDN,,SDN,2007
+1,WSN,NL,Dmitri,Dmitri Dell,Young,youngdm01,youngdm01,WAS,,WAS,2007
+1,CLE,AL,Cliff,Clifton Phifer,Lee,leecl02,leecl02,CLE,1,CLE,2008
+1,MIN,AL,Joe,Joseph Patrick,Mauer,mauerjo01,mauerjo01,MIN,2,MIN,2008
+1,BOS,AL,Kevin,Kevin Edmund,Youkilis,youklke01,youklke01,BOS,3,BOS,2008
+1,BOS,AL,Dustin,Dustin Luis,Pedroia,pedrodu01,pedrodu01,BOS,4,BOS,2008
+1,NYY,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,NYA,5,NYA,2008
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2008
+1,BOS,AL,Manny,Manuel Aristides,Ramirez,ramirma02,ramirma02,BOS,7,BOS,2008
+1,TEX,AL,Josh,Joshua Holt,Hamilton,hamiljo03,hamiljo03,TEX,8,TEX,2008
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,9,SEA,2008
+1,TEX,AL,Milton,Milton Obelle,Bradley,bradlmi01,bradlmi01,TEX,10,TEX,2008
+1,CHW,AL,Joe,Joseph,Crede,credejo01,credejo01,CHA,,CHA,2008
+1,BOS,AL,J. D.,David Jonathan,Drew,drewjd01,drewjd01,BOS,,BOS,2008
+1,OAK,AL,Justin,Justin Craig,Duchscherer,duchsju01,duchsju01,OAK,,OAK,2008
+1,DET,AL,Carlos,Carlos Alfonso,Guillen,guillca01,guillca01,DET,,DET,2008
+1,TOR,AL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,TOR,,TOR,2008
+1,TBD,AL,Scott,Scott Edward,Kazmir,kazmisc01,kazmisc01,TBA,,TBA,2008
+1,TEX,AL,Ian,Ian Michael,Kinsler,kinslia01,kinslia01,TEX,,TEX,2008
+1,TBD,AL,Evan,Evan Michael,Longoria,longoev01,longoev01,TBA,,TBA,2008
+1,MIN,AL,Justin,Justin Ernest George,Morneau,morneju01,morneju01,MIN,,MIN,2008
+1,MIN,AL,Joe,Joseph Michael,Nathan,nathajo01,nathajo01,MIN,,MIN,2008
+1,TBD,AL,Dioner,Dioner Favian,Navarro,navardi01,navardi01,TBA,,TBA,2008
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,,BOS,2008
+1,BOS,AL,Jonathan,Jonathan Robert,Papelbon,papeljo01,papeljo01,BOS,,BOS,2008
+1,CHW,AL,Carlos,Carlos Jose,Quentin,quentca01,quentca01,CHA,,CHA,2008
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2008
+1,ANA,AL,Francisco,Francisco Jose,Rodriguez,rodrifr03,rodrifr03,LAA,,LAA,2008
+1,ANA,AL,Ervin,Ervin Ramon,Santana,santaer01,santaer01,LAA,,LAA,2008
+1,ANA,AL,Joe,Joseph Francis,Saunders,saundjo01,saundjo01,LAA,,LAA,2008
+1,BAL,AL,George,George Friederich,Sherrill,sherrge01,sherrge01,BAL,,BAL,2008
+1,CLE,AL,Grady,Grady,Sizemore,sizemgr01,sizemgr01,CLE,,CLE,2008
+1,KCR,AL,Joakim,Joakim Agustin,Soria,soriajo01,soriajo01,KCA,,KCA,2008
+1,BOS,AL,Jason,Jason Andrew,Varitek,varitja01,varitja01,BOS,,BOS,2008
+1,TEX,AL,Michael,Michael Brian,Young,youngmi02,youngmi02,TEX,,TEX,2008
+1,MIL,NL,Ben,Ben M.,Sheets,sheetbe01,sheetbe01,MIL,1,MIL,2008
+1,CHC,NL,Geovany,Geovany,Soto,sotoge01,sotoge01,CHN,2,CHN,2008
+1,HOU,NL,Lance,William Lance,Berkman,berkmla01,berkmla01,HOU,3,HOU,2008
+1,PHI,NL,Chase,Chase Cameron,Utley,utleych01,utleych01,PHI,4,PHI,2008
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,5,ATL,2008
+1,FLO,NL,Hanley,Hanley,Ramirez,ramirha01,ramirha01,FLO,6,FLO,2008
+1,MIL,NL,Ryan,Ryan Joseph,Braun,braunry02,braunry02,MIL,7,MIL,2008
+1,CHC,NL,Kosuke,Kosuke,Fukudome,fukudko01,fukudko01,CHN,8,CHN,2008
+1,COL,NL,Matt,Matthew Thomas,Holliday,hollima01,hollima01,COL,9,COL,2008
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,10,SLN,2008
+1,COL,NL,Aaron,Aaron Lane,Cook,cookaa01,cookaa01,COL,,COL,2008
+1,CHC,NL,Ryan,Ryan Scott,Dempster,dempsry01,dempsry01,CHN,,CHN,2008
+1,SDP,NL,Adrian,Adrian Sabin,Gonzalez,gonzaad01,gonzaad01,SDN,,SDN,2008
+1,WSN,NL,Cristian,Cristian,Guzman,guzmacr01,guzmacr01,WAS,,WAS,2008
+1,ARI,NL,Dan,Daniel John,Haren,harenda01,harenda01,ARI,,ARI,2008
+1,MIL,NL,Corey,Jon Corey,Hart,hartco01,hartco01,MIL,,MIL,2008
+1,PHI,NL,Brad,Bradley Thomas,Lidge,lidgebr01,lidgebr01,PHI,,PHI,2008
+1,SFG,NL,Tim,Timothy LeRoy,Lincecum,linceti01,linceti01,SFN,,SFN,2008
+1,STL,NL,Ryan,Ryan Andrew,Ludwick,ludwiry01,ludwiry01,SLN,,SLN,2008
+1,CHC,NL,Carlos,Carlos Agustin,Marmol,marmoca01,marmoca01,CHN,,CHN,2008
+1,LAD,NL,Russell,Russell Nathan Coltrane,Martin,martiru01,martiru01,LAN,,LAN,2008
+1,ATL,NL,Brian,Brian Michael,McCann,mccanbr01,mccanbr01,ATL,,ATL,2008
+1,PIT,NL,Nate,Nathan Richard,McLouth,mclouna01,mclouna01,PIT,,PIT,2008
+1,CHC,NL,Aramis,Aramis,Ramirez,ramirar01,ramirar01,CHN,,CHN,2008
+1,CHC,NL,Alfonso,Alfonso Guilleard,Soriano,soriaal01,soriaal01,CHN,,CHN,2008
+1,HOU,NL,Miguel,Miguel Odalis,Tejada,tejadmi01,tejadmi01,HOU,,HOU,2008
+1,FLO,NL,Dan,Daniel Cooley,Uggla,ugglada01,ugglada01,FLO,,FLO,2008
+1,CIN,NL,Edinson,Edinson,Volquez,volqued01,volqued01,CIN,,CIN,2008
+1,NYM,NL,Billy,William Edward,Wagner,wagnebi02,wagnebi02,NYN,,NYN,2008
+1,ARI,NL,Brandon,Brandon Tyler,Webb,webbbr01,webbbr01,ARI,,ARI,2008
+1,SFG,NL,Brian,Brian Patrick,Wilson,wilsobr01,wilsobr01,SFN,,SFN,2008
+1,CHC,NL,Kerry,Kerry Lee,Wood,woodke02,woodke02,CHN,,CHN,2008
+1,NYM,NL,David,David Allen,Wright,wrighda03,wrighda03,NYN,,NYN,2008
+1,CHC,NL,Carlos,Carlos Alberto,Zambrano,zambrca01,zambrca01,CHN,,CHN,2008
+1,TOR,AL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,TOR,1,TOR,2009
+1,MIN,AL,Joe,Joseph Patrick,Mauer,mauerjo01,mauerjo01,MIN,2,MIN,2009
+1,NYY,AL,Mark,Mark Charles,Teixeira,teixema01,teixema01,NYA,3,NYA,2009
+1,TOR,AL,Aaron,Aaron Walter,Hill,hillaa01,hillaa01,TOR,4,TOR,2009
+1,TEX,AL,Michael,Michael Brian,Young,youngmi02,youngmi02,TEX,5,TEX,2009
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2009
+1,BOS,AL,Jason,Jason Raymond,Bay,bayja01,bayja01,BOS,7,BOS,2009
+1,TEX,AL,Josh,Joshua Holt,Hamilton,hamiljo03,hamiljo03,TEX,8,TEX,2009
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,9,SEA,2009
+1,OAK,AL,Andrew,Andrew Scott,Bailey,bailean01,bailean01,OAK,,OAK,2009
+1,TBD,AL,Jason,Jason Alan,Bartlett,bartlja01,bartlja01,TBA,,TBA,2009
+1,BOS,AL,Josh,Joshua Patrick,Beckett,beckejo02,beckejo02,BOS,,BOS,2009
+1,CHW,AL,Mark,Mark Alan,Buehrle,buehrma01,buehrma01,CHA,,CHA,2009
+1,TBD,AL,Carl,Carl Demonte,Crawford,crawfca02,crawfca02,TBA,,TBA,2009
+1,TEX,AL,Nelson,Nelson Ramon,Cruz,cruzne02,cruzne02,TEX,,TEX,2009
+1,ANA,AL,Chone,Desmond DeChone,Figgins,figgich01,figgich01,LAA,,LAA,2009
+1,ANA,AL,Brian,Brian Christopher,Fuentes,fuentbr01,fuentbr01,LAA,,LAA,2009
+1,DET,AL,Curtis,Curtis,Granderson,grandcu01,grandcu01,DET,,DET,2009
+1,KCR,AL,Zack,Donald Zachary,Greinke,greinza01,greinza01,KCA,,KCA,2009
+1,SEA,AL,Felix,Felix Abraham,Hernandez,hernafe02,hernafe02,SEA,,SEA,2009
+1,ANA,AL,Torii,Torii Kedar,Hunter,hunteto01,hunteto01,LAA,,LAA,2009
+1,DET,AL,Brandon,Charles Brandon,Inge,ingebr01,ingebr01,DET,,DET,2009
+1,DET,AL,Edwin,Edwin,Jackson,jacksed01,jacksed01,DET,,DET,2009
+1,BAL,AL,Adam,Adam La Marque,Jones,jonesad01,jonesad01,BAL,,BAL,2009
+1,TBD,AL,Evan,Evan Michael,Longoria,longoev01,longoev01,TBA,,TBA,2009
+1,CLE,AL,Victor,Victor Jesus,Martinez,martivi01,martivi01,CLE,,CLE,2009
+1,MIN,AL,Justin,Justin Ernest George,Morneau,morneju01,morneju01,MIN,,MIN,2009
+1,MIN,AL,Joe,Joseph Michael,Nathan,nathajo01,nathajo01,MIN,,MIN,2009
+1,BOS,AL,Jonathan,Jonathan Robert,Papelbon,papeljo01,papeljo01,BOS,,BOS,2009
+1,BOS,AL,Dustin,Dustin Luis,Pedroia,pedrodu01,pedrodu01,BOS,,BOS,2009
+1,TBD,AL,Carlos,Carlos Felipe,Pena,penaca01,penaca01,TBA,,TBA,2009
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2009
+1,DET,AL,Justin,Justin Brooks,Verlander,verlaju01,verlaju01,DET,,DET,2009
+1,BOS,AL,Tim,Timothy Stephen,Wakefield,wakefti01,wakefti01,BOS,,BOS,2009
+1,BOS,AL,Kevin,Kevin Edmund,Youkilis,youklke01,youklke01,BOS,,BOS,2009
+1,TBD,AL,Ben,Benjamin Thomas,Zobrist,zobribe01,zobribe01,TBA,,TBA,2009
+1,SFG,NL,Tim,Timothy LeRoy,Lincecum,linceti01,linceti01,SFN,1,SFN,2009
+1,STL,NL,Yadier,Yadier Benjamin,Molina,molinya01,molinya01,SLN,2,SLN,2009
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,3,SLN,2009
+1,PHI,NL,Chase,Chase Cameron,Utley,utleych01,utleych01,PHI,4,PHI,2009
+1,NYM,NL,David,David Allen,Wright,wrighda03,wrighda03,NYN,5,NYN,2009
+1,FLO,NL,Hanley,Hanley,Ramirez,ramirha01,ramirha01,FLO,6,FLO,2009
+1,PHI,NL,Raul,Raul Javier,Ibanez,ibanera01,ibanera01,PHI,7,PHI,2009
+1,PHI,NL,Shane,Shane Patrick,Victorino,victosh01,victosh01,PHI,8,PHI,2009
+1,MIL,NL,Ryan,Ryan Joseph,Braun,braunry02,braunry02,MIL,9,MIL,2009
+1,SDP,NL,Heath,Heath Justin,Bell,bellhe01,bellhe01,SDN,,SDN,2009
+1,NYM,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,NYN,,NYN,2009
+1,LAD,NL,Chad,Chad Ryan,Billingsley,billich01,billich01,LAN,,LAN,2009
+1,LAD,NL,Jonathan,Jonathan Roy,Broxton,broxtjo01,broxtjo01,LAN,,LAN,2009
+1,SFG,NL,Matt,Matthew Thomas,Cain,cainma01,cainma01,SFN,,SFN,2009
+1,CIN,NL,Francisco,Francisco Javier,Cordero,cordefr01,cordefr01,CIN,,CIN,2009
+1,PIT,NL,Zach,Zachary Thomas,Duke,dukeza01,dukeza01,PIT,,PIT,2009
+1,MIL,NL,Prince,Prince Semien,Fielder,fieldpr01,fieldpr01,MIL,,MIL,2009
+1,STL,NL,Ryan,Ryan Ray,Franklin,frankry01,frankry01,SLN,,SLN,2009
+1,SDP,NL,Adrian,Adrian Sabin,Gonzalez,gonzaad01,gonzaad01,SDN,,SDN,2009
+1,ARI,NL,Dan,Daniel John,Haren,harenda01,harenda01,ARI,,ARI,2009
+1,COL,NL,Brad,Bradley Bonte,Hawpe,hawpebr01,hawpebr01,COL,,COL,2009
+1,MIL,NL,Trevor,Trevor William,Hoffman,hoffmtr01,hoffmtr01,MIL,,MIL,2009
+1,PHI,NL,Ryan,Ryan James,Howard,howarry01,howarry01,PHI,,PHI,2009
+1,LAD,NL,Orlando,Orlando Thill,Hudson,hudsoor01,hudsoor01,LAN,,LAN,2009
+1,FLO,NL,Josh,Joshua Michael,Johnson,johnsjo09,johnsjo09,FLO,,FLO,2009
+1,CHC,NL,Ted,Theodore Roosevelt,Lilly,lillyte01,lillyte01,CHN,,CHN,2009
+1,COL,NL,Jason,Jason Scott,Marquis,marquja01,marquja01,COL,,COL,2009
+1,ATL,NL,Brian,Brian Michael,McCann,mccanbr01,mccanbr01,ATL,,ATL,2009
+1,HOU,NL,Hunter,Hunter Andrew,Pence,pencehu01,pencehu01,HOU,,HOU,2009
+1,NYM,NL,Francisco,Francisco Jose,Rodriguez,rodrifr03,rodrifr03,NYN,,NYN,2009
+1,PIT,NL,Freddy,Frederick Philip,Sanchez,sanchfr01,sanchfr01,PIT,,PIT,2009
+1,NYM,NL,Johan,Johan Alexander,Santana,santajo01,santajo01,NYN,,NYN,2009
+1,HOU,NL,Miguel,Miguel Odalis,Tejada,tejadmi01,tejadmi01,HOU,,HOU,2009
+1,ARI,NL,Justin,Justin Irvin,Upton,uptonju01,uptonju01,ARI,,ARI,2009
+1,PHI,NL,Jayson,Jayson Richard Gowan,Werth,werthja01,werthja01,PHI,,PHI,2009
+1,WSN,NL,Ryan,Ryan Wallace,Zimmerman,zimmery01,zimmery01,WAS,,WAS,2009
+1,TBD,AL,David,David Taylor,Price,priceda01,priceda01,TBA,1,TBA,2010
+1,MIN,AL,Joe,Joseph Patrick,Mauer,mauerjo01,mauerjo01,MIN,2,MIN,2010
+1,DET,AL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,DET,3,DET,2010
+1,NYY,AL,Robinson,Robinson Jose,Cano,canoro01,canoro01,NYA,4,NYA,2010
+1,TBD,AL,Evan,Evan Michael,Longoria,longoev01,longoev01,TBA,5,TBA,2010
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2010
+1,TBD,AL,Carl,Carl Demonte,Crawford,crawfca02,crawfca02,TBA,7,TBA,2010
+1,TEX,AL,Josh,Joshua Holt,Hamilton,hamiljo03,hamiljo03,TEX,8,TEX,2010
+1,SEA,AL,Ichiro,Ichiro,Suzuki,suzukic01,suzukic01,SEA,9,SEA,2010
+1,TEX,AL,Vladimir,Vladimir,Guerrero,guerrvl01,guerrvl01,TEX,10,TEX,2010
+1,TEX,AL,Elvis,Elvis Augusto,Andrus,andruel01,andruel01,TEX,,TEX,2010
+1,OAK,AL,Andrew,Andrew Scott,Bailey,bailean01,bailean01,OAK,,OAK,2010
+1,TOR,AL,Jose,Jose Antonio,Bautista,bautijo02,bautijo02,TOR,,TOR,2010
+1,BOS,AL,Adrian,Adrian,Beltre,beltrad01,beltrad01,BOS,,BOS,2010
+1,BOS,AL,Clay,Clay Daniel,Buchholz,buchhcl01,buchhcl01,BOS,,BOS,2010
+1,TOR,AL,John,Johnathan Richard,Buck,buckjo01,buckjo01,TOR,,TOR,2010
+1,OAK,AL,Trevor,Trevor John,Cahill,cahiltr01,cahiltr01,OAK,,OAK,2010
+1,CLE,AL,Roberto,Roberto,Hernandez,carmofa01,carmofa01,CLE,,CLE,2010
+1,TEX,AL,Neftali,Neftali,Feliz,felizne01,felizne01,TEX,,TEX,2010
+1,NYY,AL,Phil,Philip Joseph,Hughes,hugheph01,hugheph01,NYA,,NYA,2010
+1,ANA,AL,Torii,Torii Kedar,Hunter,hunteto01,hunteto01,LAA,,LAA,2010
+1,TEX,AL,Ian,Ian Michael,Kinsler,kinslia01,kinslia01,TEX,,TEX,2010
+1,CHW,AL,Paul,Paul Henry,Konerko,konerpa01,konerpa01,CHA,,CHA,2010
+1,SEA,AL,Cliff,Clifton Phifer,Lee,leecl02,leecl02,SEA,,SEA,2010
+1,BOS,AL,Jon,Jonathan Tyler,Lester,lestejo01,lestejo01,BOS,,BOS,2010
+1,BOS,AL,Victor,Victor Jesus,Martinez,martivi01,martivi01,BOS,,BOS,2010
+1,MIN,AL,Justin,Justin Ernest George,Morneau,morneju01,morneju01,MIN,,MIN,2010
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,,BOS,2010
+1,BOS,AL,Dustin,Dustin Luis,Pedroia,pedrodu01,pedrodu01,BOS,,BOS,2010
+1,NYY,AL,Andy,Andrew Eugene,Pettitte,pettian01,pettian01,NYA,,NYA,2010
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2010
+1,NYY,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,NYA,,NYA,2010
+1,NYY,AL,CC,Carsten Charles,Sabathia,sabatcc01,sabatcc01,NYA,,NYA,2010
+1,KCR,AL,Joakim,Joakim Agustin,Soria,soriajo01,soriajo01,KCA,,KCA,2010
+1,TBD,AL,Rafael,Rafael,Soriano,soriara01,soriara01,TBA,,TBA,2010
+1,NYY,AL,Nick,Nicholas Thomas,Swisher,swishni01,swishni01,NYA,,NYA,2010
+1,CHW,AL,Matt,Matthew J.,Thornton,thornma01,thornma01,CHA,,CHA,2010
+1,DET,AL,Jose,Jose Rafael,Valverde,valvejo01,valvejo01,DET,,DET,2010
+1,DET,AL,Justin,Justin Brooks,Verlander,verlaju01,verlaju01,DET,,DET,2010
+1,ANA,AL,Jered,Jered David,Weaver,weaveje02,weaveje02,LAA,,LAA,2010
+1,TOR,AL,Vernon,Vernon M.,Wells,wellsve01,wellsve01,TOR,,TOR,2010
+1,BAL,AL,Ty,Ty Allen,Wigginton,wiggity01,wiggity01,BAL,,BAL,2010
+1,COL,NL,Ubaldo,Ubaldo,Jimenez,jimenub01,jimenub01,COL,1,COL,2010
+1,STL,NL,Yadier,Yadier Benjamin,Molina,molinya01,molinya01,SLN,2,SLN,2010
+1,STL,NL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,SLN,3,SLN,2010
+1,ATL,NL,Martin,Martin Manuel,Prado,pradoma01,pradoma01,ATL,4,ATL,2010
+1,NYM,NL,David,David Allen,Wright,wrighda03,wrighda03,NYN,5,NYN,2010
+1,FLO,NL,Hanley,Hanley,Ramirez,ramirha01,ramirha01,FLO,6,FLO,2010
+1,MIL,NL,Ryan,Ryan Joseph,Braun,braunry02,braunry02,MIL,7,MIL,2010
+1,LAD,NL,Andre,Andre Everett,Ethier,ethiean01,ethiean01,LAN,8,LAN,2010
+1,MIL,NL,Corey,Jon Corey,Hart,hartco01,hartco01,MIL,9,MIL,2010
+1,PHI,NL,Ryan,Ryan James,Howard,howarry01,howarry01,PHI,10,PHI,2010
+1,SDP,NL,Heath,Heath Justin,Bell,bellhe01,bellhe01,SDN,,SDN,2010
+1,HOU,NL,Michael,Michael Ray,Bourn,bournmi01,bournmi01,HOU,,HOU,2010
+1,LAD,NL,Jonathan,Jonathan Roy,Broxton,broxtjo01,broxtjo01,LAN,,LAN,2010
+1,CHC,NL,Marlon,Marlon Jerrard,Byrd,byrdma01,byrdma01,CHN,,CHN,2010
+1,WSN,NL,Matt,Matthew Dicus,Capps,cappsma01,cappsma01,WAS,,WAS,2010
+1,STL,NL,Chris,Christopher John,Carpenter,carpech01,carpech01,SLN,,SLN,2010
+1,LAD,NL,Rafael,Rafael,Furcal,furcara01,furcara01,LAN,,LAN,2010
+1,MIL,NL,Yovani,Yovani,Gallardo,gallayo01,gallayo01,MIL,,MIL,2010
+1,SDP,NL,Adrian,Adrian Sabin,Gonzalez,gonzaad01,gonzaad01,SDN,,SDN,2010
+1,PHI,NL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,PHI,,PHI,2010
+1,ATL,NL,Jason,Jason Alias,Heyward,heywaja01,heywaja01,ATL,,ATL,2010
+1,STL,NL,Matt,Matthew Thomas,Holliday,hollima01,hollima01,SLN,,SLN,2010
+1,ATL,NL,Tim,Timothy Adam,Hudson,hudsoti01,hudsoti01,ATL,,ATL,2010
+1,ATL,NL,Omar,Omar Rafael,Infante,infanom01,infanom01,ATL,,ATL,2010
+1,FLO,NL,Josh,Joshua Michael,Johnson,johnsjo09,johnsjo09,FLO,,FLO,2010
+1,LAD,NL,Hung-Chih,Hung-Chih,Kuo,kuoho01,kuoho01,LAN,,LAN,2010
+1,SFG,NL,Tim,Timothy LeRoy,Lincecum,linceti01,linceti01,SFN,,SFN,2010
+1,ATL,NL,Brian,Brian Michael,McCann,mccanbr01,mccanbr01,ATL,,ATL,2010
+1,PIT,NL,Evan,Evan David,Meek,meekev01,meekev01,PIT,,PIT,2010
+1,CIN,NL,Brandon,Brandon Emil,Phillips,phillbr01,phillbr01,CIN,,CIN,2010
+1,NYM,NL,Jose,Jose Bernabe,Reyes,reyesjo01,reyesjo01,NYN,,NYN,2010
+1,CIN,NL,Arthur,Arthur Lee,Rhodes,rhodear01,rhodear01,CIN,,CIN,2010
+1,CIN,NL,Scott,Scott Bruce,Rolen,rolensc01,rolensc01,CIN,,CIN,2010
+1,COL,NL,Troy,Troy Trever,Tulowitzki,tulowtr01,tulowtr01,COL,,COL,2010
+1,PHI,NL,Chase,Chase Cameron,Utley,utleych01,utleych01,PHI,,PHI,2010
+1,CIN,NL,Joey,Joseph Daniel,Votto,vottojo01,vottojo01,CIN,,CIN,2010
+1,ATL,NL,Billy,William Edward,Wagner,wagnebi02,wagnebi02,ATL,,ATL,2010
+1,STL,NL,Adam,Adam Parrish,Wainwright,wainwad01,wainwad01,SLN,,SLN,2010
+1,SFG,NL,Brian,Brian Patrick,Wilson,wilsobr01,wilsobr01,SFN,,SFN,2010
+1,ARI,NL,Chris,Christopher Brandon,Young,youngch04,youngch04,ARI,,ARI,2010
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,0,BOS,2011
+1,DET,AL,Jered,Jered David,Weaver,weaveje02,weaveje02,DET,1,DET,2011
+1,DET,AL,Alex,Alexander Thomas,Avila,avilaal01,avilaal01,DET,2,DET,2011
+1,BOS,AL,Adrian,Adrian Sabin,Gonzalez,gonzaad01,gonzaad01,BOS,3,BOS,2011
+1,NYY,AL,Robinson,Robinson Jose,Cano,canoro01,canoro01,NYA,4,NYA,2011
+1,TEX,AL,Adrian,Adrian,Beltre,beltrad01,beltrad01,TEX,5,TEX,2011
+1,CLE,AL,Asdrubal,Asdrubal Jose,Cabrera,cabreas01,cabreas01,CLE,6,CLE,2011
+1,TEX,AL,Josh,Joshua Holt,Hamilton,hamiljo03,hamiljo03,TEX,7,TEX,2011
+1,NYY,AL,Curtis,Curtis,Granderson,grandcu01,grandcu01,NYA,8,NYA,2011
+1,TOR,AL,Jose,Jose Antonio,Bautista,bautijo02,bautijo02,TOR,9,TOR,2011
+1,BOS,AL,Josh,Joshua Patrick,Beckett,beckejo02,beckejo02,BOS,,BOS,2011
+1,DET,AL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,DET,,DET,2011
+1,KCR,AL,Aaron,Aaron James,Crow,crowaa01,crowaa01,KCA,,KCA,2011
+1,MIN,AL,Michael,Michael Brent,Cuddyer,cuddymi01,cuddymi01,MIN,,MIN,2011
+1,BOS,AL,Jacoby,Jacoby McCabe,Ellsbury,ellsbja01,ellsbja01,BOS,,BOS,2011
+1,OAK,AL,Gio,Giovany Aramis,Gonzalez,gonzagi01,gonzagi01,OAK,,OAK,2011
+1,SEA,AL,Felix,Felix Abraham,Hernandez,hernafe02,hernafe02,SEA,,SEA,2011
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,,NYA,2011
+1,TBD,AL,Matthew,Matthew Ryan,Joyce,joycema01,joycema01,TBA,,TBA,2011
+1,ANA,AL,Howie,Howard Joseph,Kendrick,kendrho01,kendrho01,LAA,,LAA,2011
+1,CHW,AL,Paul,Paul Henry,Konerko,konerpa01,konerpa01,CHA,,CHA,2011
+1,SEA,AL,Brandon,Brandon Paul,League,leagubr01,leagubr01,SEA,,SEA,2011
+1,BOS,AL,Jon,Jonathan Tyler,Lester,lestejo01,lestejo01,BOS,,BOS,2011
+1,NYY,AL,Russell,Russell Nathan Coltrane,Martin,martiru01,martiru01,NYA,,NYA,2011
+1,TEX,AL,Alexi,Alexi,Ogando,ogandal01,ogandal01,TEX,,TEX,2011
+1,DET,AL,Jhonny,Jhonny Antonio,Peralta,peraljh01,peraljh01,DET,,DET,2011
+1,CLE,AL,Chris,Christopher Ralph,Perez,perezch01,perezch01,CLE,,CLE,2011
+1,SEA,AL,Michael,Michael Francisco,Pineda,pinedmi01,pinedmi01,SEA,,SEA,2011
+1,TBD,AL,David,David Taylor,Price,priceda01,priceda01,TBA,,TBA,2011
+1,CHW,AL,Carlos,Carlos Jose,Quentin,quentca01,quentca01,CHA,,CHA,2011
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2011
+1,NYY,AL,David,David Alan,Robertson,roberda08,roberda08,NYA,,NYA,2011
+1,NYY,AL,Alex,Alexander Enmanuel,Rodriguez,rodrial01,rodrial01,NYA,,NYA,2011
+1,TOR,AL,Ricky,Ricardo,Romero,romerri01,romerri01,TOR,,TOR,2011
+1,NYY,AL,CC,Carsten Charles,Sabathia,sabatcc01,sabatcc01,NYA,,NYA,2011
+1,TBD,AL,James,James Anthony,Shields,shielja02,shielja02,TBA,,TBA,2011
+1,DET,AL,Jose,Jose Rafael,Valverde,valvejo01,valvejo01,DET,,DET,2011
+1,DET,AL,Justin,Justin Brooks,Verlander,verlaju01,verlaju01,DET,,DET,2011
+1,ANA,AL,Jordan,Jordan Craig,Walden,waldejo01,waldejo01,LAA,,LAA,2011
+1,BAL,AL,Matt,Matthew Richard,Wieters,wietema01,wietema01,BAL,,BAL,2011
+1,TEX,AL,C. J.,Christopher John,Wilson,wilsocj01,wilsocj01,TEX,,TEX,2011
+1,BOS,AL,Kevin,Kevin Edmund,Youkilis,youklke01,youklke01,BOS,,BOS,2011
+1,TEX,AL,Michael,Michael Brian,Young,youngmi02,youngmi02,TEX,,TEX,2011
+1,NYM,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,NYN,0,NYN,2011
+1,PHI,NL,Roy,Harry Leroy,Halladay,hallaro01,hallaro01,PHI,1,PHI,2011
+1,ATL,NL,Brian,Brian Michael,McCann,mccanbr01,mccanbr01,ATL,2,ATL,2011
+1,MIL,NL,Prince,Prince Semien,Fielder,fieldpr01,fieldpr01,MIL,3,MIL,2011
+1,MIL,NL,Rickie,Rickie Darnell,Weeks,weeksri01,weeksri01,MIL,4,MIL,2011
+1,CIN,NL,Scott,Scott Bruce,Rolen,rolensc01,rolensc01,CIN,5,CIN,2011
+1,COL,NL,Troy,Troy Trever,Tulowitzki,tulowtr01,tulowtr01,COL,6,COL,2011
+1,STL,NL,Matt,Matthew Thomas,Holliday,hollima01,hollima01,SLN,7,SLN,2011
+1,LAD,NL,Matt,Matthew Ryan,Kemp,kempma01,kempma01,LAN,8,LAN,2011
+1,STL,NL,Lance,William Lance,Berkman,berkmla01,berkmla01,SLN,9,SLN,2011
+1,SDP,NL,Heath,Heath Justin,Bell,bellhe01,bellhe01,SDN,,SDN,2011
+1,MIL,NL,Ryan,Ryan Joseph,Braun,braunry02,braunry02,MIL,,MIL,2011
+1,CIN,NL,Jay,Jay Allen,Bruce,bruceja01,bruceja01,CIN,,CIN,2011
+1,SFG,NL,Matt,Matthew Thomas,Cain,cainma01,cainma01,SFN,,SFN,2011
+1,CHC,NL,Starlin,Starlin DeJesus,Castro,castrst01,castrst01,CHN,,CHN,2011
+1,WSN,NL,Tyler,Tyler Lee,Clippard,clippty01,clippty01,WAS,,WAS,2011
+1,PIT,NL,Kevin,Kevin John,Correia,correke01,correke01,PIT,,PIT,2011
+1,LAD,NL,Andre,Andre Everett,Ethier,ethiean01,ethiean01,LAN,,LAN,2011
+1,PHI,NL,Cole,Colbert Michael,Hamels,hamelco01,hamelco01,PHI,,PHI,2011
+1,PIT,NL,Joel,Joel Ryan,Hanrahan,hanrajo01,hanrajo01,PIT,,PIT,2011
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,,ATL,2011
+1,ATL,NL,Jair,Jair Francoise,Jurrjens,jurrjja01,jurrjja01,ATL,,ATL,2011
+1,LAD,NL,Clayton,Clayton Edward,Kershaw,kershcl01,kershcl01,LAN,,LAN,2011
+1,ATL,NL,Craig,Craig Michael,Kimbrel,kimbrcr01,kimbrcr01,ATL,,ATL,2011
+1,PHI,NL,Cliff,Clifton Phifer,Lee,leecl02,leecl02,PHI,,PHI,2011
+1,SFG,NL,Tim,Timothy LeRoy,Lincecum,linceti01,linceti01,SFN,,SFN,2011
+1,PIT,NL,Andrew,Andrew Stefan,McCutchen,mccutan01,mccutan01,PIT,,PIT,2011
+1,STL,NL,Yadier,Yadier Benjamin,Molina,molinya01,molinya01,SLN,,SLN,2011
+1,ARI,NL,Miguel,Miguel Angel,Montero,montemi01,montemi01,ARI,,ARI,2011
+1,HOU,NL,Hunter,Hunter Andrew,Pence,pencehu01,pencehu01,HOU,,HOU,2011
+1,CIN,NL,Brandon,Brandon Emil,Phillips,phillbr01,phillbr01,CIN,,CIN,2011
+1,PHI,NL,Placido,Placido Enrique,Polanco,polanpl01,polanpl01,PHI,,PHI,2011
+1,NYM,NL,Jose,Jose Bernabe,Reyes,reyesjo01,reyesjo01,NYN,,NYN,2011
+1,FLO,NL,Gaby,Gabriel,Sanchez,sanchga01,sanchga01,FLO,,FLO,2011
+1,SFG,NL,Pablo,Pablo Emilio,Sandoval,sandopa01,sandopa01,SFN,,SFN,2011
+1,ARI,NL,Justin,Justin Irvin,Upton,uptonju01,uptonju01,ARI,,ARI,2011
+1,ATL,NL,Jonny,Jonathan William,Venters,ventejo01,ventejo01,ATL,,ATL,2011
+1,PHI,NL,Shane,Shane Patrick,Victorino,victosh01,victosh01,PHI,,PHI,2011
+1,SFG,NL,Ryan,Ryan Andrew,Vogelsong,vogelry01,vogelry01,SFN,,SFN,2011
+1,CIN,NL,Joey,Joseph Daniel,Votto,vottojo01,vottojo01,CIN,,CIN,2011
+1,SFG,NL,Brian,Brian Patrick,Wilson,wilsobr01,wilsobr01,SFN,,SFN,2011
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,0,BOS,2012
+1,DET,AL,Justin,Justin Brooks,Verlander,verlaju01,verlaju01,DET,1,DET,2012
+1,TEX,AL,Mike,Michael Anthony,Napoli,napolmi01,napolmi01,TEX,2,TEX,2012
+1,DET,AL,Prince,Prince Semien,Fielder,fieldpr01,fieldpr01,DET,3,DET,2012
+1,NYY,AL,Robinson,Robinson Jose,Cano,canoro01,canoro01,NYA,4,NYA,2012
+1,TEX,AL,Adrian,Adrian,Beltre,beltrad01,beltrad01,TEX,5,TEX,2012
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2012
+1,TEX,AL,Josh,Joshua Holt,Hamilton,hamiljo03,hamiljo03,TEX,7,TEX,2012
+1,NYY,AL,Curtis,Curtis,Granderson,grandcu01,grandcu01,NYA,8,NYA,2012
+1,TOR,AL,Jose,Jose Antonio,Bautista,bautijo02,bautijo02,TOR,9,TOR,2012
+1,TEX,AL,Elvis,Elvis Augusto,Andrus,andruel01,andruel01,TEX,,TEX,2012
+1,KCR,AL,Billy,Billy Ray,Butler,butlebi03,butlebi03,KCA,,KCA,2012
+1,CLE,AL,Asdrubal,Asdrubal Jose,Cabrera,cabreas01,cabreas01,CLE,,CLE,2012
+1,DET,AL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,DET,,DET,2012
+1,OAK,AL,Ryan,Ryan William,Cook,cookry01,cookry01,OAK,,OAK,2012
+1,TEX,AL,Yu,Sefat Farid Yu,Darvish,darviyu01,darviyu01,TEX,,TEX,2012
+1,CHW,AL,Adam,Adam Troy,Dunn,dunnad01,dunnad01,CHA,,CHA,2012
+1,TEX,AL,Matt,Matthew Reid,Harrison,harrima01,harrima01,TEX,,TEX,2012
+1,SEA,AL,Felix,Felix Abraham,Hernandez,hernafe02,hernafe02,SEA,,SEA,2012
+1,BAL,AL,Jim,James Robert,Johnson,johnsji04,johnsji04,BAL,,BAL,2012
+1,BAL,AL,Adam,Adam La Marque,Jones,jonesad01,jonesad01,BAL,,BAL,2012
+1,TEX,AL,Ian,Ian Michael,Kinsler,kinslia01,kinslia01,TEX,,TEX,2012
+1,CHW,AL,Paul,Paul Henry,Konerko,konerpa01,konerpa01,CHA,,CHA,2012
+1,MIN,AL,Joe,Joseph Patrick,Mauer,mauerjo01,mauerjo01,MIN,,MIN,2012
+1,TEX,AL,Joe,Joseph Michael,Nathan,nathajo01,nathajo01,TEX,,TEX,2012
+1,CHW,AL,Jake,Jacob Edward,Peavy,peavyja01,peavyja01,CHA,,CHA,2012
+1,CLE,AL,Chris,Christopher Ralph,Perez,perezch01,perezch01,CLE,,CLE,2012
+1,TBD,AL,David,David Taylor,Price,priceda01,priceda01,TBA,,TBA,2012
+1,DET,AL,Fernando,Fernando,Rodney,rodnefe01,rodnefe01,DET,,DET,2012
+1,NYY,AL,CC,Carsten Charles,Sabathia,sabatcc01,sabatcc01,NYA,,NYA,2012
+1,CHW,AL,Chris,Christopher,Sale,salech01,salech01,CHA,,CHA,2012
+1,ANA,AL,Mike,Michael Nelson,Trout,troutmi01,troutmi01,LAA,,LAA,2012
+1,ANA,AL,Mark,Mark Daniel,Trumbo,trumbma01,trumbma01,LAA,,LAA,2012
+1,DET,AL,Jered,Jered David,Weaver,weaveje02,weaveje02,DET,,DET,2012
+1,BAL,AL,Matt,Matthew Richard,Wieters,wietema01,wietema01,BAL,,BAL,2012
+1,TEX,AL,C. J.,Christopher John,Wilson,wilsocj01,wilsocj01,TEX,,TEX,2012
+1,COL,NL,Carlos,Carlos Eduardo,Gonzalez,gonzaca01,gonzaca01,COL,0,COL,2012
+1,SFG,NL,Matt,Matthew Thomas,Cain,cainma01,cainma01,SFN,1,SFN,2012
+1,SFG,NL,Buster,Gerald Dempsey,Posey,poseybu01,poseybu01,SFN,2,SFN,2012
+1,CIN,NL,Joey,Joseph Daniel,Votto,vottojo01,vottojo01,CIN,3,CIN,2012
+1,ATL,NL,Dan,Daniel Cooley,Uggla,ugglada01,ugglada01,ATL,4,ATL,2012
+1,SFG,NL,Pablo,Pablo Emilio,Sandoval,sandopa01,sandopa01,SFN,5,SFN,2012
+1,STL,NL,Rafael,Rafael,Furcal,furcara01,furcara01,SLN,6,SLN,2012
+1,MIL,NL,Ryan,Ryan Joseph,Braun,braunry02,braunry02,MIL,7,MIL,2012
+1,SFG,NL,Melky,Melky,Cabrera,cabreme01,cabreme01,SFN,8,SFN,2012
+1,NYM,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,NYN,9,NYN,2012
+1,HOU,NL,Jose,Jose Carlos,Altuve,altuvjo01,altuvjo01,HOU,,HOU,2012
+1,ATL,NL,Michael,Michael Ray,Bourn,bournmi01,bournmi01,ATL,,ATL,2012
+1,CIN,NL,Jay,Jay Allen,Bruce,bruceja01,bruceja01,CIN,,CIN,2012
+1,CHC,NL,Starlin,Starlin DeJesus,Castro,castrst01,castrst01,CHN,,CHN,2012
+1,CIN,NL,Aroldis,Albertin Aroldis,Chapman,chapmar01,chapmar01,CIN,,CIN,2012
+1,WSN,NL,Ian,Ian M.,Desmond,desmoia01,desmoia01,WAS,,WAS,2012
+1,NYM,NL,R. A.,Robert Allen,Dickey,dickera01,dickera01,NYN,,NYN,2012
+1,STL,NL,David,David Richard,Freese,freesda01,freesda01,SLN,,SLN,2012
+1,WSN,NL,Gio,Giovany Aramis,Gonzalez,gonzagi01,gonzagi01,WAS,,WAS,2012
+1,PHI,NL,Cole,Colbert Michael,Hamels,hamelco01,hamelco01,PHI,,PHI,2012
+1,PIT,NL,Joel,Joel Ryan,Hanrahan,hanrajo01,hanrajo01,PIT,,PIT,2012
+1,WSN,NL,Bryce,Bryce Aron Max,Harper,harpebr03,harpebr03,WAS,,WAS,2012
+1,STL,NL,Matt,Matthew Thomas,Holliday,hollima01,hollima01,SLN,,SLN,2012
+1,ATL,NL,Chipper,Larry Wayne,Jones,jonesch06,jonesch06,ATL,,ATL,2012
+1,LAD,NL,Matt,Matthew Ryan,Kemp,kempma01,kempma01,LAN,,LAN,2012
+1,LAD,NL,Clayton,Clayton Edward,Kershaw,kershcl01,kershcl01,LAN,,LAN,2012
+1,ATL,NL,Craig,Craig Michael,Kimbrel,kimbrcr01,kimbrcr01,ATL,,ATL,2012
+1,CHC,NL,Bryan,Bryan Allan,LaHair,lahaibr01,lahaibr01,CHN,,CHN,2012
+1,STL,NL,Lance,Michael Lance,Lynn,lynnla01,lynnla01,SLN,,SLN,2012
+1,PIT,NL,Andrew,Andrew Stefan,McCutchen,mccutan01,mccutan01,PIT,,PIT,2012
+1,ARI,NL,Wade,Wade Allen,Miley,mileywa01,mileywa01,ARI,,ARI,2012
+1,STL,NL,Yadier,Yadier Benjamin,Molina,molinya01,molinya01,SLN,,SLN,2012
+1,PHI,NL,Jonathan,Jonathan Robert,Papelbon,papeljo01,papeljo01,PHI,,PHI,2012
+1,PHI,NL,Carlos,Carlos Joaquin,Ruiz,ruizca01,ruizca01,PHI,,PHI,2012
+1,FLO,NL,Giancarlo,Giancarlo Cruz-Michael,Stanton,stantmi03,stantmi03,MIA,,MIA,2012
+1,WSN,NL,Stephen,Stephen James,Strasburg,strasst01,strasst01,WAS,,WAS,2012
+1,SDP,NL,Huston,Huston Lowell,Street,streehu01,streehu01,SDN,,SDN,2012
+1,NYM,NL,David,David Allen,Wright,wrighda03,wrighda03,NYN,,NYN,2012
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,0,BOS,2013
+1,DET,AL,Max,Maxwell M.,Scherzer,scherma01,scherma01,DET,1,DET,2013
+1,MIN,AL,Joe,Joseph Patrick,Mauer,mauerjo01,mauerjo01,MIN,2,MIN,2013
+1,BAL,AL,Chris,Christopher Lyn,Davis,davisch02,davisch02,BAL,3,BAL,2013
+1,NYY,AL,Robinson,Robinson Jose,Cano,canoro01,canoro01,NYA,4,NYA,2013
+1,DET,AL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,DET,5,DET,2013
+1,BAL,AL,J. J.,James Jerry,Hardy,hardyjj01,hardyjj01,BAL,6,BAL,2013
+1,ANA,AL,Mike,Michael Nelson,Trout,troutmi01,troutmi01,LAA,7,LAA,2013
+1,BAL,AL,Adam,Adam La Marque,Jones,jonesad01,jonesad01,BAL,8,BAL,2013
+1,TOR,AL,Jose,Jose Antonio,Bautista,bautijo02,bautijo02,TOR,9,TOR,2013
+1,OAK,AL,Grant,Grant Robert,Balfour,balfogr01,balfogr01,OAK,,OAK,2013
+1,BOS,AL,Clay,Clay Daniel,Buchholz,buchhcl01,buchhcl01,BOS,,BOS,2013
+1,HOU,AL,Jason,Jason Michael,Castro,castrja01,castrja01,HOU,,HOU,2013
+1,TOR,AL,Brett,Brett Aarion,Cecil,cecilbr01,cecilbr01,TOR,,TOR,2013
+1,OAK,AL,Bartolo,Bartolo,Colon,colonba01,colonba01,OAK,,OAK,2013
+1,CHW,AL,Jesse,Jesse Alan,Crain,crainje01,crainje01,CHA,,CHA,2013
+1,TEX,AL,Nelson,Nelson Ramon,Cruz,cruzne02,cruzne02,TEX,,TEX,2013
+1,TEX,AL,Yu,Sefat Farid Yu,Darvish,darviyu01,darviyu01,TEX,,TEX,2013
+1,TOR,AL,Steve,Steven Edward,Delabar,delabst01,delabst01,TOR,,TOR,2013
+1,TOR,AL,Edwin,Edwin Elpidio,Encarnacion,encared01,encared01,TOR,,TOR,2013
+1,DET,AL,Prince,Prince Semien,Fielder,fieldpr01,fieldpr01,DET,,DET,2013
+1,KCR,AL,Alex,Alex Jonathan,Gordon,gordoal01,gordoal01,KCA,,KCA,2013
+1,SEA,AL,Felix,Felix Abraham,Hernandez,hernafe02,hernafe02,SEA,,SEA,2013
+1,KCR,AL,Greg,Gregory Scott,Holland,hollagr01,hollagr01,KCA,,KCA,2013
+1,DET,AL,Torii,Torii Kedar,Hunter,hunteto01,hunteto01,DET,,DET,2013
+1,SEA,AL,Hisashi,Hisashi,Iwakuma,iwakuhi01,iwakuhi01,SEA,,SEA,2013
+1,CLE,AL,Jason,Jason Michael,Kipnis,kipnija01,kipnija01,CLE,,CLE,2013
+1,BAL,AL,Manny,Manuel Arturo,Machado,machama01,machama01,BAL,,BAL,2013
+1,CLE,AL,Justin,Justin Daniel,Masterson,masteju01,masteju01,CLE,,CLE,2013
+1,TBD,AL,Matt,Matthew Cody,Moore,moorema02,moorema02,TBA,,TBA,2013
+1,TEX,AL,Joe,Joseph Michael,Nathan,nathajo01,nathajo01,TEX,,TEX,2013
+1,BOS,AL,Dustin,Dustin Luis,Pedroia,pedrodu01,pedrodu01,BOS,,BOS,2013
+1,DET,AL,Jhonny,Jhonny Antonio,Peralta,peraljh01,peraljh01,DET,,DET,2013
+1,KCR,AL,Salvador,Salvador Johan,Perez,perezsa02,perezsa02,KCA,,KCA,2013
+1,MIN,AL,Glen,Glen Weston,Perkins,perkigl01,perkigl01,MIN,,MIN,2013
+1,NYY,AL,Mariano,Mariano,Rivera,riverma01,riverma01,NYA,,NYA,2013
+1,CHW,AL,Chris,Christopher,Sale,salech01,salech01,CHA,,CHA,2013
+1,BAL,AL,Chris,Christopher Steven,Tillman,tillmch01,tillmch01,BAL,,BAL,2013
+1,DET,AL,Justin,Justin Brooks,Verlander,verlaju01,verlaju01,DET,,DET,2013
+1,TBD,AL,Ben,Benjamin Thomas,Zobrist,zobribe01,zobribe01,TBA,,TBA,2013
+1,COL,NL,Michael,Michael Brent,Cuddyer,cuddymi01,cuddymi01,COL,0,COL,2013
+1,NYM,NL,Matt,Matthew Edward,Harvey,harvema01,harvema01,NYN,1,NYN,2013
+1,STL,NL,Yadier,Yadier Benjamin,Molina,molinya01,molinya01,SLN,2,SLN,2013
+1,CIN,NL,Joey,Joseph Daniel,Votto,vottojo01,vottojo01,CIN,3,CIN,2013
+1,CIN,NL,Brandon,Brandon Emil,Phillips,phillbr01,phillbr01,CIN,4,CIN,2013
+1,NYM,NL,David,David Allen,Wright,wrighda03,wrighda03,NYN,5,NYN,2013
+1,COL,NL,Troy,Troy Trever,Tulowitzki,tulowtr01,tulowtr01,COL,6,COL,2013
+1,STL,NL,Carlos,Carlos Eduardo,Gonzalez,gonzaca01,gonzaca01,SLN,7,SLN,2013
+1,WSN,NL,Bryce,Bryce Aron Max,Harper,harpebr03,harpebr03,WAS,8,WAS,2013
+1,STL,NL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,SLN,9,SLN,2013
+1,PIT,NL,Pedro,Pedro Manuel,Alvarez,alvarpe01,alvarpe01,PIT,,PIT,2013
+1,PHI,NL,Domonic,Domonic Larun,Brown,browndo01,browndo01,PHI,,PHI,2013
+1,SFG,NL,Madison,Madison Kyle,Bumgarner,bumgama01,bumgama01,SFN,,SFN,2013
+1,SDP,NL,Everth,Everth,Cabrera,cabreev01,cabreev01,SDN,,SDN,2013
+1,STL,NL,Matt,Matthew Martin,Carpenter,carpema01,carpema01,SLN,,SLN,2013
+1,CIN,NL,Aroldis,Albertin Aroldis,Chapman,chapmar01,chapmar01,CIN,,CIN,2013
+1,ARI,NL,Patrick,Patrick Alan,Corbin,corbipa01,corbipa01,ARI,,ARI,2013
+1,STL,NL,Allen,Allen Thomas,Craig,craigal01,craigal01,SLN,,SLN,2013
+1,FLO,NL,Jose,Jose D.,Fernandez,fernajo02,fernajo02,MIA,,MIA,2013
+1,ATL,NL,Freddie,Frederick Charles,Freeman,freemfr01,freemfr01,ATL,,ATL,2013
+1,ARI,NL,Paul,Paul Edward,Goldschmidt,goldspa01,goldspa01,ARI,,ARI,2013
+1,MIL,NL,Carlos,Carlos Argelis,Gomez,gomezca01,gomezca01,MIL,,MIL,2013
+1,PIT,NL,Jason,Jason Michael,Grilli,grillja01,grillja01,PIT,,PIT,2013
+1,LAD,NL,Clayton,Clayton Edward,Kershaw,kershcl01,kershcl01,LAN,,LAN,2013
+1,ATL,NL,Craig,Craig Michael,Kimbrel,kimbrcr01,kimbrcr01,ATL,,ATL,2013
+1,PHI,NL,Cliff,Clifton Phifer,Lee,leecl02,leecl02,PHI,,PHI,2013
+1,PIT,NL,Jeff,Jeffrey Alan,Locke,lockeje01,lockeje01,PIT,,PIT,2013
+1,ATL,NL,Brian,Brian Michael,McCann,mccanbr01,mccanbr01,ATL,,ATL,2013
+1,PIT,NL,Andrew,Andrew Stefan,McCutchen,mccutan01,mccutan01,PIT,,PIT,2013
+1,PIT,NL,Mark,Mark D.,Melancon,melanma01,melanma01,PIT,,PIT,2013
+1,STL,NL,Edward,Edward Jose,Mujica,mujiced01,mujiced01,SLN,,SLN,2013
+1,SFG,NL,Buster,Gerald Dempsey,Posey,poseybu01,poseybu01,SFN,,SFN,2013
+1,SFG,NL,Sergio,Sergio Francisco,Romo,romose01,romose01,SFN,,SFN,2013
+1,SFG,NL,Marco,Marcos,Scutaro,scutama01,scutama01,SFN,,SFN,2013
+1,MIL,NL,Jean,Jean Carlos Enrique,Segura,segurje01,segurje01,MIL,,MIL,2013
+1,STL,NL,Adam,Adam Parrish,Wainwright,wainwad01,wainwad01,SLN,,SLN,2013
+1,CHC,NL,Travis,Travis A.,Wood,woodtr01,woodtr01,CHN,,CHN,2013
+1,WSN,NL,Jordan,Jordan M.,Zimmermann,zimmejo02,zimmejo02,WAS,,WAS,2013
+1,BAL,AL,Nelson,Nelson Ramon,Cruz,cruzne02,cruzne02,BAL,0,BAL,2014
+1,SEA,AL,Felix,Felix Abraham,Hernandez,hernafe02,hernafe02,SEA,1,SEA,2014
+1,KCR,AL,Salvador,Salvador Johan,Perez,perezsa02,perezsa02,KCA,2,KCA,2014
+1,DET,AL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,DET,3,DET,2014
+1,SEA,AL,Robinson,Robinson Jose,Cano,canoro01,canoro01,SEA,4,SEA,2014
+1,OAK,AL,Josh,Joshua Adam,Donaldson,donaljo02,donaljo02,OAK,5,OAK,2014
+1,NYY,AL,Derek,Derek Sanderson,Jeter,jeterde01,jeterde01,NYA,6,NYA,2014
+1,ANA,AL,Mike,Michael Nelson,Trout,troutmi01,troutmi01,LAA,7,LAA,2014
+1,BAL,AL,Adam,Adam La Marque,Jones,jonesad01,jonesad01,BAL,8,BAL,2014
+1,TOR,AL,Jose,Jose Antonio,Bautista,bautijo02,bautijo02,TOR,9,TOR,2014
+1,CHW,AL,Jose,Jose Dariel,Abreu,abreujo02,abreujo02,CHA,,CHA,2014
+1,HOU,AL,Jose,Jose Carlos,Altuve,altuvjo01,altuvjo01,HOU,,HOU,2014
+1,ANA,AL,Erick,Erick Johan,Aybar,aybarer01,aybarer01,LAA,,LAA,2014
+1,TEX,AL,Adrian,Adrian,Beltre,beltrad01,beltrad01,TEX,,TEX,2014
+1,NYY,AL,Dellin,Dellin,Betances,betande01,betande01,NYA,,NYA,2014
+1,CLE,AL,Michael,Michael Charles,Brantley,brantmi02,brantmi02,CLE,,CLE,2014
+1,TOR,AL,Mark,Mark Alan,Buehrle,buehrma01,buehrma01,TOR,,TOR,2014
+1,OAK,AL,Yoenis,Yoenis,Cespedes,cespeyo01,cespeyo01,OAK,,OAK,2014
+1,TEX,AL,Yu,Sefat Farid Yu,Darvish,darviyu01,darviyu01,TEX,,TEX,2014
+1,OAK,AL,Sean,Sean Robert,Doolittle,doolise01,doolise01,OAK,,OAK,2014
+1,TOR,AL,Edwin,Edwin Elpidio,Encarnacion,encared01,encared01,TOR,,TOR,2014
+1,KCR,AL,Alex,Alex Jonathan,Gordon,gordoal01,gordoal01,KCA,,KCA,2014
+1,KCR,AL,Greg,Gregory Scott,Holland,hollagr01,hollagr01,KCA,,KCA,2014
+1,OAK,AL,Scott,Scott Edward,Kazmir,kazmisc01,kazmisc01,OAK,,OAK,2014
+1,DET,AL,Ian,Ian Michael,Kinsler,kinslia01,kinslia01,DET,,DET,2014
+1,BOS,AL,Jon,Jonathan Tyler,Lester,lestejo01,lestejo01,BOS,,BOS,2014
+1,DET,AL,Victor,Victor Jesus,Martinez,martivi01,martivi01,DET,,DET,2014
+1,OAK,AL,Brandon,Brandon Douglas,Moss,mossbr01,mossbr01,OAK,,OAK,2014
+1,OAK,AL,Derek,Derek Russell,Norris,norride01,norride01,OAK,,OAK,2014
+1,MIN,AL,Glen,Glen Weston,Perkins,perkigl01,perkigl01,MIN,,MIN,2014
+1,TBD,AL,David,David Taylor,Price,priceda01,priceda01,TBA,,TBA,2014
+1,CHW,AL,Alexei,Alexei Fernando,Ramirez,ramiral03,ramiral03,CHA,,CHA,2014
+1,SEA,AL,Fernando,Fernando,Rodney,rodnefe01,rodnefe01,SEA,,SEA,2014
+1,CHW,AL,Chris,Christopher,Sale,salech01,salech01,CHA,,CHA,2014
+1,DET,AL,Max,Maxwell M.,Scherzer,scherma01,scherma01,DET,,DET,2014
+1,SEA,AL,Kyle,Kyle Duerr,Seager,seageky01,seageky01,SEA,,SEA,2014
+1,MIN,AL,Kurt,Kurt Kiyoshi,Suzuki,suzukku01,suzukku01,MIN,,MIN,2014
+1,NYY,AL,Masahiro,Masahiro,Tanaka,tanakma01,tanakma01,NYA,,NYA,2014
+1,BOS,AL,Koji,Koji,Uehara,ueharko01,ueharko01,BOS,,BOS,2014
+1,BAL,AL,Matt,Matthew Richard,Wieters,wietema01,wietema01,BAL,,BAL,2014
+1,CIN,NL,Alfredo,Alfredo,Simon,simonal01,simonal01,CIN,0,CIN,2014
+1,PHI,NL,Chase,Chase Cameron,Utley,utleych01,utleych01,PHI,1,PHI,2014
+1,ATL,NL,Craig,Craig Michael,Kimbrel,kimbrcr01,kimbrcr01,ATL,2,ATL,2014
+1,ATL,NL,Freddie,Frederick Charles,Freeman,freemfr01,freemfr01,ATL,3,ATL,2014
+1,COL,NL,Troy,Troy Trever,Tulowitzki,tulowtr01,tulowtr01,COL,4,COL,2014
+1,LAD,NL,Yasiel,Yasiel,Puig,puigya01,puigya01,LAN,5,LAN,2014
+1,ATL,NL,Julio,Julio Alberto,Teheran,teherju01,teherju01,ATL,6,ATL,2014
+1,ARI,NL,Paul,Paul Edward,Goldschmidt,goldspa01,goldspa01,ARI,7,ARI,2014
+1,MIL,NL,Jonathan,Jonathan Charles,Lucroy,lucrojo01,lucrojo01,MIL,8,MIL,2014
+1,SFG,NL,Hunter,Hunter Andrew,Pence,pencehu01,pencehu01,SFN,9,SFN,2014
+1,FLO,NL,Henderson,Henderson Javier,Alvarez,alvarhe01,alvarhe01,MIA,,MIA,2014
+1,COL,NL,Charlie,Charles Cobb,Blackmon,blackch02,blackch02,COL,,COL,2014
+1,SFG,NL,Madison,Madison Kyle,Bumgarner,bumgama01,bumgama01,SFN,,SFN,2014
+1,STL,NL,Matt,Matthew Martin,Carpenter,carpema01,carpema01,SLN,,SLN,2014
+1,CHC,NL,Starlin,Starlin DeJesus,Castro,castrst01,castrst01,CHN,,CHN,2014
+1,CIN,NL,Aroldis,Albertin Aroldis,Chapman,chapmar01,chapmar01,CIN,,CIN,2014
+1,WSN,NL,Tyler,Tyler Lee,Clippard,clippty01,clippty01,WAS,,WAS,2014
+1,CIN,NL,Johnny,Johnny,Cueto,cuetojo01,cuetojo01,CIN,,CIN,2014
+1,CIN,NL,Todd,Todd Brian,Frazier,frazito01,frazito01,CIN,,CIN,2014
+1,MIL,NL,Carlos,Carlos Argelis,Gomez,gomezca01,gomezca01,MIL,,MIL,2014
+1,LAD,NL,Dee,Devaris,Gordon,gordode01,gordode01,LAN,,LAN,2014
+1,LAD,NL,Zack,Donald Zachary,Greinke,greinza01,greinza01,LAN,,LAN,2014
+1,PIT,NL,Josh,Joshua Isaiah,Harrison,harrijo05,harrijo05,PIT,,PIT,2014
+1,SFG,NL,Tim,Timothy Adam,Hudson,hudsoti01,hudsoti01,SFN,,SFN,2014
+1,LAD,NL,Clayton,Clayton Edward,Kershaw,kershcl01,kershcl01,LAN,,LAN,2014
+1,PIT,NL,Andrew,Andrew Stefan,McCutchen,mccutan01,mccutan01,PIT,,PIT,2014
+1,CIN,NL,Devin,Devin Douglas,Mesoraco,mesorde01,mesorde01,CIN,,CIN,2014
+1,STL,NL,Yadier,Yadier Benjamin,Molina,molinya01,molinya01,SLN,,SLN,2014
+1,ARI,NL,Miguel,Miguel Angel,Montero,montemi01,montemi01,ARI,,ARI,2014
+1,NYM,NL,Daniel,Daniel Thomas,Murphy,murphda08,murphda08,NYN,,NYN,2014
+1,STL,NL,Pat,Patrick John,Neshek,neshepa01,neshepa01,SLN,,SLN,2014
+1,MIL,NL,Aramis,Aramis,Ramirez,ramirar01,ramirar01,MIL,,MIL,2014
+1,CHC,NL,Anthony,Anthony Vincent,Rizzo,rizzoan01,rizzoan01,CHN,,CHN,2014
+1,MIL,NL,Francisco,Francisco Jose,Rodriguez,rodrifr03,rodrifr03,MIL,,MIL,2014
+1,SDP,NL,Tyson,Tyson William,Ross,rossty01,rossty01,SDN,,SDN,2014
+1,CHC,NL,Jeff,Jeffrey Alan,Samardzija,samarje01,samarje01,CHN,,CHN,2014
+1,FLO,NL,Giancarlo,Giancarlo Cruz-Michael,Stanton,stantmi03,stantmi03,MIA,,MIA,2014
+1,SDP,NL,Huston,Huston Lowell,Street,streehu01,streehu01,SDN,,SDN,2014
+1,STL,NL,Adam,Adam Parrish,Wainwright,wainwad01,wainwad01,SLN,,SLN,2014
+1,PIT,NL,Tony,Anthony Michael,Watson,watsoto01,watsoto01,PIT,,PIT,2014
+1,WSN,NL,Jordan,Jordan M.,Zimmermann,zimmejo02,zimmejo02,WAS,,WAS,2014
+1,ANA,AL,Albert,Jose Alberto,Pujols,pujolal01,pujolal01,LAA,3,LAA,2015
+1,ANA,AL,Mike,Michael Nelson,Trout,troutmi01,troutmi01,LAA,8,LAA,2015
+1,HOU,AL,Dallas,Dallas,Keuchel,keuchda01,keuchda01,HOU,1,HOU,2015
+1,HOU,AL,Jose,Jose Carlos,Altuve,altuvjo01,altuvjo01,HOU,4,HOU,2015
+1,OAK,AL,Stephen,Stephen Guy,Vogt,vogtst01,vogtst01,OAK,,OAK,2015
+1,TOR,AL,Josh,Joshua Adam,Donaldson,donaljo02,donaljo02,TOR,5,TOR,2015
+1,TOR,AL,Russell,Russell Nathan Coltrane,Martin,martiru01,martiru01,TOR,,TOR,2015
+1,CLE,AL,Jason,Jason Michael,Kipnis,kipnija01,kipnija01,CLE,,CLE,2015
+1,SEA,AL,Nelson,Nelson Ramon,Cruz,cruzne02,cruzne02,SEA,0,SEA,2015
+1,SEA,AL,Felix,Felix Abraham,Hernandez,hernafe02,hernafe02,SEA,,SEA,2015
+1,BAL,AL,Adam,Adam La Marque,Jones,jonesad01,jonesad01,BAL,7,BAL,2015
+1,BAL,AL,Manny,Manuel Arturo,Machado,machama01,machama01,BAL,,BAL,2015
+1,BAL,AL,Zach,Zachary Grant,Britton,brittza01,brittza01,BAL,,BAL,2015
+1,TEX,AL,Prince,Prince Semien,Fielder,fieldpr01,fieldpr01,TEX,,TEX,2015
+1,TBD,AL,Chris,Christopher Alan,Archer,archech01,archech01,TBA,,TBA,2015
+1,BOS,AL,Brock,Brock Wyatt,Holt,holtbr01,holtbr01,BOS,,BOS,2015
+1,KCR,AL,Salvador,Salvador Johan,Perez,perezsa02,perezsa02,KCA,2,KCA,2015
+1,KCR,AL,Alcides,Alcides,Escobar,escobal02,escobal02,KCA,6,KCA,2015
+1,KCR,AL,Lorenzo,Lorenzo Lamar,Cain,cainlo01,cainlo01,KCA,9,KCA,2015
+1,KCR,AL,Mike,Michael Christopher,Moustakas,moustmi01,moustmi01,KCA,,KCA,2015
+1,KCR,AL,Wade,Wade Allen,Davis,daviswa01,daviswa01,KCA,,KCA,2015
+1,DET,AL,David,David Taylor,Price,priceda01,priceda01,DET,,DET,2015
+1,DET,AL,J. D.,Julio Daniel,Martinez,martijd02,martijd02,DET,,DET,2015
+1,DET,AL,Jose,Jose Antonio,Iglesias,iglesjo01,iglesjo01,DET,,DET,2015
+1,MIN,AL,Brian,James Brian,Dozier,doziebr01,doziebr01,MIN,,MIN,2015
+1,MIN,AL,Glen,Glen Weston,Perkins,perkigl01,perkigl01,MIN,,MIN,2015
+1,NYY,AL,Brett,Brett M.,Gardner,gardnbr01,gardnbr01,NYA,,NYA,2015
+1,NYY,AL,Dellin,Dellin,Betances,betande01,betande01,NYA,,NYA,2015
+1,NYY,AL,Mark,Mark Charles,Teixeira,teixema01,teixema01,NYA,,NYA,2015
+1,MIL,NL,Francisco,Francisco Jose,Rodriguez,rodrifr03,rodrifr03,MIL,,MIL,2015
+1,MIL,NL,Ryan,Ryan Joseph,Braun,braunry02,braunry02,MIL,,MIL,2015
+1,STL,NL,Jhonny,Jhonny Antonio,Peralta,peraljh01,peraljh01,SLN,6,SLN,2015
+1,STL,NL,Yadier,Yadier Benjamin,Molina,molinya01,molinya01,SLN,,SLN,2015
+1,CHC,NL,Anthony,Anthony Vincent,Rizzo,rizzoan01,rizzoan01,CHN,0,CHN,2015
+1,CHC,NL,Kris,Kristopher Lee,Bryant,bryankr01,bryankr01,CHN,,CHN,2015
+1,ARI,NL,Paul,Paul Edward,Goldschmidt,goldspa01,goldspa01,ARI,3,ARI,2015
+1,ARI,NL,A. J.,Allen Lorenz,Pollock,polloaj01,polloaj01,ARI,,ARI,2015
+1,LAD,NL,Zack,Donald Zachary,Greinke,greinza01,greinza01,LAN,1,LAN,2015
+1,LAD,NL,Joc,Joc Russell,Pederson,pederjo01,pederjo01,LAN,7,LAN,2015
+1,LAD,NL,Adrian,Adrian Sabin,Gonzalez,gonzaad01,gonzaad01,LAN,,LAN,2015
+1,LAD,NL,Clayton,Clayton Edward,Kershaw,kershcl01,kershcl01,LAN,,LAN,2015
+1,LAD,NL,Yasmani,Yasmani,Grandal,grandya01,grandya01,LAN,,LAN,2015
+1,SFG,NL,Buster,Gerald Dempsey,Posey,poseybu01,poseybu01,SFN,2,SFN,2015
+1,SFG,NL,Brandon,Brandon Michael,Crawford,crawfbr01,crawfbr01,SFN,,SFN,2015
+1,SFG,NL,Joe,Joseph Matthew,Panik,panikjo01,panikjo01,SFN,,SFN,2015
+1,SFG,NL,Madison,Madison Kyle,Bumgarner,bumgama01,bumgama01,SFN,,SFN,2015
+1,NYM,NL,Jacob,Jacob Anthony,deGrom,degroja01,degroja01,NYN,,NYN,2015
+1,WSN,NL,Bryce,Bryce Aron Max,Harper,harpebr03,harpebr03,WAS,9,WAS,2015
+1,SDP,NL,Justin,Justin Irvin,Upton,uptonju01,uptonju01,SDN,,SDN,2015
+1,PIT,NL,Andrew,Andrew Stefan,McCutchen,mccutan01,mccutan01,PIT,8,PIT,2015
+1,PIT,NL,Gerrit,Gerrit Alan,Cole,colege01,colege01,PIT,,PIT,2015
+1,PIT,NL,Mark,Mark D.,Melancon,melanma01,melanma01,PIT,,PIT,2015
+1,CIN,NL,Todd,Todd Brian,Frazier,frazito01,frazito01,CIN,5,CIN,2015
+1,CIN,NL,Aroldis,Albertin Aroldis,Chapman,chapmar01,chapmar01,CIN,,CIN,2015
+1,COL,NL,DJ,David John,LeMahieu,lemahdj01,lemahdj01,COL,4,COL,2015
+1,COL,NL,Nolan,Nolan James,Arenado,arenano01,arenano01,COL,,COL,2015
+1,COL,NL,Troy,Troy Trever,Tulowitzki,tulowtr01,tulowtr01,COL,,COL,2015
+1,ANA,AL,Hector,Hector Felipe,Santiago,santihe01,santihe01,LAA,,LAA,2015
+1,OAK,AL,Sonny,Sonny Douglas,Gray,grayso01,grayso01,OAK,,OAK,2015
+1,TOR,AL,Jose,Jose Antonio,Bautista,bautijo02,bautijo02,TOR,,TOR,2015
+1,ATL,NL,Shelby,Shelby Charles,Miller,millesh01,millesh01,ATL,,ATL,2015
+1,STL,NL,Carlos,Carlos Ernesto,Martinez,martica04,martica04,SLN,,SLN,2015
+1,STL,NL,Michael,Michael Joseph,Wacha,wachami01,wachami01,SLN,,SLN,2015
+1,STL,NL,Trevor,Trevor Jordan,Rosenthal,rosentr01,rosentr01,SLN,,SLN,2015
+1,STL,NL,Matt,Matthew Thomas,Holliday,hollima01,hollima01,SLN,,SLN,2015
+1,FLO,NL,Dee,Devaris,Gordon,gordode01,gordode01,MIA,,MIA,2015
+1,FLO,NL,Giancarlo,Giancarlo Cruz-Michael,Stanton,stantmi03,stantmi03,MIA,,MIA,2015
+1,WSN,NL,Max,Maxwell M.,Scherzer,scherma01,scherma01,WAS,,WAS,2015
+1,BAL,AL,Darren,Darren Christopher,O'Day,odayda01,odayda01,BAL,,BAL,2015
+1,PHI,NL,Jonathan,Jonathan Robert,Papelbon,papeljo01,papeljo01,PHI,,PHI,2015
+1,PIT,NL,A. J.,Allan James,Burnett,burneaj01,burneaj01,PIT,,PIT,2015
+1,TBD,AL,Brad,Bradley George,Boxberger,boxbebr01,boxbebr01,TBA,,TBA,2015
+1,KCR,AL,Alex,Alex Jonathan,Gordon,gordoal01,gordoal01,KCA,,KCA,2015
+1,KCR,AL,Kelvin,Kelvin De Jesus,Herrera,herreke01,herreke01,KCA,,KCA,2015
+1,DET,AL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,DET,,DET,2015
+1,CHW,AL,Chris,Christopher,Sale,salech01,salech01,CHA,,CHA,2015
+1,HOU,AL,Jose,Jose Carlos,Altuve,altuvjo01,altuvjo01,HOU,4,HOU,2016
+1,BAL,AL,Brad,Brad,Brach,brachbr01,brachbr01,BAL,,BAL,2016
+1,BAL,AL,Zach,Zachary Grant,Britton,brittza01,brittza01,BAL,,BAL,2016
+1,BOS,AL,Mookie,Markus Lynn,Betts,bettsmo01,bettsmo01,BOS,9,BOS,2016
+1,BOS,AL,Xander,Xander Jan,Bogaerts,bogaexa01,bogaexa01,BOS,6,BOS,2016
+1,BOS,AL,Jackie,Jackie,Bradley,bradlja02,bradlja02,BOS,7,BOS,2016
+1,NYY,AL,Carlos,Carlos Ivan,Beltran,beltrca01,beltrca01,NYA,,NYA,2016
+1,NYY,AL,Dellin,Dellin,Betances,betande01,betande01,NYA,,NYA,2016
+1,DET,AL,Miguel,Jose Miguel,Cabrera,cabremi01,cabremi01,DET,,DET,2016
+1,KCR,AL,Wade,Wade Allen,Davis,daviswa01,daviswa01,KCA,,KCA,2016
+1,SEA,AL,Robinson,Robinson Jose,Cano,canoro01,canoro01,SEA,,SEA,2016
+1,TBD,AL,Alex,Alexander Manuel,Colome,colomal01,colomal01,TBA,,TBA,2016
+1,TEX,AL,Ian,Ian M.,Desmond,desmoia01,desmoia01,TEX,,TEX,2016
+1,TOR,AL,Josh,Joshua Adam,Donaldson,donaljo02,donaljo02,TOR,,TOR,2016
+1,TOR,AL,Edwin,Edwin Elpidio,Encarnacion,encared01,encared01,TOR,,TOR,2016
+1,TOR,AL,Marco,Marco Rene,Estrada,estrama01,estrama01,TOR,,TOR,2016
+1,TEX,AL,Cole,Colbert Michael,Hamels,hamelco01,hamelco01,TEX,,TEX,2016
+1,HOU,AL,Will,William Taylor,Harris,harriwi02,harriwi02,HOU,,HOU,2016
+1,KCR,AL,Kelvin,Kelvin De Jesus,Herrera,herreke01,herreke01,KCA,,KCA,2016
+1,KCR,AL,Eric,Eric John,Hosmer,hosmeer01,hosmeer01,KCA,3,KCA,2016
+1,BOS,AL,Craig,Craig Michael,Kimbrel,kimbrcr01,kimbrcr01,BOS,,BOS,2016
+1,CLE,AL,Corey,Corey Scott,Kluber,klubeco01,klubeco01,CLE,,CLE,2016
+1,CLE,AL,Francisco,Francisco Miguel,Lindor,lindofr01,lindofr01,CLE,,CLE,2016
+1,BAL,AL,Manny,Manuel Arturo,Machado,machama01,machama01,BAL,5,BAL,2016
+1,NYY,AL,Andrew,Andrew Mark,Miller,millean01,millean01,NYA,,NYA,2016
+1,MIN,AL,Eduardo,Eduardo Michelle,Nunez,nunezed02,nunezed02,MIN,,MIN,2016
+1,BOS,AL,David,David Americo,Ortiz,ortizda01,ortizda01,BOS,0,BOS,2016
+1,KCR,AL,Salvador,Salvador Johan,Perez,perezsa02,perezsa02,KCA,2,KCA,2016
+1,CHW,AL,Jose,Jose Guillermo,Quintana,quintjo01,quintjo01,CHA,,CHA,2016
+1,CLE,AL,Danny,Daniel Dariel,Salazar,salazda01,salazda01,CLE,,CLE,2016
+1,CHW,AL,Chris,Christopher,Sale,salech01,salech01,CHA,1,CHA,2016
+1,TOR,AL,Aaron,Aaron Jacob,Sanchez,sanchaa01,sanchaa01,TOR,,TOR,2016
+1,TOR,AL,Michael,Michael Edward Brett,Saunders,saundmi01,saundmi01,TOR,,TOR,2016
+1,ANA,AL,Mike,Michael Nelson,Trout,troutmi01,troutmi01,LAA,8,LAA,2016
+1,BAL,AL,Mark,Mark Daniel,Trumbo,trumbma01,trumbma01,BAL,,BAL,2016
+1,OAK,AL,Stephen,Stephen Guy,Vogt,vogtst01,vogtst01,OAK,,OAK,2016
+1,BAL,AL,Matt,Matthew Richard,Wieters,wietema01,wietema01,BAL,,BAL,2016
+1,BOS,AL,Steven,Steven Richard,Wright,wrighst01,wrighst01,BOS,,BOS,2016
+1,COL,NL,Nolan,Nolan James,Arenado,arenano01,arenano01,COL,,COL,2016
+1,CHC,NL,Jake,Jacob Joseph,Arrieta,arrieja01,arrieja01,CHN,,CHN,2016
+1,CHC,NL,Kris,Kristopher Lee,Bryant,bryankr01,bryankr01,CHN,5,CHN,2016
+1,CHC,NL,Dexter,William Dexter,Fowler,fowlede01,fowlede01,CHN,,CHN,2016
+1,SFG,NL,Brandon,Brandon Kyle,Belt,beltbr01,beltbr01,SFN,,SFN,2016
+1,SFG,NL,Madison,Madison Kyle,Bumgarner,bumgama01,bumgama01,SFN,,SFN,2016
+1,SFG,NL,Johnny,Johnny,Cueto,cuetojo01,cuetojo01,SFN,1,SFN,2016
+1,CIN,NL,Jay,Jay Allen,Bruce,bruceja01,bruceja01,CIN,,CIN,2016
+1,CIN,NL,Adam,Adam Lynn,Duvall,duvalad01,duvalad01,CIN,,CIN,2016
+1,STL,NL,Matt,Matthew Martin,Carpenter,carpema01,carpema01,SLN,,SLN,2016
+1,STL,NL,Aledmys,Aledmys,Diaz,diazal02,diazal02,SLN,,SLN,2016
+1,NYM,NL,Yoenis,Yoenis,Cespedes,cespeyo01,cespeyo01,NYN,,NYN,2016
+1,NYM,NL,Bartolo,Bartolo,Colon,colonba01,colonba01,NYN,,NYN,2016
+1,NYM,NL,Jeurys,Jeurys,Familia,familje01,familje01,NYN,,NYN,2016
+1,FLO,NL,Jose,Jose D.,Fernandez,fernajo02,fernajo02,MIA,,MIA,2016
+1,ARI,NL,Paul,Paul Edward,Goldschmidt,goldspa01,goldspa01,ARI,,ARI,2016
+1,COL,NL,Carlos,Carlos Eduardo,Gonzalez,gonzaca01,gonzaca01,COL,7,COL,2016
+1,WSN,NL,Bryce,Bryce Aron Max,Harper,harpebr03,harpebr03,WAS,9,WAS,2016
+1,PHI,NL,Odubel,David Odubel,Herrera,herreod01,herreod01,PHI,,PHI,2016
+1,LAD,NL,Kenley,Kenley Geronimo,Jansen,janseke01,janseke01,LAN,,LAN,2016
+1,LAD,NL,Clayton,Clayton Edward,Kershaw,kershcl01,kershcl01,LAN,,LAN,2016
+1,CHC,NL,Jon,Jonathan Tyler,Lester,lestejo01,lestejo01,CHN,,CHN,2016
+1,MIL,NL,Jonathan,Jonathan Charles,Lucroy,lucrojo01,lucrojo01,MIL,,MIL,2016
+1,PIT,NL,Starling,Starling Javier,Marte,martest01,martest01,PIT,,PIT,2016
+1,PIT,NL,Mark,Mark D.,Melancon,melanma01,melanma01,PIT,,PIT,2016
+1,WSN,NL,Daniel,Daniel Thomas,Murphy,murphda08,murphda08,WAS,,WAS,2016
+1,SDP,NL,Wil,William Bradford,Myers,myerswi01,myerswi01,SDN,0,SDN,2016
+1,FLO,NL,Marcell,Marcell,Ozuna,ozunama01,ozunama01,MIA,8,MIA,2016
+1,SDP,NL,Drew,Thomas Andrew,Pomeranz,pomerdr01,pomerdr01,SDN,,SDN,2016
+1,SFG,NL,Buster,Gerald Dempsey,Posey,poseybu01,poseybu01,SFN,2,SFN,2016
+1,FLO,NL,A. J.,Alejandro,Ramos,ramosaj01,ramosaj01,MIA,,MIA,2016
+1,WSN,NL,Wilson,Wilson Abraham,Ramos,ramoswi01,ramoswi01,WAS,,WAS,2016
+1,CHC,NL,Anthony,Anthony Vincent,Rizzo,rizzoan01,rizzoan01,CHN,3,CHN,2016
+1,FLO,NL,Fernando,Fernando,Rodney,rodnefe01,rodnefe01,MIA,,MIA,2016
+1,CHC,NL,Addison,Addison Warren,Russell,russead02,russead02,CHN,6,CHN,2016
+1,WSN,NL,Max,Maxwell M.,Scherzer,scherma01,scherma01,WAS,,WAS,2016
+1,LAD,NL,Corey,Corey Drew,Seager,seageco01,seageco01,LAN,,LAN,2016
+1,WSN,NL,Stephen,Stephen James,Strasburg,strasst01,strasst01,WAS,,WAS,2016
+1,NYM,NL,Noah,Noah Seth,Syndergaard,syndeno01,syndeno01,NYN,,NYN,2016
+1,ATL,NL,Julio,Julio Alberto,Teheran,teherju01,teherju01,ATL,,ATL,2016
+1,CHC,NL,Ben,Benjamin Thomas,Zobrist,zobribe01,zobribe01,CHN,4,CHN,2016
